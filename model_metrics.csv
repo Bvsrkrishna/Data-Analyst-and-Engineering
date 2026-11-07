@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2,Spearman,Top10%_capture
+Baseline (hist. run-rate),469.503,752.478,-0.952,0.496,0.343
+OLS (statsmodels),256.812,458.994,0.274,0.601,0.331
+GradientBoosting (sklearn),236.491,462.626,0.262,0.618,0.341

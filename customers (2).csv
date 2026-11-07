@@ -1,0 +1,4001 @@
+customer_id,signup_date,country,acquisition_channel,age,gender
+1,2024-10-24,UK,Social,27,F
+2,2024-09-24,India,Social,25,F
+3,2024-04-09,Australia,Referral,46,M
+4,2024-08-16,USA,Paid Search,50,F
+5,2024-05-23,India,Organic,24,F
+6,2024-06-29,USA,Paid Search,63,F
+7,2025-02-14,India,Social,33,M
+8,2025-01-13,India,Organic,52,M
+9,2024-12-30,Germany,Social,57,F
+10,2024-08-05,India,Organic,19,F
+11,2025-07-29,Canada,Email,62,F
+12,2024-02-22,Australia,Email,68,M
+13,2024-07-24,UK,Paid Search,67,M
+14,2024-03-11,Germany,Referral,25,M
+15,2024-07-22,Germany,Referral,38,M
+16,2025-07-31,Australia,Organic,30,F
+17,2024-08-07,USA,Paid Search,41,F
+18,2025-06-29,India,Social,68,F
+19,2024-10-24,USA,Organic,57,F
+20,2025-02-23,USA,Paid Search,58,F
+21,2024-10-01,India,Organic,39,M
+22,2024-06-08,UK,Referral,66,F
+23,2025-04-03,India,Paid Search,65,M
+24,2025-08-04,Australia,Email,59,F
+25,2024-06-07,India,Paid Search,60,F
+26,2025-04-12,India,Organic,51,M
+27,2024-06-05,India,Email,22,F
+28,2025-03-06,India,Organic,32,F
+29,2025-04-18,India,Organic,57,F
+30,2024-09-26,India,Paid Search,34,M
+31,2025-03-18,India,Social,26,F
+32,2024-06-12,India,Paid Search,67,M
+33,2024-02-17,USA,Organic,43,Other
+34,2024-02-27,USA,Paid Search,62,M
+35,2024-09-25,USA,Organic,32,F
+36,2025-06-25,USA,Organic,36,M
+37,2024-03-17,India,Paid Search,35,F
+38,2024-09-30,India,Organic,37,M
+39,2025-02-26,India,Organic,40,M
+40,2024-05-01,Germany,Social,33,F
+41,2025-03-08,Australia,Social,60,F
+42,2024-07-02,Australia,Organic,34,M
+43,2025-04-30,USA,Paid Search,40,M
+44,2024-12-13,USA,Organic,62,M
+45,2024-11-24,USA,Referral,40,M
+46,2024-04-16,Germany,Organic,18,M
+47,2024-10-04,Germany,Organic,18,M
+48,2025-05-28,Canada,Paid Search,40,M
+49,2024-01-12,Canada,Organic,51,F
+50,2025-03-31,USA,Organic,67,M
+51,2024-10-22,Germany,Organic,24,M
+52,2025-03-07,Canada,Social,46,F
+53,2025-02-01,USA,Social,33,F
+54,2024-09-16,Australia,Social,41,F
+55,2024-07-04,India,Email,41,F
+56,2025-01-11,Australia,Paid Search,34,M
+57,2024-03-25,Germany,Referral,18,F
+58,2024-12-16,India,Social,21,M
+59,2024-02-26,UK,Email,45,F
+60,2025-01-24,India,Social,29,M
+61,2025-01-12,Germany,Paid Search,35,M
+62,2024-02-20,Germany,Organic,22,M
+63,2025-03-30,UK,Paid Search,20,M
+64,2024-09-06,Canada,Organic,24,F
+65,2025-04-17,India,Paid Search,37,M
+66,2024-01-25,India,Organic,26,M
+67,2024-04-17,USA,Organic,30,F
+68,2024-10-23,India,Referral,33,Other
+69,2024-04-22,USA,Social,33,F
+70,2024-07-16,India,Social,18,M
+71,2025-01-31,USA,Paid Search,24,F
+72,2024-03-27,USA,Social,67,M
+73,2025-02-10,Canada,Email,52,F
+74,2024-03-03,India,Social,24,F
+75,2024-04-15,Canada,Social,32,F
+76,2024-12-18,USA,Paid Search,37,Other
+77,2025-04-21,USA,Paid Search,65,F
+78,2024-04-12,USA,Social,63,M
+79,2024-06-28,USA,Referral,58,M
+80,2025-07-09,India,Paid Search,23,M
+81,2025-08-16,USA,Paid Search,43,F
+82,2024-12-14,India,Paid Search,43,M
+83,2024-09-25,USA,Paid Search,51,M
+84,2024-07-27,UK,Referral,61,F
+85,2025-01-02,USA,Social,34,F
+86,2024-12-20,Canada,Paid Search,46,M
+87,2024-06-25,India,Paid Search,31,F
+88,2024-01-14,Australia,Paid Search,28,F
+89,2024-03-31,Germany,Organic,34,F
+90,2025-07-29,Australia,Paid Search,56,M
+91,2024-09-07,Canada,Email,40,M
+92,2024-10-16,India,Social,53,M
+93,2024-10-07,USA,Organic,53,M
+94,2025-04-14,India,Social,36,F
+95,2024-02-08,Canada,Social,67,F
+96,2024-02-19,UK,Organic,20,F
+97,2024-06-14,India,Social,64,F
+98,2024-10-18,Australia,Social,18,F
+99,2025-02-06,India,Email,37,M
+100,2024-10-21,UK,Organic,60,F
+101,2024-09-21,Germany,Organic,53,F
+102,2025-07-16,India,Paid Search,34,F
+103,2024-04-06,UK,Organic,64,F
+104,2024-12-09,Canada,Paid Search,25,F
+105,2024-11-21,India,Email,52,F
+106,2024-10-11,USA,Organic,44,F
+107,2025-04-29,India,Paid Search,28,M
+108,2024-06-09,UK,Referral,65,M
+109,2025-07-26,India,Paid Search,57,M
+110,2024-07-17,Australia,Paid Search,18,M
+111,2024-11-23,Canada,Social,22,M
+112,2024-11-08,India,Organic,20,M
+113,2025-05-24,USA,Organic,39,M
+114,2024-09-20,UK,Social,39,M
+115,2024-06-19,Germany,Paid Search,55,F
+116,2024-01-13,USA,Organic,53,F
+117,2024-08-06,India,Organic,18,F
+118,2025-05-10,India,Email,42,F
+119,2024-01-06,Australia,Organic,58,M
+120,2025-06-21,USA,Social,64,F
+121,2024-11-21,Canada,Paid Search,33,M
+122,2024-03-25,USA,Social,20,M
+123,2024-06-30,Australia,Organic,25,M
+124,2024-11-28,India,Organic,35,F
+125,2024-07-08,India,Paid Search,41,F
+126,2024-03-06,Australia,Social,36,F
+127,2025-02-03,Australia,Organic,22,Other
+128,2025-02-07,USA,Paid Search,35,M
+129,2024-03-12,USA,Paid Search,33,M
+130,2024-06-17,USA,Organic,43,M
+131,2024-05-26,USA,Social,22,M
+132,2025-01-30,India,Organic,59,M
+133,2025-03-14,Canada,Paid Search,39,F
+134,2025-03-12,India,Organic,34,F
+135,2025-07-17,Germany,Paid Search,65,F
+136,2025-04-06,India,Paid Search,56,M
+137,2024-07-11,India,Paid Search,25,M
+138,2024-03-05,UK,Paid Search,25,M
+139,2025-01-03,USA,Referral,18,M
+140,2025-07-03,UK,Paid Search,47,M
+141,2025-08-08,India,Email,36,F
+142,2024-05-18,Australia,Organic,37,F
+143,2024-05-21,Germany,Paid Search,44,M
+144,2024-01-23,Canada,Organic,46,M
+145,2024-03-25,India,Paid Search,18,M
+146,2024-11-28,USA,Social,23,F
+147,2024-11-24,USA,Email,59,Other
+148,2024-08-10,USA,Social,67,M
+149,2024-07-04,India,Social,61,M
+150,2025-05-12,India,Organic,65,F
+151,2024-10-03,USA,Organic,42,M
+152,2025-04-29,India,Email,60,M
+153,2025-07-31,USA,Organic,63,M
+154,2024-07-09,India,Organic,64,M
+155,2024-05-01,India,Referral,25,M
+156,2025-07-25,UK,Referral,25,M
+157,2025-01-15,USA,Social,38,M
+158,2024-06-23,USA,Paid Search,44,F
+159,2025-01-08,USA,Email,67,F
+160,2024-11-05,Germany,Organic,34,F
+161,2025-06-27,USA,Paid Search,61,M
+162,2024-06-02,UK,Paid Search,64,F
+163,2025-08-17,Australia,Referral,68,F
+164,2025-07-15,USA,Referral,27,M
+165,2024-04-18,Australia,Social,30,M
+166,2024-04-08,Germany,Organic,29,F
+167,2024-11-15,India,Paid Search,56,F
+168,2024-01-27,USA,Organic,53,M
+169,2024-06-28,UK,Email,39,F
+170,2024-09-18,Australia,Organic,22,F
+171,2025-08-04,USA,Organic,45,F
+172,2025-08-18,India,Social,56,F
+173,2024-03-31,UK,Paid Search,42,M
+174,2025-06-19,India,Email,31,F
+175,2024-02-24,Germany,Organic,48,M
+176,2025-03-25,USA,Email,52,F
+177,2025-05-22,Germany,Organic,48,F
+178,2025-06-18,Canada,Organic,63,F
+179,2024-05-14,UK,Paid Search,34,M
+180,2025-06-20,UK,Organic,49,F
+181,2024-03-10,Germany,Social,62,F
+182,2024-11-07,Canada,Organic,29,F
+183,2024-10-08,Canada,Organic,32,M
+184,2024-07-08,India,Social,20,F
+185,2024-01-14,UK,Organic,37,M
+186,2025-04-08,India,Social,20,M
+187,2024-07-20,Canada,Social,56,M
+188,2025-01-31,UK,Organic,22,M
+189,2024-09-03,USA,Email,54,F
+190,2024-08-12,India,Organic,48,M
+191,2025-06-15,USA,Paid Search,69,M
+192,2024-02-26,Germany,Organic,36,F
+193,2025-03-17,India,Email,35,M
+194,2025-03-24,India,Social,30,F
+195,2024-08-15,Canada,Paid Search,45,M
+196,2024-06-06,Germany,Referral,29,M
+197,2024-01-04,India,Paid Search,23,M
+198,2025-07-16,India,Email,67,F
+199,2025-07-22,Australia,Social,53,M
+200,2024-05-24,Germany,Referral,24,M
+201,2024-01-20,UK,Referral,50,F
+202,2024-03-14,USA,Referral,33,M
+203,2024-02-10,India,Organic,27,M
+204,2025-05-13,India,Email,42,M
+205,2025-06-19,Germany,Email,58,Other
+206,2024-04-01,India,Social,18,F
+207,2025-03-24,India,Organic,36,F
+208,2024-04-17,Germany,Referral,65,F
+209,2024-08-08,Australia,Organic,38,F
+210,2024-12-25,Germany,Paid Search,23,F
+211,2025-03-07,USA,Paid Search,40,M
+212,2025-06-08,USA,Organic,53,F
+213,2024-01-27,USA,Social,69,M
+214,2024-04-27,USA,Organic,50,F
+215,2024-06-17,USA,Social,20,F
+216,2024-07-05,USA,Email,60,M
+217,2025-08-21,UK,Paid Search,58,M
+218,2025-04-11,Canada,Social,51,F
+219,2024-07-11,Australia,Organic,64,M
+220,2025-08-06,India,Email,58,M
+221,2024-10-26,USA,Referral,30,F
+222,2024-10-27,India,Organic,39,M
+223,2024-09-17,USA,Social,44,M
+224,2024-03-27,India,Paid Search,43,F
+225,2025-07-14,India,Paid Search,51,M
+226,2024-01-09,Germany,Social,54,M
+227,2024-04-14,USA,Paid Search,23,F
+228,2024-05-17,Australia,Social,47,M
+229,2024-06-16,India,Organic,20,F
+230,2024-03-20,India,Paid Search,44,F
+231,2024-01-11,USA,Email,39,F
+232,2025-02-10,India,Organic,28,F
+233,2025-08-04,India,Social,69,F
+234,2024-03-14,Australia,Organic,31,F
+235,2024-06-26,India,Email,20,M
+236,2024-10-30,India,Social,36,F
+237,2025-07-10,UK,Paid Search,57,F
+238,2025-02-20,USA,Organic,18,M
+239,2025-04-04,UK,Paid Search,43,F
+240,2024-12-14,USA,Referral,39,M
+241,2024-09-07,Canada,Paid Search,63,M
+242,2024-04-29,India,Paid Search,18,F
+243,2025-06-02,USA,Social,18,F
+244,2025-04-27,UK,Paid Search,47,M
+245,2024-01-16,Canada,Paid Search,27,F
+246,2025-03-05,USA,Paid Search,54,M
+247,2024-02-20,UK,Organic,32,M
+248,2025-03-19,India,Social,47,M
+249,2025-05-10,India,Email,19,F
+250,2024-03-19,India,Referral,54,M
+251,2024-09-17,Germany,Email,44,F
+252,2024-03-15,India,Paid Search,18,M
+253,2024-12-06,Germany,Organic,31,M
+254,2025-07-10,India,Social,21,F
+255,2024-02-18,Canada,Referral,20,F
+256,2024-08-26,Canada,Social,54,F
+257,2025-08-06,India,Paid Search,40,M
+258,2024-06-29,India,Social,59,F
+259,2024-03-20,India,Email,31,M
+260,2024-10-20,Canada,Referral,55,M
+261,2024-11-01,India,Email,49,F
+262,2025-02-01,USA,Paid Search,52,M
+263,2024-07-07,USA,Organic,61,F
+264,2025-07-27,Germany,Paid Search,54,F
+265,2024-11-08,USA,Paid Search,56,M
+266,2024-06-20,USA,Referral,56,F
+267,2025-07-30,Australia,Paid Search,41,M
+268,2025-07-08,India,Paid Search,55,Other
+269,2024-10-26,Canada,Paid Search,61,F
+270,2024-01-15,India,Social,56,M
+271,2024-12-24,USA,Paid Search,49,F
+272,2024-11-29,Canada,Organic,21,M
+273,2024-03-29,UK,Email,40,Other
+274,2025-01-15,UK,Paid Search,21,M
+275,2025-05-19,India,Paid Search,23,M
+276,2024-03-04,USA,Organic,36,F
+277,2025-03-09,USA,Social,42,M
+278,2024-03-25,USA,Social,45,F
+279,2025-03-25,USA,Email,64,M
+280,2024-09-08,USA,Organic,57,F
+281,2024-01-04,USA,Referral,39,F
+282,2025-08-02,India,Social,35,F
+283,2024-04-09,USA,Organic,55,F
+284,2024-12-23,India,Organic,32,F
+285,2024-04-18,Canada,Organic,63,F
+286,2025-07-13,UK,Email,58,M
+287,2025-03-18,India,Organic,53,M
+288,2025-04-27,UK,Paid Search,30,F
+289,2024-09-16,Canada,Social,50,M
+290,2024-10-07,India,Email,60,F
+291,2025-01-15,India,Social,21,M
+292,2025-04-15,India,Email,27,F
+293,2025-05-23,India,Organic,44,M
+294,2024-01-11,Germany,Email,36,F
+295,2025-02-02,Australia,Organic,54,F
+296,2024-03-06,India,Organic,38,M
+297,2024-06-21,Germany,Referral,69,M
+298,2025-05-12,India,Organic,33,M
+299,2024-05-30,UK,Organic,36,F
+300,2025-04-23,Germany,Social,18,M
+301,2024-10-04,USA,Paid Search,30,M
+302,2024-05-19,India,Organic,30,F
+303,2024-07-19,UK,Social,57,F
+304,2024-11-14,Australia,Email,35,F
+305,2025-04-04,India,Email,28,F
+306,2024-12-29,India,Organic,34,F
+307,2025-07-13,India,Social,47,F
+308,2025-06-04,UK,Email,58,M
+309,2025-03-28,UK,Organic,68,M
+310,2024-12-27,Germany,Organic,20,M
+311,2024-06-22,Germany,Organic,61,M
+312,2024-09-04,Canada,Paid Search,38,F
+313,2024-03-12,Canada,Organic,60,M
+314,2024-08-12,India,Social,19,M
+315,2025-07-09,UK,Referral,50,M
+316,2024-09-12,India,Organic,66,F
+317,2024-03-09,USA,Social,20,M
+318,2025-01-26,Australia,Organic,59,M
+319,2025-07-31,UK,Organic,23,M
+320,2025-06-04,Australia,Email,69,M
+321,2024-06-13,USA,Paid Search,56,M
+322,2024-09-29,USA,Referral,65,M
+323,2024-11-14,USA,Paid Search,64,M
+324,2024-05-28,India,Organic,34,Other
+325,2024-06-10,India,Paid Search,39,M
+326,2024-05-21,USA,Organic,53,F
+327,2025-08-19,India,Email,27,M
+328,2025-03-23,Australia,Social,33,F
+329,2025-05-19,India,Paid Search,23,F
+330,2025-05-04,India,Paid Search,64,F
+331,2025-07-29,Germany,Social,30,M
+332,2024-03-04,India,Email,39,F
+333,2025-06-12,Australia,Organic,41,F
+334,2024-02-09,Germany,Organic,37,F
+335,2024-10-12,India,Organic,58,M
+336,2024-12-22,UK,Paid Search,65,M
+337,2024-08-02,UK,Paid Search,47,Other
+338,2024-03-28,Germany,Organic,61,F
+339,2024-04-25,Canada,Paid Search,23,F
+340,2025-05-09,Germany,Paid Search,68,M
+341,2024-07-10,UK,Organic,24,F
+342,2024-07-05,USA,Referral,21,Other
+343,2025-07-08,UK,Social,19,M
+344,2024-03-27,Australia,Paid Search,30,M
+345,2025-07-03,UK,Paid Search,61,F
+346,2025-07-06,UK,Paid Search,33,F
+347,2024-12-25,USA,Email,59,M
+348,2024-04-09,Germany,Social,40,F
+349,2024-04-03,Australia,Paid Search,23,M
+350,2024-06-19,India,Referral,42,M
+351,2024-12-12,India,Email,30,F
+352,2024-04-02,USA,Email,33,F
+353,2024-09-30,USA,Organic,44,M
+354,2024-03-10,UK,Organic,59,F
+355,2024-11-20,India,Social,48,M
+356,2024-01-13,USA,Paid Search,29,M
+357,2025-03-01,UK,Social,55,M
+358,2024-02-03,UK,Email,54,F
+359,2024-04-26,UK,Organic,30,F
+360,2024-04-14,Germany,Organic,62,M
+361,2025-05-13,UK,Paid Search,61,M
+362,2024-02-02,Germany,Organic,49,M
+363,2024-09-14,UK,Social,33,M
+364,2024-12-20,USA,Social,36,M
+365,2024-11-05,UK,Paid Search,40,F
+366,2025-02-12,India,Social,27,F
+367,2025-04-26,India,Paid Search,33,M
+368,2024-08-24,USA,Social,24,F
+369,2025-05-11,Canada,Organic,26,M
+370,2024-07-09,UK,Social,56,F
+371,2025-08-13,India,Social,24,F
+372,2024-10-29,UK,Organic,42,F
+373,2025-03-17,India,Social,40,M
+374,2025-06-09,Germany,Email,20,M
+375,2025-04-20,Canada,Organic,61,F
+376,2025-05-25,UK,Social,69,F
+377,2024-11-17,UK,Referral,51,F
+378,2024-01-27,USA,Email,52,F
+379,2024-10-22,USA,Paid Search,30,M
+380,2024-04-18,Canada,Social,61,F
+381,2025-06-17,Germany,Referral,58,F
+382,2024-05-22,USA,Social,40,F
+383,2024-05-16,USA,Organic,54,M
+384,2024-05-29,India,Organic,67,M
+385,2025-01-20,India,Email,49,M
+386,2024-12-08,India,Paid Search,28,M
+387,2025-07-23,USA,Organic,35,Other
+388,2024-09-06,Australia,Paid Search,27,F
+389,2024-06-18,USA,Email,35,M
+390,2024-01-30,India,Paid Search,64,M
+391,2024-01-05,India,Email,27,F
+392,2024-08-12,USA,Social,64,M
+393,2025-07-09,Canada,Referral,32,M
+394,2024-11-10,USA,Email,43,M
+395,2025-06-20,Germany,Organic,45,F
+396,2024-03-02,Canada,Social,24,F
+397,2024-02-25,India,Organic,27,M
+398,2025-05-15,UK,Referral,33,F
+399,2024-03-05,Australia,Organic,21,F
+400,2024-02-01,USA,Social,57,F
+401,2024-08-30,India,Email,46,M
+402,2025-07-08,Australia,Organic,61,M
+403,2025-02-17,Canada,Email,62,M
+404,2024-02-29,USA,Organic,36,M
+405,2025-05-17,UK,Paid Search,60,F
+406,2025-05-21,India,Paid Search,21,F
+407,2025-04-25,Canada,Paid Search,40,F
+408,2025-06-25,USA,Social,52,F
+409,2024-05-23,India,Referral,42,M
+410,2025-08-10,UK,Paid Search,56,F
+411,2024-07-11,Australia,Social,62,F
+412,2025-04-26,Canada,Email,40,M
+413,2024-12-13,India,Email,32,M
+414,2025-04-12,India,Organic,48,F
+415,2025-01-11,Australia,Referral,63,M
+416,2025-01-20,Australia,Organic,69,M
+417,2025-01-04,USA,Social,60,M
+418,2025-04-12,UK,Social,30,M
+419,2025-03-19,USA,Email,28,F
+420,2024-03-21,USA,Organic,47,F
+421,2025-05-10,India,Organic,38,F
+422,2024-11-17,India,Email,49,M
+423,2024-07-12,India,Organic,66,M
+424,2024-11-04,Canada,Paid Search,46,M
+425,2025-08-03,India,Social,36,M
+426,2025-05-29,India,Social,63,F
+427,2025-05-15,USA,Organic,40,F
+428,2024-10-04,India,Paid Search,49,F
+429,2025-04-15,India,Referral,25,F
+430,2024-08-19,UK,Paid Search,44,M
+431,2025-02-15,USA,Organic,40,M
+432,2025-01-18,UK,Organic,24,F
+433,2024-05-29,Australia,Paid Search,29,M
+434,2024-06-08,India,Referral,54,F
+435,2024-02-06,Australia,Paid Search,27,M
+436,2024-03-24,Australia,Organic,24,F
+437,2024-09-17,Canada,Paid Search,20,M
+438,2024-10-13,UK,Organic,19,F
+439,2024-04-09,UK,Organic,40,F
+440,2024-09-07,UK,Referral,43,M
+441,2024-12-28,UK,Social,50,F
+442,2024-05-19,India,Organic,47,F
+443,2024-07-21,Australia,Paid Search,45,F
+444,2024-08-08,UK,Organic,69,M
+445,2024-10-30,Germany,Organic,30,F
+446,2024-08-07,USA,Social,55,M
+447,2025-03-18,India,Paid Search,22,M
+448,2024-07-15,USA,Social,62,M
+449,2024-09-17,USA,Email,36,F
+450,2024-08-15,USA,Organic,36,M
+451,2024-04-19,USA,Referral,25,F
+452,2025-02-15,India,Paid Search,44,M
+453,2024-05-21,USA,Organic,38,F
+454,2024-06-27,USA,Email,68,M
+455,2025-04-20,Australia,Organic,27,M
+456,2025-07-23,India,Social,39,F
+457,2025-02-06,USA,Social,64,F
+458,2025-07-03,India,Organic,59,F
+459,2025-05-27,USA,Email,57,M
+460,2024-10-15,USA,Organic,45,F
+461,2025-04-07,UK,Email,63,M
+462,2024-07-16,Australia,Organic,29,M
+463,2024-10-03,India,Organic,60,M
+464,2024-11-17,UK,Paid Search,48,F
+465,2025-07-30,India,Email,36,F
+466,2025-05-24,India,Organic,29,F
+467,2024-10-20,USA,Email,45,M
+468,2025-01-26,India,Organic,18,F
+469,2024-05-01,UK,Paid Search,55,F
+470,2025-04-27,UK,Paid Search,30,F
+471,2024-11-27,Germany,Organic,38,M
+472,2024-11-15,USA,Referral,28,M
+473,2025-04-04,UK,Paid Search,42,F
+474,2025-01-14,USA,Social,37,F
+475,2024-02-13,India,Social,27,F
+476,2024-06-21,India,Paid Search,64,F
+477,2024-04-16,UK,Social,57,Other
+478,2025-03-16,Australia,Email,38,F
+479,2024-01-22,India,Social,20,M
+480,2024-05-01,UK,Paid Search,61,M
+481,2024-12-24,Germany,Social,54,M
+482,2025-02-20,Canada,Social,46,F
+483,2024-10-28,USA,Paid Search,49,M
+484,2025-05-31,UK,Social,18,F
+485,2025-07-05,UK,Paid Search,42,F
+486,2024-03-20,Canada,Email,27,Other
+487,2025-07-25,India,Referral,51,F
+488,2025-01-03,Australia,Referral,66,F
+489,2025-01-16,India,Email,45,F
+490,2024-02-27,Canada,Social,49,F
+491,2025-01-08,India,Social,52,M
+492,2025-03-11,India,Organic,66,M
+493,2024-12-14,India,Paid Search,19,M
+494,2024-02-20,USA,Organic,34,F
+495,2024-11-09,USA,Organic,31,F
+496,2025-07-15,India,Referral,55,F
+497,2025-03-10,USA,Email,41,M
+498,2024-03-23,USA,Paid Search,58,M
+499,2025-07-29,Germany,Organic,42,M
+500,2025-07-29,Canada,Social,68,M
+501,2024-04-11,UK,Paid Search,57,M
+502,2025-04-25,India,Email,18,F
+503,2024-09-01,India,Referral,69,M
+504,2024-12-22,Australia,Paid Search,67,M
+505,2024-09-24,India,Organic,20,M
+506,2025-04-14,USA,Organic,38,F
+507,2025-08-20,Australia,Organic,68,M
+508,2025-04-22,Australia,Paid Search,61,F
+509,2025-07-12,USA,Organic,42,M
+510,2025-07-21,UK,Organic,46,M
+511,2024-02-24,USA,Organic,19,M
+512,2024-06-01,Germany,Organic,47,F
+513,2025-03-09,India,Social,52,F
+514,2024-12-20,India,Organic,36,M
+515,2024-01-31,UK,Email,33,M
+516,2024-02-27,India,Organic,61,M
+517,2024-11-08,UK,Organic,41,F
+518,2025-01-04,USA,Organic,31,M
+519,2024-04-10,Canada,Social,37,M
+520,2024-04-12,Canada,Organic,43,F
+521,2024-03-18,USA,Paid Search,31,F
+522,2024-12-04,Germany,Organic,47,M
+523,2024-01-05,India,Referral,62,F
+524,2024-12-09,USA,Organic,56,M
+525,2024-10-12,India,Paid Search,30,M
+526,2024-10-06,Canada,Email,42,F
+527,2025-02-11,Canada,Organic,46,F
+528,2024-11-09,Australia,Organic,53,Other
+529,2025-03-12,Canada,Email,57,M
+530,2025-04-03,Australia,Organic,43,M
+531,2025-07-06,India,Organic,34,M
+532,2025-04-24,Australia,Paid Search,52,M
+533,2024-11-06,UK,Organic,24,M
+534,2024-10-22,USA,Referral,53,M
+535,2024-05-21,UK,Social,64,M
+536,2024-12-25,USA,Social,54,F
+537,2024-03-24,India,Organic,40,F
+538,2025-07-12,India,Social,60,M
+539,2025-05-22,India,Social,45,F
+540,2024-03-12,USA,Organic,46,M
+541,2025-04-16,Canada,Email,62,M
+542,2024-03-11,UK,Social,28,F
+543,2025-03-08,USA,Email,58,F
+544,2024-02-22,USA,Organic,53,M
+545,2024-10-19,USA,Organic,45,F
+546,2025-01-29,India,Social,22,M
+547,2025-03-13,Canada,Email,57,M
+548,2024-09-08,India,Paid Search,29,M
+549,2025-07-06,Germany,Organic,64,M
+550,2025-04-09,Germany,Email,59,M
+551,2024-05-04,UK,Organic,36,F
+552,2025-02-06,Canada,Paid Search,40,F
+553,2025-03-14,India,Social,19,F
+554,2024-07-19,Canada,Organic,43,M
+555,2025-03-18,Germany,Organic,21,F
+556,2025-06-23,Germany,Organic,69,F
+557,2025-05-05,UK,Referral,51,F
+558,2025-04-02,Canada,Paid Search,30,F
+559,2025-01-15,Australia,Social,59,F
+560,2024-06-11,USA,Referral,19,M
+561,2025-04-22,Canada,Social,46,F
+562,2024-08-06,Germany,Paid Search,23,M
+563,2024-11-15,USA,Paid Search,20,F
+564,2024-07-07,Australia,Paid Search,30,F
+565,2024-07-06,USA,Social,33,F
+566,2024-04-04,UK,Referral,55,M
+567,2025-07-30,India,Email,64,M
+568,2024-03-29,India,Paid Search,58,F
+569,2024-02-21,Canada,Paid Search,56,M
+570,2025-07-15,USA,Email,47,F
+571,2024-11-29,USA,Organic,37,M
+572,2024-09-19,India,Email,31,M
+573,2025-03-18,USA,Organic,67,F
+574,2024-08-17,Canada,Social,45,F
+575,2024-03-17,Canada,Email,47,F
+576,2025-03-13,India,Paid Search,18,M
+577,2024-04-15,UK,Organic,41,F
+578,2024-11-27,USA,Email,53,M
+579,2025-07-23,UK,Paid Search,43,F
+580,2025-07-15,USA,Paid Search,49,M
+581,2024-08-04,USA,Paid Search,60,F
+582,2025-04-13,USA,Paid Search,19,M
+583,2025-01-02,UK,Social,65,F
+584,2024-10-14,USA,Organic,60,F
+585,2024-03-24,USA,Paid Search,39,F
+586,2024-08-13,Canada,Email,57,M
+587,2025-01-26,Germany,Organic,21,F
+588,2025-08-14,USA,Paid Search,34,M
+589,2024-01-03,Canada,Social,23,Other
+590,2025-03-06,Canada,Email,51,F
+591,2025-05-22,India,Social,62,F
+592,2025-07-24,UK,Email,49,F
+593,2024-09-11,India,Organic,55,F
+594,2024-03-12,Germany,Paid Search,25,F
+595,2024-06-11,India,Referral,66,M
+596,2025-05-25,UK,Email,28,F
+597,2025-06-10,India,Social,45,F
+598,2025-01-17,USA,Paid Search,53,M
+599,2024-03-14,Australia,Paid Search,62,F
+600,2024-03-14,USA,Organic,66,M
+601,2024-10-13,Canada,Email,49,M
+602,2024-12-18,Australia,Email,47,F
+603,2024-01-20,Canada,Paid Search,39,M
+604,2025-02-15,India,Organic,47,M
+605,2024-11-22,Canada,Paid Search,53,M
+606,2024-01-08,India,Organic,51,M
+607,2024-02-27,USA,Social,48,M
+608,2024-09-29,Canada,Social,40,M
+609,2025-03-09,UK,Organic,28,M
+610,2025-05-10,USA,Social,20,M
+611,2024-09-15,USA,Referral,39,M
+612,2024-06-26,Canada,Organic,38,M
+613,2025-08-03,Germany,Paid Search,49,F
+614,2024-10-02,USA,Paid Search,64,M
+615,2024-07-08,Canada,Organic,54,F
+616,2024-09-22,India,Paid Search,59,F
+617,2024-01-08,India,Social,48,F
+618,2024-06-30,UK,Organic,66,F
+619,2024-11-05,Australia,Organic,66,M
+620,2025-07-05,India,Email,25,F
+621,2025-03-18,India,Paid Search,51,M
+622,2025-04-13,India,Social,44,M
+623,2024-11-22,Canada,Social,68,F
+624,2024-03-07,India,Email,48,F
+625,2024-08-22,USA,Social,18,M
+626,2025-08-21,Australia,Email,28,M
+627,2024-01-27,India,Social,24,F
+628,2025-06-11,UK,Paid Search,28,F
+629,2025-02-14,USA,Paid Search,22,F
+630,2024-06-19,Canada,Paid Search,58,F
+631,2025-04-11,USA,Paid Search,43,F
+632,2025-05-17,USA,Organic,52,Other
+633,2024-01-26,India,Paid Search,69,F
+634,2024-03-04,Germany,Paid Search,51,F
+635,2025-02-03,Germany,Organic,42,M
+636,2025-08-22,India,Organic,31,M
+637,2024-01-15,USA,Email,57,F
+638,2025-02-03,Canada,Social,44,M
+639,2024-03-22,India,Email,57,M
+640,2025-01-25,India,Paid Search,19,F
+641,2025-01-08,UK,Email,26,F
+642,2024-02-24,USA,Email,24,M
+643,2025-02-12,India,Organic,53,M
+644,2025-06-22,USA,Referral,44,Other
+645,2025-06-02,India,Organic,34,F
+646,2024-01-18,USA,Social,34,M
+647,2024-05-27,Germany,Email,49,F
+648,2024-05-24,UK,Paid Search,68,M
+649,2024-09-28,India,Social,69,M
+650,2024-03-26,Canada,Paid Search,42,F
+651,2025-05-27,India,Organic,52,F
+652,2025-04-11,Germany,Organic,22,M
+653,2025-04-30,USA,Organic,67,M
+654,2024-04-28,Germany,Organic,18,F
+655,2024-01-09,India,Social,35,M
+656,2025-06-30,India,Paid Search,55,F
+657,2024-06-22,USA,Paid Search,68,F
+658,2025-01-28,India,Social,26,F
+659,2025-06-29,India,Organic,52,M
+660,2024-01-22,Germany,Organic,27,F
+661,2024-01-04,Canada,Email,20,M
+662,2024-01-04,India,Referral,40,F
+663,2024-04-03,Canada,Paid Search,47,M
+664,2024-01-31,Germany,Organic,31,M
+665,2025-05-06,Canada,Email,68,F
+666,2024-12-29,UK,Email,50,F
+667,2025-08-11,UK,Paid Search,40,F
+668,2025-04-25,USA,Organic,43,F
+669,2025-07-31,UK,Organic,42,M
+670,2024-05-23,Australia,Social,23,M
+671,2024-06-21,India,Referral,49,F
+672,2025-05-24,USA,Social,58,M
+673,2024-05-26,India,Paid Search,39,F
+674,2024-02-04,Australia,Social,40,F
+675,2025-02-05,USA,Email,65,F
+676,2025-04-25,UK,Paid Search,49,F
+677,2025-08-03,Canada,Email,33,M
+678,2025-07-10,Australia,Paid Search,18,F
+679,2024-03-13,India,Paid Search,60,M
+680,2025-04-08,Germany,Social,50,F
+681,2025-05-22,Canada,Paid Search,50,M
+682,2025-02-22,India,Referral,32,F
+683,2025-05-06,Germany,Paid Search,27,F
+684,2025-05-17,USA,Paid Search,43,F
+685,2024-09-24,UK,Paid Search,57,F
+686,2024-01-25,USA,Paid Search,33,F
+687,2024-09-30,India,Paid Search,45,F
+688,2024-05-01,India,Social,69,M
+689,2024-03-09,India,Paid Search,29,F
+690,2024-03-15,India,Paid Search,30,M
+691,2025-02-22,UK,Social,30,M
+692,2024-10-29,USA,Organic,65,M
+693,2024-11-19,India,Social,45,M
+694,2025-03-23,UK,Paid Search,65,F
+695,2024-11-24,UK,Paid Search,67,M
+696,2025-01-13,USA,Social,39,M
+697,2024-02-21,Australia,Email,20,M
+698,2025-05-25,USA,Email,33,F
+699,2024-09-26,Canada,Paid Search,46,M
+700,2024-04-03,India,Paid Search,37,F
+701,2025-05-02,Germany,Social,18,M
+702,2025-03-16,Australia,Social,69,F
+703,2024-02-01,Canada,Social,33,F
+704,2024-04-25,UK,Social,50,M
+705,2024-01-10,UK,Email,67,M
+706,2024-06-11,USA,Organic,46,F
+707,2024-02-29,UK,Social,54,M
+708,2025-03-01,Germany,Organic,19,M
+709,2024-11-09,Australia,Paid Search,54,M
+710,2025-08-11,USA,Social,62,M
+711,2025-03-25,India,Paid Search,65,F
+712,2025-01-01,UK,Paid Search,22,F
+713,2024-11-01,India,Email,29,M
+714,2024-02-02,India,Email,20,F
+715,2024-02-12,USA,Paid Search,65,M
+716,2025-01-04,Germany,Referral,32,M
+717,2024-01-03,India,Paid Search,45,M
+718,2024-01-26,India,Email,42,F
+719,2024-05-11,India,Organic,53,M
+720,2025-06-14,Canada,Organic,64,M
+721,2024-10-02,UK,Paid Search,34,F
+722,2025-03-01,India,Organic,59,F
+723,2024-09-03,India,Paid Search,33,F
+724,2024-04-13,UK,Organic,28,F
+725,2024-08-10,India,Social,23,M
+726,2024-02-25,UK,Organic,37,M
+727,2025-04-07,USA,Organic,47,F
+728,2024-04-20,Australia,Referral,58,M
+729,2024-08-13,India,Social,62,F
+730,2025-08-11,UK,Referral,45,F
+731,2024-12-21,India,Paid Search,39,F
+732,2024-10-02,Australia,Organic,27,M
+733,2024-11-21,Australia,Social,65,M
+734,2025-04-15,Germany,Social,38,M
+735,2024-06-01,USA,Organic,57,M
+736,2025-01-16,India,Email,50,F
+737,2025-06-07,Canada,Social,66,M
+738,2024-12-09,Germany,Social,68,F
+739,2024-09-24,India,Paid Search,54,F
+740,2024-03-28,USA,Social,52,M
+741,2024-05-28,USA,Organic,25,F
+742,2025-07-21,Canada,Referral,18,F
+743,2024-11-20,UK,Paid Search,46,F
+744,2024-06-29,UK,Organic,54,F
+745,2024-09-08,UK,Organic,56,M
+746,2024-12-12,India,Social,31,F
+747,2024-11-18,USA,Referral,44,M
+748,2025-02-23,India,Email,62,Other
+749,2024-06-03,Germany,Social,22,M
+750,2025-01-24,USA,Referral,37,F
+751,2024-09-22,USA,Social,67,M
+752,2025-07-18,India,Paid Search,28,F
+753,2024-04-04,India,Social,34,F
+754,2024-03-30,UK,Organic,42,M
+755,2024-10-03,India,Organic,53,F
+756,2024-11-01,India,Paid Search,31,M
+757,2025-02-18,Germany,Organic,59,F
+758,2024-08-30,USA,Referral,30,M
+759,2025-07-02,USA,Referral,37,M
+760,2024-10-11,USA,Paid Search,47,Other
+761,2024-03-18,Canada,Social,18,F
+762,2024-03-12,USA,Paid Search,57,F
+763,2025-08-07,Germany,Organic,52,M
+764,2024-03-21,Australia,Paid Search,61,M
+765,2025-07-22,UK,Organic,32,F
+766,2024-06-15,USA,Paid Search,38,F
+767,2024-02-26,Germany,Organic,64,M
+768,2024-07-01,USA,Organic,21,M
+769,2025-01-03,USA,Organic,43,M
+770,2024-09-13,USA,Referral,43,M
+771,2025-04-16,USA,Organic,41,F
+772,2025-01-01,India,Paid Search,40,F
+773,2024-08-28,USA,Paid Search,56,M
+774,2025-01-15,India,Paid Search,28,M
+775,2025-08-05,USA,Paid Search,64,F
+776,2024-09-04,UK,Organic,64,M
+777,2024-04-02,Australia,Social,27,F
+778,2024-09-02,India,Social,68,F
+779,2025-05-19,UK,Social,31,M
+780,2024-05-10,USA,Social,20,F
+781,2025-07-23,India,Paid Search,38,F
+782,2024-12-18,India,Paid Search,59,M
+783,2024-12-26,India,Organic,61,F
+784,2024-07-09,India,Paid Search,51,F
+785,2025-07-06,India,Organic,60,M
+786,2024-01-22,USA,Paid Search,31,F
+787,2024-06-28,USA,Social,63,M
+788,2024-09-08,India,Organic,51,F
+789,2024-10-13,India,Organic,24,F
+790,2024-10-11,India,Social,24,M
+791,2024-03-29,USA,Paid Search,31,F
+792,2024-05-15,USA,Email,21,M
+793,2024-02-27,USA,Referral,32,M
+794,2024-12-09,India,Referral,69,M
+795,2024-07-29,India,Paid Search,30,F
+796,2024-12-05,Australia,Organic,51,F
+797,2024-12-19,India,Social,68,M
+798,2025-02-25,India,Social,31,F
+799,2024-11-24,India,Social,54,M
+800,2025-01-23,Australia,Paid Search,41,M
+801,2024-12-18,UK,Organic,32,F
+802,2025-01-26,UK,Organic,67,F
+803,2025-01-04,Australia,Organic,52,M
+804,2024-07-08,India,Organic,40,M
+805,2024-05-27,Australia,Referral,60,F
+806,2025-04-17,India,Organic,64,M
+807,2024-07-24,UK,Social,58,M
+808,2024-11-25,USA,Referral,63,F
+809,2024-04-28,USA,Paid Search,34,F
+810,2024-09-15,Australia,Paid Search,35,M
+811,2024-11-13,India,Social,30,M
+812,2025-01-10,Australia,Paid Search,54,M
+813,2024-11-11,USA,Paid Search,59,F
+814,2024-08-04,UK,Email,52,M
+815,2025-07-31,Australia,Social,49,M
+816,2024-11-03,India,Email,58,M
+817,2025-04-29,Australia,Referral,27,F
+818,2025-03-18,UK,Paid Search,37,F
+819,2024-11-30,Germany,Social,54,M
+820,2025-06-15,India,Social,20,F
+821,2024-03-17,USA,Social,65,F
+822,2025-07-06,UK,Social,26,M
+823,2025-05-25,USA,Social,58,F
+824,2024-10-29,India,Email,50,M
+825,2025-03-16,India,Paid Search,62,M
+826,2024-11-08,Canada,Social,58,M
+827,2024-06-10,India,Organic,44,F
+828,2025-04-24,Germany,Social,57,M
+829,2024-05-27,Australia,Email,36,M
+830,2024-07-07,India,Email,48,M
+831,2024-11-07,India,Paid Search,65,F
+832,2025-05-17,UK,Paid Search,22,F
+833,2024-08-18,India,Paid Search,36,M
+834,2024-10-23,UK,Organic,18,F
+835,2024-01-25,UK,Organic,45,M
+836,2024-03-10,UK,Referral,58,F
+837,2024-02-03,USA,Paid Search,20,F
+838,2024-02-13,UK,Referral,46,M
+839,2025-06-05,UK,Organic,39,M
+840,2025-05-20,India,Social,58,M
+841,2025-05-08,UK,Social,29,F
+842,2024-02-03,Canada,Social,26,M
+843,2024-02-16,UK,Social,22,Other
+844,2024-06-17,USA,Social,39,F
+845,2024-12-05,USA,Referral,43,F
+846,2024-07-19,India,Social,65,F
+847,2024-10-19,India,Organic,42,M
+848,2024-04-13,India,Organic,26,F
+849,2025-03-14,Australia,Social,54,M
+850,2024-07-07,India,Paid Search,21,F
+851,2024-02-09,Canada,Paid Search,35,M
+852,2025-03-21,India,Social,51,M
+853,2025-06-25,India,Paid Search,31,M
+854,2024-01-09,USA,Email,48,F
+855,2024-09-19,USA,Social,41,F
+856,2025-05-11,Germany,Social,67,M
+857,2025-02-27,Australia,Social,32,F
+858,2025-05-28,Canada,Email,65,M
+859,2024-09-06,India,Social,50,F
+860,2024-08-11,Germany,Referral,56,F
+861,2025-03-01,India,Organic,26,F
+862,2024-04-02,Australia,Social,18,M
+863,2024-05-23,USA,Social,55,M
+864,2024-12-26,USA,Paid Search,42,F
+865,2025-02-05,India,Organic,34,F
+866,2024-03-12,India,Social,64,F
+867,2024-10-31,India,Paid Search,34,Other
+868,2024-08-06,Australia,Referral,40,M
+869,2024-10-28,Germany,Paid Search,55,F
+870,2025-07-29,Australia,Organic,68,M
+871,2024-02-15,India,Social,64,M
+872,2025-08-20,UK,Paid Search,51,M
+873,2024-09-26,India,Organic,23,M
+874,2025-04-08,USA,Social,23,M
+875,2024-09-11,USA,Paid Search,54,M
+876,2024-07-05,India,Organic,44,F
+877,2025-04-07,UK,Social,24,F
+878,2025-02-16,India,Social,54,F
+879,2024-03-27,USA,Email,66,F
+880,2025-02-27,UK,Paid Search,21,F
+881,2025-03-27,India,Organic,60,M
+882,2024-08-20,Australia,Referral,35,M
+883,2025-07-09,USA,Social,38,F
+884,2025-01-19,Canada,Organic,55,F
+885,2024-07-19,UK,Email,30,M
+886,2024-01-07,Germany,Organic,26,M
+887,2025-02-08,Germany,Email,68,F
+888,2024-05-05,Canada,Social,36,M
+889,2025-03-29,UK,Referral,26,F
+890,2024-11-11,India,Referral,53,F
+891,2024-10-07,India,Organic,29,M
+892,2024-04-08,UK,Email,58,M
+893,2025-03-02,India,Paid Search,21,F
+894,2024-04-09,India,Social,44,M
+895,2024-09-07,India,Social,38,M
+896,2025-05-16,USA,Organic,67,F
+897,2025-07-06,India,Organic,45,M
+898,2025-08-16,UK,Organic,66,F
+899,2025-07-28,Germany,Organic,30,F
+900,2024-11-29,Canada,Organic,42,F
+901,2024-04-30,USA,Referral,60,F
+902,2025-05-18,USA,Paid Search,26,F
+903,2025-04-25,UK,Email,66,M
+904,2025-08-17,USA,Email,58,F
+905,2025-01-25,UK,Social,53,M
+906,2024-03-25,India,Paid Search,30,F
+907,2024-10-28,Australia,Email,60,M
+908,2024-09-25,India,Social,61,M
+909,2025-05-20,Canada,Social,33,F
+910,2024-08-23,UK,Referral,48,M
+911,2024-07-16,India,Social,21,M
+912,2024-02-18,Germany,Paid Search,38,M
+913,2025-05-16,India,Email,25,F
+914,2025-03-29,Germany,Paid Search,46,M
+915,2024-01-25,UK,Email,46,M
+916,2024-09-17,India,Organic,45,F
+917,2024-10-14,India,Organic,53,M
+918,2024-10-08,Germany,Paid Search,66,F
+919,2025-07-05,India,Organic,28,F
+920,2024-03-31,Canada,Referral,29,M
+921,2024-07-02,Germany,Organic,29,Other
+922,2024-04-18,UK,Social,66,F
+923,2024-05-26,India,Organic,22,F
+924,2025-06-28,Germany,Referral,19,F
+925,2025-07-18,Australia,Paid Search,26,M
+926,2024-01-27,India,Organic,57,F
+927,2025-01-14,USA,Organic,48,F
+928,2024-05-19,India,Social,65,F
+929,2024-04-25,USA,Referral,28,M
+930,2024-06-24,Germany,Referral,38,F
+931,2024-04-26,USA,Paid Search,46,M
+932,2024-10-21,UK,Paid Search,21,F
+933,2025-08-20,USA,Organic,65,F
+934,2024-12-17,India,Paid Search,59,F
+935,2025-03-09,India,Social,25,F
+936,2024-10-22,Canada,Organic,61,F
+937,2024-01-09,UK,Social,41,F
+938,2024-02-20,USA,Email,35,F
+939,2024-06-10,Germany,Organic,67,F
+940,2024-05-26,India,Organic,44,F
+941,2025-05-19,India,Organic,29,F
+942,2025-05-21,India,Organic,60,F
+943,2025-05-27,Australia,Organic,55,F
+944,2025-01-17,Germany,Social,27,M
+945,2024-11-29,UK,Organic,53,M
+946,2025-01-24,India,Social,50,M
+947,2024-09-01,India,Email,32,F
+948,2025-02-06,UK,Referral,40,Other
+949,2025-04-21,USA,Social,61,Other
+950,2025-04-02,Australia,Organic,27,F
+951,2025-01-03,Germany,Organic,55,F
+952,2024-02-04,USA,Organic,61,M
+953,2025-03-10,Germany,Referral,66,Other
+954,2024-08-07,Australia,Referral,34,M
+955,2025-03-22,USA,Paid Search,31,M
+956,2024-11-19,UK,Paid Search,66,M
+957,2025-06-12,Australia,Paid Search,42,Other
+958,2024-07-22,India,Organic,47,F
+959,2025-07-12,Canada,Referral,44,F
+960,2025-05-21,India,Organic,44,M
+961,2024-07-17,UK,Paid Search,50,F
+962,2024-10-16,Germany,Paid Search,40,F
+963,2024-11-14,UK,Organic,38,F
+964,2025-04-06,USA,Paid Search,38,F
+965,2025-02-17,UK,Email,52,F
+966,2025-05-26,India,Organic,60,M
+967,2024-08-09,India,Social,46,F
+968,2024-10-29,India,Paid Search,53,M
+969,2024-09-15,UK,Organic,39,F
+970,2025-06-29,USA,Organic,58,M
+971,2024-07-01,India,Organic,38,M
+972,2024-12-18,Canada,Organic,39,Other
+973,2024-03-13,USA,Paid Search,20,F
+974,2025-05-25,USA,Email,31,F
+975,2024-08-18,USA,Social,56,M
+976,2024-07-23,India,Referral,22,M
+977,2024-12-15,Germany,Paid Search,29,F
+978,2024-10-26,USA,Social,58,M
+979,2025-05-23,India,Social,63,M
+980,2024-11-14,Australia,Organic,39,F
+981,2024-11-06,Canada,Paid Search,39,M
+982,2024-03-03,Germany,Paid Search,44,F
+983,2024-01-14,Canada,Email,58,F
+984,2024-08-27,Australia,Paid Search,42,M
+985,2025-08-21,USA,Organic,27,M
+986,2025-07-04,UK,Referral,40,M
+987,2025-01-12,UK,Organic,31,M
+988,2025-01-13,India,Referral,53,Other
+989,2024-08-22,India,Email,25,F
+990,2024-04-16,India,Email,49,F
+991,2024-01-06,UK,Email,24,F
+992,2024-07-22,Germany,Organic,68,M
+993,2024-07-08,Germany,Social,51,M
+994,2024-04-24,USA,Email,25,M
+995,2024-06-04,India,Social,67,F
+996,2024-01-15,USA,Organic,47,F
+997,2024-12-30,USA,Organic,49,M
+998,2025-07-10,Australia,Paid Search,21,M
+999,2025-02-18,Canada,Paid Search,27,F
+1000,2024-09-25,Australia,Social,60,M
+1001,2024-09-09,Canada,Email,42,M
+1002,2024-07-03,Australia,Email,50,M
+1003,2024-03-26,USA,Social,69,F
+1004,2024-12-25,India,Organic,40,M
+1005,2024-12-05,India,Paid Search,37,F
+1006,2024-01-05,USA,Paid Search,59,F
+1007,2024-09-06,India,Organic,21,M
+1008,2024-06-15,India,Organic,41,F
+1009,2024-04-12,Australia,Paid Search,62,F
+1010,2025-02-25,India,Organic,29,F
+1011,2024-11-11,Australia,Social,33,F
+1012,2025-01-15,Germany,Organic,42,M
+1013,2025-03-04,UK,Organic,21,F
+1014,2025-08-12,UK,Organic,21,M
+1015,2025-04-26,USA,Social,31,M
+1016,2025-01-07,UK,Social,64,F
+1017,2025-06-11,India,Paid Search,29,M
+1018,2024-10-13,Australia,Organic,56,F
+1019,2025-08-13,USA,Referral,40,F
+1020,2025-04-01,India,Social,57,F
+1021,2025-01-25,Germany,Social,35,F
+1022,2025-06-25,UK,Paid Search,63,F
+1023,2024-11-05,USA,Email,37,F
+1024,2025-03-08,UK,Email,59,M
+1025,2024-06-19,India,Paid Search,61,M
+1026,2025-07-31,UK,Social,40,M
+1027,2025-01-09,India,Organic,52,M
+1028,2025-04-14,India,Social,24,M
+1029,2024-10-03,India,Paid Search,43,F
+1030,2025-06-04,USA,Organic,37,M
+1031,2024-02-14,USA,Referral,67,F
+1032,2024-03-09,USA,Email,66,M
+1033,2024-10-31,India,Organic,58,M
+1034,2025-03-15,India,Referral,67,F
+1035,2025-04-30,USA,Paid Search,68,M
+1036,2024-09-21,India,Paid Search,57,M
+1037,2025-01-24,UK,Email,48,M
+1038,2024-11-27,Australia,Paid Search,28,F
+1039,2025-07-30,USA,Paid Search,60,M
+1040,2025-01-27,Australia,Social,28,M
+1041,2024-09-07,India,Organic,27,F
+1042,2025-08-04,India,Paid Search,63,M
+1043,2024-03-05,Germany,Paid Search,23,F
+1044,2025-08-13,Germany,Social,25,M
+1045,2024-04-02,Canada,Organic,44,F
+1046,2024-06-21,India,Organic,48,F
+1047,2025-05-07,Germany,Social,20,F
+1048,2025-03-16,USA,Organic,37,M
+1049,2025-08-05,USA,Paid Search,29,M
+1050,2025-03-25,India,Social,33,F
+1051,2025-01-17,Australia,Email,27,F
+1052,2024-07-26,India,Organic,53,M
+1053,2024-01-03,Canada,Email,42,F
+1054,2024-03-15,UK,Social,67,F
+1055,2024-06-27,Germany,Paid Search,18,Other
+1056,2024-01-25,Germany,Email,58,F
+1057,2024-10-31,Canada,Social,65,M
+1058,2025-04-11,India,Social,43,F
+1059,2025-07-31,India,Social,54,M
+1060,2024-10-20,UK,Social,40,M
+1061,2025-06-09,USA,Referral,48,F
+1062,2025-08-14,India,Social,65,M
+1063,2025-05-30,India,Email,45,M
+1064,2024-10-05,USA,Social,48,M
+1065,2024-07-14,India,Email,69,F
+1066,2025-08-09,India,Referral,43,F
+1067,2024-05-25,Australia,Organic,27,M
+1068,2024-09-03,USA,Organic,53,F
+1069,2024-02-14,Australia,Social,54,F
+1070,2025-04-21,Australia,Paid Search,30,F
+1071,2025-01-24,India,Social,55,M
+1072,2024-02-20,Germany,Email,21,F
+1073,2024-05-13,UK,Referral,34,F
+1074,2024-11-29,UK,Paid Search,62,M
+1075,2024-11-20,India,Social,50,F
+1076,2025-04-26,India,Organic,49,F
+1077,2024-06-08,India,Paid Search,50,F
+1078,2025-07-08,UK,Organic,26,F
+1079,2024-09-23,Australia,Paid Search,67,Other
+1080,2025-05-08,UK,Paid Search,33,F
+1081,2024-05-23,Germany,Social,58,M
+1082,2024-01-23,Australia,Social,69,F
+1083,2024-02-03,UK,Paid Search,30,F
+1084,2024-08-11,India,Organic,50,F
+1085,2025-07-25,Canada,Organic,20,M
+1086,2024-01-30,USA,Referral,51,F
+1087,2024-08-09,India,Referral,40,F
+1088,2024-03-06,USA,Paid Search,21,M
+1089,2025-07-12,Australia,Organic,52,F
+1090,2025-02-09,India,Paid Search,68,M
+1091,2025-04-02,USA,Social,22,F
+1092,2025-03-03,India,Paid Search,64,F
+1093,2025-01-29,India,Organic,61,M
+1094,2025-04-09,India,Paid Search,46,F
+1095,2024-01-05,Germany,Organic,64,F
+1096,2025-06-03,Canada,Paid Search,34,F
+1097,2025-03-19,India,Organic,55,F
+1098,2025-03-19,India,Social,54,M
+1099,2024-08-24,India,Paid Search,48,F
+1100,2025-04-25,India,Organic,61,Other
+1101,2024-08-17,UK,Social,63,F
+1102,2024-01-30,UK,Paid Search,58,F
+1103,2025-06-28,UK,Email,48,F
+1104,2024-05-20,USA,Referral,68,M
+1105,2024-03-02,UK,Organic,46,M
+1106,2025-01-08,India,Email,51,M
+1107,2024-05-20,India,Social,27,F
+1108,2025-05-29,Australia,Social,34,F
+1109,2024-09-23,Germany,Paid Search,65,M
+1110,2024-01-03,Australia,Paid Search,43,F
+1111,2025-07-25,Australia,Organic,44,M
+1112,2024-11-04,UK,Referral,60,F
+1113,2024-06-06,Australia,Social,34,F
+1114,2025-02-10,USA,Paid Search,31,F
+1115,2024-11-14,India,Paid Search,18,F
+1116,2024-01-18,India,Organic,30,M
+1117,2025-03-31,India,Organic,44,M
+1118,2024-08-28,India,Social,55,M
+1119,2025-02-23,USA,Paid Search,35,M
+1120,2025-06-21,Germany,Email,41,F
+1121,2025-01-01,Germany,Social,29,M
+1122,2025-02-06,UK,Social,60,F
+1123,2024-06-01,India,Email,45,M
+1124,2024-05-22,Germany,Organic,25,F
+1125,2024-09-06,USA,Social,49,M
+1126,2025-05-26,India,Social,35,M
+1127,2024-11-10,India,Organic,62,M
+1128,2024-07-27,USA,Organic,31,M
+1129,2025-04-12,India,Organic,62,M
+1130,2025-05-27,Canada,Organic,54,M
+1131,2025-06-25,Germany,Paid Search,25,M
+1132,2024-06-28,UK,Organic,57,F
+1133,2025-03-01,India,Social,55,M
+1134,2024-12-20,Canada,Organic,41,F
+1135,2024-09-26,UK,Organic,26,M
+1136,2024-08-26,India,Paid Search,42,M
+1137,2024-03-09,UK,Organic,49,F
+1138,2024-06-13,USA,Referral,24,M
+1139,2024-11-25,USA,Paid Search,35,F
+1140,2025-06-15,India,Organic,54,M
+1141,2025-06-03,USA,Organic,46,M
+1142,2024-04-22,India,Paid Search,69,M
+1143,2025-02-11,India,Social,29,M
+1144,2024-02-20,India,Email,58,F
+1145,2025-02-09,Australia,Paid Search,40,F
+1146,2024-07-24,India,Social,29,M
+1147,2024-09-26,USA,Paid Search,67,F
+1148,2025-03-06,USA,Email,50,F
+1149,2024-09-11,Canada,Social,45,F
+1150,2025-04-29,UK,Organic,33,F
+1151,2024-11-16,Australia,Social,63,Other
+1152,2025-08-22,India,Email,19,F
+1153,2025-01-17,India,Paid Search,23,F
+1154,2024-06-26,UK,Referral,27,M
+1155,2025-04-10,USA,Email,51,Other
+1156,2024-09-01,Canada,Organic,23,F
+1157,2024-11-16,Canada,Email,59,M
+1158,2024-03-23,USA,Social,28,F
+1159,2024-03-12,Australia,Paid Search,53,M
+1160,2024-12-10,UK,Paid Search,59,F
+1161,2024-04-22,India,Email,63,F
+1162,2025-08-21,USA,Social,33,F
+1163,2025-05-28,India,Paid Search,21,M
+1164,2025-02-24,Canada,Organic,57,F
+1165,2025-03-16,India,Paid Search,41,F
+1166,2024-12-23,USA,Referral,67,M
+1167,2024-02-06,UK,Social,27,F
+1168,2024-08-23,India,Organic,47,M
+1169,2024-10-24,India,Email,24,F
+1170,2025-07-03,UK,Email,43,F
+1171,2024-05-11,India,Paid Search,18,F
+1172,2024-10-25,USA,Organic,57,F
+1173,2024-07-25,USA,Social,49,F
+1174,2024-03-21,India,Organic,23,M
+1175,2024-03-02,India,Paid Search,43,M
+1176,2024-08-07,Germany,Social,40,F
+1177,2024-02-19,Australia,Referral,53,F
+1178,2024-02-10,India,Paid Search,43,M
+1179,2024-07-29,Australia,Email,41,F
+1180,2024-05-01,UK,Referral,61,M
+1181,2024-11-28,UK,Organic,44,M
+1182,2024-01-11,Germany,Organic,60,F
+1183,2024-06-30,Germany,Social,64,M
+1184,2024-09-28,Canada,Email,62,M
+1185,2025-07-31,USA,Paid Search,67,M
+1186,2025-01-15,USA,Social,54,Other
+1187,2025-06-12,USA,Social,47,F
+1188,2024-07-24,India,Social,45,M
+1189,2024-09-26,UK,Social,28,F
+1190,2024-09-09,India,Organic,61,F
+1191,2025-06-16,India,Organic,54,Other
+1192,2025-07-29,India,Organic,63,F
+1193,2025-07-31,India,Referral,54,Other
+1194,2025-03-27,UK,Referral,42,M
+1195,2024-10-28,UK,Email,33,M
+1196,2024-11-20,USA,Organic,69,Other
+1197,2025-08-11,India,Social,56,M
+1198,2024-06-19,USA,Organic,63,Other
+1199,2024-07-27,USA,Paid Search,48,M
+1200,2025-06-22,Germany,Organic,44,M
+1201,2024-08-19,UK,Email,19,M
+1202,2024-05-21,USA,Organic,21,F
+1203,2024-12-02,USA,Social,54,F
+1204,2024-07-14,Australia,Referral,29,F
+1205,2025-06-18,Germany,Social,22,F
+1206,2025-06-29,USA,Organic,58,F
+1207,2024-07-02,USA,Referral,50,M
+1208,2024-11-13,India,Social,23,M
+1209,2025-08-13,Australia,Paid Search,43,M
+1210,2025-03-21,USA,Social,42,M
+1211,2024-05-09,India,Email,18,Other
+1212,2024-12-20,Australia,Paid Search,49,M
+1213,2025-01-06,Germany,Paid Search,38,M
+1214,2025-01-27,India,Paid Search,63,F
+1215,2024-01-16,India,Organic,24,M
+1216,2024-06-28,India,Email,62,F
+1217,2025-05-27,UK,Organic,18,F
+1218,2024-05-24,India,Paid Search,57,F
+1219,2024-06-28,Australia,Paid Search,58,M
+1220,2024-07-12,Australia,Organic,39,M
+1221,2024-04-16,USA,Paid Search,32,F
+1222,2024-04-03,UK,Social,25,M
+1223,2024-07-27,India,Paid Search,35,F
+1224,2025-06-08,India,Organic,52,F
+1225,2024-01-01,Germany,Email,55,F
+1226,2024-06-18,India,Referral,27,F
+1227,2024-02-06,India,Paid Search,18,M
+1228,2024-12-02,USA,Paid Search,47,F
+1229,2024-05-30,India,Organic,48,F
+1230,2025-04-20,USA,Organic,68,F
+1231,2024-12-17,Germany,Paid Search,57,M
+1232,2025-04-15,Canada,Referral,46,Other
+1233,2025-01-15,UK,Social,48,M
+1234,2024-09-20,Canada,Paid Search,51,M
+1235,2025-05-31,USA,Referral,41,M
+1236,2024-10-12,Canada,Paid Search,53,F
+1237,2025-07-23,USA,Organic,28,F
+1238,2025-08-19,India,Paid Search,61,M
+1239,2024-12-19,Australia,Organic,62,F
+1240,2025-02-08,India,Email,40,F
+1241,2024-06-02,India,Paid Search,41,F
+1242,2025-05-03,India,Social,43,F
+1243,2025-02-06,USA,Paid Search,60,M
+1244,2025-06-25,USA,Referral,27,F
+1245,2024-06-09,USA,Social,35,F
+1246,2025-04-17,Canada,Paid Search,49,M
+1247,2024-10-09,India,Organic,54,M
+1248,2024-04-21,USA,Referral,33,F
+1249,2024-04-12,USA,Paid Search,24,F
+1250,2024-12-03,Canada,Organic,44,F
+1251,2024-07-10,India,Email,51,F
+1252,2024-03-02,India,Organic,57,F
+1253,2024-09-13,USA,Paid Search,18,F
+1254,2025-01-26,UK,Paid Search,18,M
+1255,2024-07-10,Germany,Paid Search,38,M
+1256,2025-07-27,UK,Paid Search,47,M
+1257,2025-04-12,Germany,Organic,18,M
+1258,2024-11-03,USA,Organic,27,M
+1259,2025-07-14,India,Organic,39,M
+1260,2024-09-16,India,Organic,32,M
+1261,2024-03-24,India,Referral,54,M
+1262,2024-01-22,USA,Social,19,M
+1263,2025-07-16,USA,Paid Search,64,M
+1264,2025-07-29,USA,Paid Search,26,M
+1265,2025-03-19,UK,Social,40,F
+1266,2024-03-02,USA,Organic,69,F
+1267,2024-06-25,UK,Organic,52,F
+1268,2024-01-25,UK,Social,69,F
+1269,2024-01-31,USA,Paid Search,19,F
+1270,2024-05-27,USA,Email,55,F
+1271,2024-12-09,UK,Email,21,F
+1272,2024-02-09,UK,Email,49,Other
+1273,2025-08-13,USA,Organic,34,F
+1274,2024-09-30,USA,Organic,58,F
+1275,2024-06-07,UK,Organic,24,F
+1276,2024-11-05,UK,Email,64,F
+1277,2025-04-19,India,Referral,42,M
+1278,2024-07-06,USA,Referral,45,M
+1279,2024-01-29,Canada,Organic,47,F
+1280,2024-01-31,India,Email,19,M
+1281,2025-05-26,Canada,Paid Search,34,F
+1282,2024-03-07,India,Email,54,M
+1283,2025-01-16,USA,Paid Search,67,M
+1284,2024-08-18,USA,Organic,69,M
+1285,2025-04-11,India,Organic,45,F
+1286,2024-02-06,Australia,Referral,31,M
+1287,2025-06-22,USA,Paid Search,42,M
+1288,2025-02-22,Australia,Paid Search,42,M
+1289,2024-09-26,India,Paid Search,38,F
+1290,2024-05-04,Canada,Paid Search,36,F
+1291,2025-08-09,Australia,Referral,63,F
+1292,2024-06-30,UK,Organic,38,F
+1293,2024-10-21,India,Organic,19,M
+1294,2024-08-24,UK,Email,55,F
+1295,2024-05-18,USA,Paid Search,52,F
+1296,2024-09-06,Australia,Organic,37,M
+1297,2024-03-31,USA,Organic,50,M
+1298,2024-01-01,India,Organic,66,Other
+1299,2024-06-22,India,Organic,66,M
+1300,2024-03-08,UK,Organic,59,M
+1301,2024-09-05,Australia,Organic,48,M
+1302,2025-06-01,India,Social,19,F
+1303,2024-04-07,Germany,Email,44,F
+1304,2024-01-01,Australia,Email,60,M
+1305,2024-03-07,India,Paid Search,61,F
+1306,2024-10-31,India,Paid Search,58,F
+1307,2024-06-13,UK,Referral,69,M
+1308,2024-10-20,UK,Email,44,F
+1309,2024-01-18,India,Paid Search,23,F
+1310,2024-07-18,Canada,Organic,43,F
+1311,2024-09-03,USA,Paid Search,34,F
+1312,2024-09-15,Australia,Paid Search,61,M
+1313,2024-11-26,Canada,Paid Search,58,F
+1314,2025-04-13,Canada,Organic,40,M
+1315,2024-10-07,USA,Referral,38,F
+1316,2025-05-19,India,Social,26,M
+1317,2024-11-13,USA,Social,20,F
+1318,2024-06-05,India,Organic,34,F
+1319,2024-05-17,UK,Email,30,M
+1320,2024-07-12,India,Social,31,F
+1321,2024-12-24,USA,Organic,69,M
+1322,2024-05-25,India,Social,53,F
+1323,2025-07-02,India,Social,46,F
+1324,2024-10-14,India,Email,27,F
+1325,2025-06-01,UK,Organic,61,M
+1326,2025-02-13,Germany,Email,51,F
+1327,2024-07-19,India,Paid Search,44,F
+1328,2024-05-16,Canada,Organic,42,M
+1329,2025-03-22,Canada,Organic,46,F
+1330,2024-07-17,USA,Organic,61,M
+1331,2024-05-28,UK,Organic,55,Other
+1332,2025-07-12,USA,Paid Search,43,M
+1333,2024-10-16,India,Social,52,F
+1334,2024-01-30,USA,Organic,66,F
+1335,2024-10-23,India,Referral,34,Other
+1336,2024-10-03,Canada,Organic,64,M
+1337,2025-06-02,Australia,Social,49,F
+1338,2025-03-02,Canada,Referral,27,Other
+1339,2024-04-24,UK,Email,68,Other
+1340,2024-03-31,UK,Social,53,F
+1341,2024-12-28,Australia,Social,38,F
+1342,2024-01-29,India,Organic,29,M
+1343,2024-07-10,India,Organic,65,M
+1344,2024-03-23,UK,Paid Search,60,M
+1345,2024-01-13,USA,Organic,20,F
+1346,2025-07-05,USA,Paid Search,51,F
+1347,2024-02-23,India,Organic,23,F
+1348,2024-01-06,UK,Referral,33,F
+1349,2025-07-13,India,Email,47,M
+1350,2024-04-22,India,Email,30,F
+1351,2025-05-04,India,Social,44,F
+1352,2024-01-19,USA,Organic,40,M
+1353,2024-04-02,Canada,Organic,48,F
+1354,2024-03-07,USA,Social,59,F
+1355,2025-02-27,UK,Social,26,M
+1356,2025-01-07,Germany,Paid Search,59,F
+1357,2024-10-12,USA,Paid Search,29,M
+1358,2024-05-24,Canada,Paid Search,19,F
+1359,2024-02-23,UK,Organic,41,F
+1360,2024-12-07,UK,Paid Search,33,M
+1361,2024-05-18,India,Paid Search,27,F
+1362,2024-12-20,India,Social,39,M
+1363,2025-02-16,Australia,Referral,63,F
+1364,2025-05-24,Germany,Paid Search,48,M
+1365,2024-10-23,Australia,Social,55,F
+1366,2024-01-03,Australia,Email,25,M
+1367,2024-06-17,India,Organic,21,M
+1368,2025-05-27,Germany,Social,35,M
+1369,2024-11-15,USA,Paid Search,58,F
+1370,2025-01-06,Germany,Social,64,M
+1371,2024-10-01,India,Organic,23,M
+1372,2024-04-07,India,Referral,42,F
+1373,2025-06-22,Germany,Referral,38,M
+1374,2025-04-08,Germany,Organic,56,F
+1375,2025-08-20,UK,Organic,28,F
+1376,2025-05-28,USA,Organic,43,M
+1377,2024-06-23,USA,Email,62,F
+1378,2024-06-01,Australia,Social,42,F
+1379,2024-05-29,USA,Organic,58,M
+1380,2025-07-05,USA,Email,50,M
+1381,2024-11-30,UK,Paid Search,49,F
+1382,2024-09-29,USA,Paid Search,31,F
+1383,2025-08-03,UK,Paid Search,69,F
+1384,2024-12-28,USA,Paid Search,30,M
+1385,2025-06-29,Canada,Paid Search,66,F
+1386,2025-08-13,Australia,Organic,69,M
+1387,2024-02-17,Australia,Paid Search,44,M
+1388,2024-08-04,UK,Referral,63,M
+1389,2025-03-16,USA,Paid Search,55,F
+1390,2025-05-02,Germany,Referral,56,F
+1391,2024-03-30,Canada,Social,21,F
+1392,2024-07-10,UK,Email,25,F
+1393,2024-11-24,UK,Organic,21,F
+1394,2025-04-24,Germany,Email,19,M
+1395,2024-03-08,UK,Organic,61,F
+1396,2024-12-26,Germany,Organic,27,F
+1397,2024-06-26,India,Organic,18,M
+1398,2024-05-09,USA,Organic,66,Other
+1399,2024-11-05,UK,Referral,32,F
+1400,2024-09-05,India,Referral,60,M
+1401,2025-01-16,Canada,Email,67,M
+1402,2024-07-09,UK,Organic,45,F
+1403,2025-05-08,India,Email,66,M
+1404,2024-02-16,Canada,Social,68,F
+1405,2025-06-01,Germany,Paid Search,25,F
+1406,2024-01-18,Germany,Paid Search,25,F
+1407,2025-03-17,USA,Social,37,F
+1408,2024-07-26,Canada,Organic,47,M
+1409,2024-08-18,USA,Paid Search,58,M
+1410,2024-01-12,UK,Social,27,F
+1411,2025-02-25,India,Organic,28,M
+1412,2024-04-09,UK,Paid Search,33,F
+1413,2025-01-30,Germany,Paid Search,32,F
+1414,2025-03-11,UK,Social,66,M
+1415,2025-05-22,USA,Referral,38,F
+1416,2025-02-28,Canada,Email,63,M
+1417,2024-06-29,UK,Social,20,F
+1418,2025-03-19,India,Social,23,M
+1419,2025-05-10,Australia,Social,59,F
+1420,2024-07-09,Germany,Paid Search,30,F
+1421,2024-03-15,Australia,Organic,22,M
+1422,2025-06-18,Australia,Social,48,M
+1423,2024-03-29,Australia,Social,25,F
+1424,2024-12-22,Germany,Paid Search,21,M
+1425,2024-05-21,UK,Email,39,F
+1426,2024-03-16,India,Social,46,F
+1427,2025-04-10,USA,Paid Search,45,F
+1428,2024-03-27,Germany,Organic,48,M
+1429,2025-02-06,USA,Organic,19,M
+1430,2025-02-19,Canada,Paid Search,33,M
+1431,2024-02-06,India,Paid Search,35,M
+1432,2024-04-13,USA,Organic,33,F
+1433,2025-04-21,USA,Organic,47,F
+1434,2024-10-31,USA,Organic,29,F
+1435,2024-03-13,India,Email,50,M
+1436,2025-08-18,India,Email,66,F
+1437,2024-06-07,Canada,Paid Search,52,M
+1438,2024-01-03,USA,Organic,38,M
+1439,2025-07-08,India,Organic,40,M
+1440,2024-01-10,India,Organic,48,F
+1441,2024-11-28,USA,Paid Search,55,F
+1442,2025-08-18,India,Organic,33,M
+1443,2024-12-12,Germany,Paid Search,19,M
+1444,2024-12-16,Germany,Referral,54,F
+1445,2024-08-20,India,Paid Search,52,M
+1446,2024-03-17,UK,Email,23,M
+1447,2024-12-09,India,Organic,50,F
+1448,2025-06-22,USA,Organic,21,M
+1449,2024-02-24,Canada,Referral,51,F
+1450,2025-06-12,USA,Paid Search,56,Other
+1451,2024-09-06,Canada,Social,18,F
+1452,2024-11-17,India,Referral,55,F
+1453,2024-04-09,USA,Social,24,F
+1454,2025-01-08,USA,Paid Search,31,M
+1455,2024-04-19,USA,Paid Search,54,Other
+1456,2024-06-12,Australia,Organic,36,F
+1457,2025-03-08,India,Organic,68,F
+1458,2024-01-31,Canada,Organic,67,F
+1459,2024-09-25,Canada,Email,69,F
+1460,2024-12-22,UK,Social,23,M
+1461,2024-03-20,USA,Organic,27,F
+1462,2024-06-25,USA,Organic,27,Other
+1463,2024-07-25,India,Social,48,M
+1464,2025-02-02,Germany,Referral,40,F
+1465,2025-08-09,USA,Organic,56,M
+1466,2025-05-16,Australia,Paid Search,32,Other
+1467,2024-04-23,UK,Email,28,M
+1468,2024-01-11,USA,Email,51,M
+1469,2024-02-01,Germany,Referral,50,F
+1470,2024-12-23,USA,Organic,53,F
+1471,2024-04-03,Australia,Organic,34,M
+1472,2024-05-18,India,Paid Search,45,F
+1473,2025-05-23,Australia,Organic,66,M
+1474,2025-06-08,Canada,Email,49,M
+1475,2025-05-18,Canada,Organic,66,F
+1476,2024-06-01,USA,Social,40,F
+1477,2025-01-06,Canada,Referral,20,F
+1478,2025-01-01,USA,Referral,57,M
+1479,2024-04-21,Germany,Social,41,F
+1480,2024-11-28,India,Referral,20,F
+1481,2024-11-11,USA,Organic,25,M
+1482,2024-08-25,USA,Paid Search,34,M
+1483,2025-03-26,USA,Organic,27,M
+1484,2025-02-10,USA,Referral,53,M
+1485,2024-11-15,Canada,Referral,49,F
+1486,2025-03-11,India,Organic,35,Other
+1487,2025-04-02,Germany,Organic,22,M
+1488,2024-12-06,India,Paid Search,22,F
+1489,2024-06-09,Germany,Organic,67,F
+1490,2025-03-31,Germany,Email,35,F
+1491,2025-03-06,USA,Organic,23,M
+1492,2025-08-13,Germany,Email,54,M
+1493,2024-03-30,Australia,Social,63,M
+1494,2024-09-08,Canada,Paid Search,24,Other
+1495,2025-07-08,USA,Organic,67,F
+1496,2024-11-04,USA,Referral,55,M
+1497,2025-07-19,Germany,Social,31,M
+1498,2024-01-08,India,Paid Search,58,M
+1499,2024-01-22,Canada,Paid Search,39,F
+1500,2025-04-22,USA,Referral,51,M
+1501,2024-08-03,Canada,Email,24,M
+1502,2024-11-08,India,Email,30,F
+1503,2024-09-13,India,Social,58,M
+1504,2024-09-01,Australia,Email,59,F
+1505,2025-07-17,Canada,Organic,18,F
+1506,2024-02-26,Canada,Social,29,M
+1507,2025-04-08,Australia,Paid Search,49,F
+1508,2025-06-17,USA,Social,65,M
+1509,2025-01-29,India,Referral,53,M
+1510,2024-08-25,India,Referral,54,F
+1511,2024-04-06,USA,Paid Search,38,F
+1512,2025-02-13,India,Social,20,F
+1513,2024-10-08,Australia,Email,57,F
+1514,2024-03-30,India,Referral,59,M
+1515,2024-08-03,India,Email,41,F
+1516,2025-07-30,India,Organic,44,Other
+1517,2024-06-08,India,Paid Search,30,F
+1518,2024-04-17,India,Email,41,F
+1519,2025-02-13,UK,Email,30,M
+1520,2024-04-29,USA,Social,39,M
+1521,2025-07-05,UK,Social,24,M
+1522,2025-05-30,Canada,Paid Search,49,M
+1523,2025-08-13,UK,Paid Search,30,M
+1524,2025-07-01,UK,Email,55,F
+1525,2024-05-26,USA,Organic,44,F
+1526,2024-05-07,India,Social,64,Other
+1527,2024-07-24,USA,Social,29,F
+1528,2024-10-08,Australia,Email,32,M
+1529,2025-06-11,UK,Paid Search,30,M
+1530,2025-03-16,India,Social,50,M
+1531,2025-01-21,USA,Organic,23,M
+1532,2025-06-11,Canada,Organic,53,Other
+1533,2025-01-22,UK,Paid Search,60,F
+1534,2024-08-15,UK,Organic,53,M
+1535,2024-09-04,Canada,Referral,25,M
+1536,2024-11-06,UK,Referral,43,F
+1537,2024-02-23,UK,Organic,45,M
+1538,2025-03-21,India,Email,38,F
+1539,2025-01-26,India,Paid Search,42,F
+1540,2025-03-14,Australia,Social,57,M
+1541,2024-11-16,UK,Email,61,M
+1542,2025-04-14,USA,Social,33,F
+1543,2025-07-23,UK,Organic,35,M
+1544,2024-12-07,India,Organic,28,F
+1545,2024-09-23,Canada,Paid Search,38,F
+1546,2024-03-03,India,Referral,46,F
+1547,2025-04-12,Canada,Social,55,M
+1548,2025-06-26,USA,Paid Search,31,F
+1549,2025-02-23,India,Organic,29,F
+1550,2025-06-03,India,Referral,19,M
+1551,2025-05-31,Canada,Paid Search,22,F
+1552,2025-04-23,India,Social,20,F
+1553,2024-10-28,India,Social,28,F
+1554,2024-02-29,Germany,Organic,54,M
+1555,2024-01-02,USA,Organic,58,M
+1556,2024-05-02,USA,Paid Search,68,M
+1557,2024-09-15,India,Paid Search,46,F
+1558,2025-03-22,Canada,Social,41,F
+1559,2024-09-30,India,Email,64,M
+1560,2024-01-14,India,Organic,25,F
+1561,2024-05-06,USA,Paid Search,50,F
+1562,2025-08-10,India,Organic,60,F
+1563,2025-08-15,USA,Organic,44,F
+1564,2024-08-14,India,Email,31,F
+1565,2025-04-27,India,Email,50,M
+1566,2025-03-07,USA,Email,69,M
+1567,2025-07-12,Canada,Organic,30,M
+1568,2025-06-16,India,Social,47,F
+1569,2025-01-12,India,Paid Search,20,M
+1570,2024-08-24,Australia,Referral,30,M
+1571,2025-01-10,Canada,Social,57,M
+1572,2024-07-10,UK,Referral,43,F
+1573,2024-07-27,India,Organic,28,M
+1574,2024-12-31,USA,Paid Search,35,F
+1575,2024-12-08,India,Email,24,M
+1576,2024-12-14,India,Paid Search,58,M
+1577,2024-08-18,USA,Social,67,M
+1578,2024-09-02,UK,Paid Search,23,M
+1579,2024-01-07,USA,Referral,30,M
+1580,2024-12-27,UK,Organic,62,M
+1581,2024-12-11,India,Referral,63,F
+1582,2025-07-15,USA,Paid Search,57,F
+1583,2024-10-29,Germany,Paid Search,55,M
+1584,2024-10-07,Canada,Paid Search,62,Other
+1585,2024-02-10,USA,Organic,37,M
+1586,2024-04-28,UK,Referral,64,F
+1587,2024-07-21,India,Referral,64,M
+1588,2024-08-14,India,Referral,29,F
+1589,2024-08-05,Germany,Referral,21,F
+1590,2024-08-24,India,Social,45,F
+1591,2025-04-06,USA,Paid Search,57,F
+1592,2024-03-19,USA,Email,62,M
+1593,2024-07-18,India,Organic,25,F
+1594,2024-04-07,India,Email,37,F
+1595,2024-07-03,USA,Paid Search,57,M
+1596,2025-02-14,Australia,Social,21,F
+1597,2024-01-29,UK,Paid Search,55,F
+1598,2024-07-22,USA,Paid Search,33,F
+1599,2024-01-15,India,Organic,19,F
+1600,2025-07-26,UK,Paid Search,30,M
+1601,2025-03-12,India,Paid Search,56,F
+1602,2024-05-26,USA,Organic,63,F
+1603,2024-04-28,Germany,Organic,22,F
+1604,2024-02-29,USA,Social,42,F
+1605,2024-10-10,India,Paid Search,28,F
+1606,2025-03-28,India,Email,53,F
+1607,2024-12-16,India,Organic,58,F
+1608,2025-06-12,USA,Social,68,F
+1609,2024-07-25,Canada,Organic,36,M
+1610,2024-06-15,India,Paid Search,33,F
+1611,2024-10-13,UK,Social,34,F
+1612,2024-05-01,UK,Social,57,M
+1613,2025-08-08,India,Paid Search,41,F
+1614,2024-04-21,India,Paid Search,19,M
+1615,2024-10-14,USA,Organic,67,F
+1616,2024-11-09,UK,Paid Search,23,F
+1617,2024-02-04,USA,Paid Search,66,M
+1618,2024-10-08,Germany,Social,26,F
+1619,2024-09-29,Canada,Paid Search,45,F
+1620,2024-06-04,Germany,Email,34,M
+1621,2024-03-17,Australia,Paid Search,53,Other
+1622,2024-01-28,Germany,Organic,38,F
+1623,2024-01-06,Canada,Organic,37,M
+1624,2024-10-15,Canada,Organic,42,F
+1625,2024-02-23,Germany,Paid Search,68,M
+1626,2025-07-29,Canada,Email,30,F
+1627,2024-05-26,Australia,Email,29,M
+1628,2025-01-26,USA,Paid Search,21,F
+1629,2025-02-08,UK,Organic,56,M
+1630,2024-10-24,USA,Email,53,F
+1631,2025-06-14,Canada,Organic,49,M
+1632,2024-03-07,USA,Paid Search,19,M
+1633,2024-05-20,Canada,Email,59,M
+1634,2024-05-31,Germany,Paid Search,60,Other
+1635,2024-03-22,Australia,Organic,67,F
+1636,2024-06-25,India,Organic,66,M
+1637,2024-07-06,Germany,Social,31,F
+1638,2025-04-03,Germany,Organic,54,M
+1639,2024-06-29,Australia,Social,38,M
+1640,2025-06-10,Australia,Paid Search,48,F
+1641,2025-04-08,UK,Paid Search,35,F
+1642,2025-06-24,UK,Organic,52,M
+1643,2024-03-04,India,Email,67,M
+1644,2025-08-13,Australia,Paid Search,51,M
+1645,2025-01-03,India,Social,65,M
+1646,2025-08-12,Germany,Paid Search,66,F
+1647,2024-07-31,Germany,Organic,24,M
+1648,2025-07-25,USA,Paid Search,68,M
+1649,2024-12-19,India,Paid Search,60,M
+1650,2024-02-13,India,Paid Search,40,M
+1651,2024-09-03,Canada,Email,49,M
+1652,2024-03-23,USA,Referral,50,M
+1653,2025-07-18,India,Email,58,M
+1654,2024-07-01,Germany,Social,59,M
+1655,2024-05-13,India,Paid Search,23,M
+1656,2024-11-27,Canada,Social,18,F
+1657,2024-09-12,USA,Organic,30,F
+1658,2024-02-28,India,Email,45,M
+1659,2025-05-04,India,Email,62,M
+1660,2025-05-22,USA,Organic,51,M
+1661,2025-03-21,USA,Referral,25,M
+1662,2025-01-05,Germany,Email,55,F
+1663,2024-08-29,USA,Paid Search,42,F
+1664,2024-11-21,USA,Referral,37,M
+1665,2024-11-08,India,Organic,58,M
+1666,2024-04-09,India,Organic,33,F
+1667,2024-02-19,Australia,Paid Search,50,F
+1668,2024-05-31,India,Social,27,F
+1669,2024-09-29,Australia,Paid Search,37,F
+1670,2024-04-06,USA,Referral,47,M
+1671,2024-03-05,India,Organic,50,F
+1672,2025-05-26,India,Organic,65,F
+1673,2024-08-12,India,Social,33,M
+1674,2024-12-16,Germany,Organic,64,M
+1675,2024-11-10,USA,Social,60,M
+1676,2025-03-17,USA,Paid Search,36,F
+1677,2025-03-19,UK,Referral,25,F
+1678,2024-06-26,UK,Social,31,F
+1679,2025-05-23,Australia,Organic,52,M
+1680,2024-08-10,Australia,Organic,59,F
+1681,2025-05-16,UK,Organic,49,M
+1682,2024-08-30,Canada,Referral,55,M
+1683,2024-03-07,Germany,Social,23,M
+1684,2025-04-01,USA,Paid Search,44,F
+1685,2024-01-19,Germany,Organic,63,F
+1686,2025-04-08,India,Email,38,M
+1687,2024-01-26,Germany,Organic,64,F
+1688,2024-05-04,Australia,Social,24,M
+1689,2024-12-28,India,Email,68,F
+1690,2025-07-18,Canada,Organic,58,Other
+1691,2024-09-02,Australia,Paid Search,50,M
+1692,2024-03-13,India,Organic,50,F
+1693,2024-05-19,USA,Paid Search,66,M
+1694,2025-06-21,Australia,Referral,37,M
+1695,2025-03-12,Australia,Social,26,M
+1696,2024-03-01,India,Email,65,F
+1697,2024-08-18,USA,Paid Search,23,F
+1698,2024-06-07,UK,Organic,52,M
+1699,2024-04-16,India,Social,31,F
+1700,2025-05-22,USA,Paid Search,66,M
+1701,2025-01-05,India,Organic,68,F
+1702,2024-04-17,India,Paid Search,42,M
+1703,2025-01-25,UK,Social,45,F
+1704,2024-09-05,UK,Social,41,M
+1705,2024-02-06,UK,Organic,40,F
+1706,2024-09-26,Germany,Email,66,F
+1707,2024-04-21,USA,Paid Search,32,F
+1708,2024-05-27,India,Organic,67,M
+1709,2025-06-11,India,Organic,51,F
+1710,2025-03-02,India,Email,67,M
+1711,2024-03-21,USA,Paid Search,49,F
+1712,2025-05-25,India,Paid Search,60,M
+1713,2024-12-10,India,Organic,43,M
+1714,2025-06-08,India,Social,42,F
+1715,2025-03-24,UK,Email,31,F
+1716,2024-07-22,UK,Paid Search,28,F
+1717,2024-11-16,Australia,Referral,19,M
+1718,2024-11-14,Germany,Organic,37,Other
+1719,2025-03-07,UK,Organic,69,F
+1720,2024-05-29,India,Social,66,M
+1721,2024-07-18,UK,Social,53,M
+1722,2024-05-26,India,Organic,36,M
+1723,2024-06-26,USA,Social,45,M
+1724,2024-04-06,USA,Paid Search,57,Other
+1725,2024-01-22,USA,Social,18,M
+1726,2025-07-18,India,Social,65,M
+1727,2024-02-14,UK,Referral,63,F
+1728,2025-06-16,Canada,Paid Search,68,M
+1729,2024-01-02,Germany,Social,22,Other
+1730,2025-04-11,UK,Social,67,M
+1731,2024-07-16,USA,Paid Search,49,F
+1732,2024-11-06,India,Organic,46,M
+1733,2024-06-18,Germany,Referral,27,F
+1734,2024-10-21,USA,Organic,43,M
+1735,2024-09-27,India,Email,36,F
+1736,2024-11-13,USA,Organic,69,M
+1737,2024-08-23,Australia,Email,35,F
+1738,2024-11-17,UK,Organic,29,F
+1739,2025-05-10,USA,Referral,67,F
+1740,2024-09-17,UK,Social,27,F
+1741,2024-08-04,USA,Organic,65,F
+1742,2024-03-20,USA,Social,68,M
+1743,2024-08-03,India,Social,33,M
+1744,2024-03-16,USA,Paid Search,53,M
+1745,2024-04-19,UK,Organic,59,M
+1746,2025-07-25,India,Social,45,F
+1747,2024-02-23,Germany,Social,54,M
+1748,2024-10-16,India,Paid Search,24,M
+1749,2025-05-15,UK,Email,44,F
+1750,2025-07-25,UK,Organic,44,M
+1751,2024-03-29,UK,Organic,47,M
+1752,2024-04-08,UK,Social,67,M
+1753,2024-08-11,Australia,Organic,60,M
+1754,2024-11-28,USA,Organic,49,F
+1755,2025-07-29,Germany,Paid Search,38,M
+1756,2024-05-04,Germany,Organic,39,F
+1757,2024-04-08,India,Organic,19,M
+1758,2024-05-31,India,Social,46,F
+1759,2025-06-08,USA,Paid Search,31,M
+1760,2024-01-19,India,Email,64,M
+1761,2024-08-16,USA,Social,58,F
+1762,2024-03-12,USA,Paid Search,65,F
+1763,2024-04-04,UK,Organic,69,F
+1764,2025-07-04,India,Email,38,M
+1765,2024-01-01,Canada,Organic,40,M
+1766,2024-07-11,USA,Organic,49,F
+1767,2025-07-03,Germany,Email,40,M
+1768,2024-12-30,India,Social,32,M
+1769,2024-02-13,USA,Social,54,F
+1770,2024-10-06,India,Organic,41,M
+1771,2025-08-05,UK,Organic,66,F
+1772,2024-08-28,USA,Paid Search,29,F
+1773,2024-11-13,Australia,Social,41,F
+1774,2024-11-15,USA,Paid Search,45,F
+1775,2025-01-31,UK,Organic,65,M
+1776,2024-04-22,India,Organic,48,M
+1777,2025-05-18,UK,Social,21,F
+1778,2025-08-16,USA,Social,35,M
+1779,2024-03-26,USA,Organic,64,F
+1780,2025-05-05,India,Organic,32,F
+1781,2025-05-05,India,Organic,35,M
+1782,2025-03-20,India,Organic,25,M
+1783,2024-08-10,Australia,Paid Search,55,M
+1784,2024-10-08,USA,Organic,25,F
+1785,2025-05-18,India,Social,37,F
+1786,2024-04-01,Australia,Email,54,F
+1787,2025-05-12,India,Referral,64,M
+1788,2025-07-06,USA,Referral,29,F
+1789,2025-02-13,Germany,Organic,35,M
+1790,2024-07-23,Australia,Organic,24,F
+1791,2024-12-01,Germany,Paid Search,40,F
+1792,2024-01-31,USA,Social,69,F
+1793,2025-07-13,Australia,Organic,33,M
+1794,2024-07-24,India,Paid Search,31,M
+1795,2024-02-04,Australia,Organic,38,Other
+1796,2025-04-21,Canada,Organic,64,M
+1797,2025-01-29,Australia,Social,46,M
+1798,2025-01-08,India,Social,49,F
+1799,2024-02-02,India,Paid Search,58,M
+1800,2025-03-26,UK,Referral,55,M
+1801,2025-01-17,USA,Organic,49,M
+1802,2025-04-21,USA,Organic,47,F
+1803,2025-05-11,Australia,Paid Search,45,F
+1804,2024-05-07,UK,Social,27,M
+1805,2024-05-06,USA,Social,39,F
+1806,2025-07-08,USA,Organic,62,F
+1807,2024-11-14,India,Referral,20,F
+1808,2024-09-19,India,Paid Search,61,M
+1809,2024-06-21,India,Paid Search,47,F
+1810,2025-01-18,Canada,Social,36,M
+1811,2025-03-28,Germany,Referral,23,M
+1812,2024-01-02,USA,Social,57,M
+1813,2024-11-27,USA,Referral,18,F
+1814,2025-08-19,UK,Organic,46,M
+1815,2024-06-17,Canada,Social,26,F
+1816,2024-06-17,Canada,Email,65,F
+1817,2025-06-10,USA,Paid Search,27,F
+1818,2024-02-07,Canada,Paid Search,59,F
+1819,2024-08-26,USA,Referral,47,M
+1820,2024-10-01,USA,Organic,20,F
+1821,2025-04-23,Canada,Paid Search,55,M
+1822,2024-03-18,USA,Email,63,F
+1823,2024-09-17,USA,Referral,29,Other
+1824,2024-04-01,USA,Referral,68,M
+1825,2025-04-17,USA,Email,59,F
+1826,2025-01-14,USA,Organic,56,M
+1827,2024-10-25,UK,Referral,35,F
+1828,2024-08-23,USA,Paid Search,24,M
+1829,2024-04-01,India,Social,40,M
+1830,2025-07-07,Canada,Paid Search,59,M
+1831,2025-01-23,USA,Email,48,F
+1832,2024-07-10,Australia,Social,51,Other
+1833,2024-09-05,India,Email,58,M
+1834,2025-03-11,UK,Organic,35,M
+1835,2025-03-07,USA,Organic,19,F
+1836,2024-10-03,Canada,Paid Search,63,F
+1837,2024-06-30,India,Organic,49,M
+1838,2025-01-30,Australia,Social,47,M
+1839,2025-01-29,USA,Organic,47,M
+1840,2024-12-25,UK,Social,62,M
+1841,2024-02-13,USA,Organic,58,M
+1842,2024-10-10,India,Organic,52,F
+1843,2025-01-03,USA,Social,58,M
+1844,2025-07-24,India,Paid Search,33,F
+1845,2024-11-11,USA,Organic,55,M
+1846,2024-07-24,UK,Organic,68,F
+1847,2024-11-29,USA,Organic,30,M
+1848,2024-04-16,India,Social,47,M
+1849,2024-02-24,India,Organic,53,M
+1850,2025-02-10,India,Paid Search,44,F
+1851,2025-08-14,India,Social,68,M
+1852,2025-05-22,UK,Paid Search,38,F
+1853,2024-12-16,India,Social,29,F
+1854,2024-01-25,Canada,Organic,25,M
+1855,2025-08-15,India,Referral,62,M
+1856,2024-09-26,India,Paid Search,53,F
+1857,2024-06-22,Canada,Organic,48,M
+1858,2025-06-19,India,Referral,40,F
+1859,2025-03-23,USA,Social,39,M
+1860,2025-03-25,Australia,Social,66,M
+1861,2024-06-15,Australia,Email,53,M
+1862,2025-08-18,Germany,Organic,68,M
+1863,2024-09-28,India,Email,59,Other
+1864,2024-11-14,UK,Social,57,M
+1865,2025-03-26,Australia,Paid Search,46,F
+1866,2025-01-30,Australia,Organic,30,F
+1867,2024-04-13,India,Organic,51,M
+1868,2024-06-30,USA,Referral,55,F
+1869,2024-08-04,USA,Organic,45,M
+1870,2025-07-22,India,Organic,19,F
+1871,2025-03-04,UK,Social,67,M
+1872,2024-08-07,India,Social,60,M
+1873,2025-03-16,USA,Organic,36,M
+1874,2025-03-19,India,Email,43,M
+1875,2024-08-24,USA,Paid Search,24,F
+1876,2024-08-29,India,Email,66,M
+1877,2025-06-20,USA,Organic,29,F
+1878,2024-12-03,India,Organic,37,M
+1879,2024-03-30,Australia,Social,40,M
+1880,2025-03-07,India,Organic,31,F
+1881,2024-12-19,USA,Paid Search,51,F
+1882,2024-11-01,India,Organic,69,F
+1883,2025-03-11,India,Email,62,F
+1884,2025-06-28,India,Email,45,M
+1885,2024-07-17,India,Email,24,F
+1886,2024-09-08,India,Referral,62,M
+1887,2024-04-23,USA,Referral,31,Other
+1888,2025-01-23,UK,Paid Search,65,M
+1889,2024-08-29,India,Paid Search,38,M
+1890,2024-07-24,USA,Email,44,F
+1891,2025-02-21,UK,Referral,40,M
+1892,2024-09-01,India,Referral,41,M
+1893,2024-10-05,USA,Email,26,Other
+1894,2024-09-21,India,Organic,46,F
+1895,2024-06-04,India,Referral,38,F
+1896,2024-03-16,USA,Referral,62,Other
+1897,2025-05-11,Australia,Social,42,M
+1898,2024-02-25,Australia,Email,68,F
+1899,2024-07-13,Australia,Social,33,M
+1900,2025-02-04,USA,Referral,35,F
+1901,2024-03-19,India,Organic,19,M
+1902,2025-01-28,USA,Email,56,F
+1903,2025-03-15,India,Organic,21,F
+1904,2025-02-01,India,Paid Search,32,F
+1905,2024-07-02,India,Organic,65,F
+1906,2024-01-12,USA,Paid Search,49,F
+1907,2025-06-16,USA,Organic,47,F
+1908,2024-07-14,India,Referral,59,F
+1909,2025-04-28,Germany,Social,58,M
+1910,2024-04-28,USA,Email,64,M
+1911,2024-04-07,Canada,Organic,52,M
+1912,2025-04-11,India,Organic,41,F
+1913,2025-07-17,USA,Email,24,F
+1914,2025-05-31,India,Social,37,M
+1915,2025-03-26,USA,Paid Search,54,M
+1916,2024-05-28,India,Email,31,Other
+1917,2025-07-01,India,Email,52,M
+1918,2025-02-04,UK,Social,24,M
+1919,2024-04-13,India,Referral,21,M
+1920,2024-03-18,India,Social,36,F
+1921,2025-06-06,Australia,Social,29,M
+1922,2024-06-14,India,Paid Search,63,M
+1923,2025-04-04,UK,Organic,37,M
+1924,2024-03-24,USA,Organic,39,F
+1925,2024-06-17,India,Email,38,F
+1926,2024-06-19,USA,Social,34,F
+1927,2024-06-17,India,Paid Search,65,F
+1928,2025-02-08,Germany,Social,56,M
+1929,2025-07-02,India,Organic,26,M
+1930,2025-06-30,India,Organic,29,F
+1931,2025-03-20,USA,Referral,22,M
+1932,2024-05-01,Australia,Paid Search,31,F
+1933,2025-07-30,Germany,Organic,52,M
+1934,2024-11-21,Australia,Paid Search,66,F
+1935,2024-11-23,UK,Paid Search,43,M
+1936,2025-02-24,UK,Social,22,M
+1937,2025-04-06,USA,Referral,20,M
+1938,2025-07-25,Australia,Social,39,M
+1939,2024-12-15,USA,Social,31,F
+1940,2025-01-01,USA,Paid Search,47,M
+1941,2025-03-23,UK,Social,24,F
+1942,2024-06-02,USA,Paid Search,29,F
+1943,2024-07-03,India,Organic,46,M
+1944,2025-01-10,USA,Email,32,M
+1945,2024-02-08,USA,Paid Search,36,M
+1946,2024-07-11,Canada,Paid Search,29,F
+1947,2025-03-06,USA,Organic,20,M
+1948,2025-08-08,Canada,Email,35,F
+1949,2024-11-07,USA,Organic,35,M
+1950,2024-08-27,Germany,Paid Search,64,M
+1951,2024-09-21,India,Email,64,M
+1952,2025-02-15,Australia,Paid Search,40,M
+1953,2024-11-22,USA,Referral,32,M
+1954,2024-01-14,India,Organic,39,F
+1955,2024-11-19,India,Social,49,Other
+1956,2024-08-28,India,Referral,38,M
+1957,2025-02-24,USA,Paid Search,57,F
+1958,2025-06-09,Germany,Social,68,F
+1959,2025-07-31,Australia,Paid Search,38,F
+1960,2025-01-01,UK,Email,24,M
+1961,2024-08-05,USA,Referral,24,M
+1962,2024-09-23,USA,Social,63,M
+1963,2024-04-15,Canada,Referral,39,F
+1964,2025-07-15,Canada,Social,35,F
+1965,2025-05-23,India,Social,50,M
+1966,2025-05-27,Australia,Paid Search,67,F
+1967,2024-07-15,USA,Social,40,F
+1968,2024-07-12,Canada,Email,34,F
+1969,2025-05-28,Australia,Social,62,F
+1970,2024-11-22,Germany,Organic,22,F
+1971,2025-02-26,India,Paid Search,61,M
+1972,2024-10-20,UK,Email,45,F
+1973,2024-09-22,India,Referral,19,F
+1974,2025-01-14,Germany,Organic,29,M
+1975,2025-05-02,India,Organic,53,Other
+1976,2024-07-19,UK,Paid Search,57,M
+1977,2025-04-30,Australia,Organic,28,M
+1978,2024-05-26,India,Referral,52,M
+1979,2024-08-29,USA,Paid Search,69,M
+1980,2025-07-01,UK,Paid Search,53,M
+1981,2025-07-26,USA,Organic,54,M
+1982,2025-07-08,India,Paid Search,28,M
+1983,2024-07-08,India,Referral,51,F
+1984,2025-05-20,USA,Paid Search,54,F
+1985,2025-07-15,UK,Organic,23,F
+1986,2025-08-09,UK,Organic,34,F
+1987,2024-01-13,India,Referral,63,F
+1988,2025-03-22,USA,Referral,69,M
+1989,2025-08-21,USA,Organic,27,M
+1990,2025-04-03,India,Social,56,F
+1991,2024-05-19,Germany,Organic,44,F
+1992,2025-04-02,USA,Social,48,F
+1993,2024-03-04,USA,Organic,44,M
+1994,2024-10-15,Australia,Email,63,F
+1995,2025-01-10,USA,Referral,41,F
+1996,2024-09-30,UK,Organic,48,F
+1997,2025-02-23,India,Paid Search,52,M
+1998,2024-05-24,India,Organic,46,F
+1999,2024-12-29,India,Paid Search,63,M
+2000,2025-01-21,Germany,Organic,30,M
+2001,2025-01-15,Canada,Organic,67,M
+2002,2024-06-22,India,Referral,53,M
+2003,2024-07-02,India,Organic,67,F
+2004,2024-06-03,USA,Email,37,F
+2005,2024-10-04,UK,Organic,42,M
+2006,2024-12-17,UK,Paid Search,20,F
+2007,2024-08-05,UK,Paid Search,66,M
+2008,2024-09-02,Australia,Referral,60,M
+2009,2024-06-20,India,Organic,33,F
+2010,2024-05-11,UK,Organic,20,F
+2011,2025-01-29,UK,Social,54,M
+2012,2025-05-04,USA,Social,52,Other
+2013,2024-06-23,Australia,Social,45,M
+2014,2025-05-31,India,Organic,26,F
+2015,2024-12-08,Germany,Organic,65,M
+2016,2024-04-10,Germany,Email,40,F
+2017,2024-08-07,Australia,Social,55,F
+2018,2024-01-05,USA,Social,62,M
+2019,2024-01-24,USA,Organic,46,Other
+2020,2024-07-20,Canada,Organic,22,F
+2021,2024-09-29,Germany,Referral,64,M
+2022,2025-04-23,USA,Social,52,F
+2023,2024-03-21,Germany,Organic,64,F
+2024,2025-05-18,India,Referral,49,F
+2025,2024-05-20,UK,Social,65,M
+2026,2024-03-23,Canada,Paid Search,63,F
+2027,2025-02-23,USA,Paid Search,29,M
+2028,2025-04-09,USA,Social,26,F
+2029,2024-12-28,Australia,Paid Search,26,F
+2030,2024-03-10,Germany,Social,59,F
+2031,2024-03-10,Canada,Social,30,F
+2032,2024-08-22,USA,Organic,41,M
+2033,2024-09-27,Australia,Referral,58,M
+2034,2025-08-22,India,Paid Search,40,M
+2035,2024-06-20,USA,Paid Search,21,F
+2036,2024-04-25,USA,Social,36,M
+2037,2025-07-21,Germany,Social,22,M
+2038,2024-04-02,Australia,Paid Search,38,F
+2039,2024-01-16,Germany,Social,56,M
+2040,2024-09-10,UK,Referral,45,M
+2041,2024-08-28,USA,Email,53,M
+2042,2025-01-06,USA,Email,23,M
+2043,2025-06-10,USA,Organic,57,M
+2044,2025-07-13,India,Paid Search,40,M
+2045,2024-06-22,USA,Social,32,M
+2046,2025-08-11,Canada,Organic,51,Other
+2047,2025-01-14,Germany,Email,25,F
+2048,2024-02-11,Germany,Paid Search,43,M
+2049,2025-07-17,USA,Organic,39,M
+2050,2024-03-23,USA,Organic,26,F
+2051,2024-12-19,India,Organic,67,M
+2052,2025-04-19,USA,Paid Search,36,M
+2053,2024-05-29,USA,Social,20,M
+2054,2024-06-11,India,Social,41,M
+2055,2024-10-12,India,Organic,68,F
+2056,2025-06-14,UK,Organic,52,M
+2057,2024-05-14,USA,Email,51,M
+2058,2025-02-02,USA,Organic,64,M
+2059,2024-09-28,India,Paid Search,22,F
+2060,2024-03-08,USA,Paid Search,46,F
+2061,2025-03-02,USA,Social,34,M
+2062,2025-05-14,USA,Email,53,F
+2063,2024-12-11,UK,Social,62,F
+2064,2024-04-15,India,Referral,22,M
+2065,2024-04-03,Australia,Email,26,M
+2066,2024-09-11,India,Organic,67,M
+2067,2024-10-30,USA,Organic,43,M
+2068,2024-11-27,India,Paid Search,34,M
+2069,2024-05-26,USA,Paid Search,25,M
+2070,2024-10-27,India,Social,36,M
+2071,2024-06-26,Canada,Organic,18,M
+2072,2025-02-15,USA,Organic,29,M
+2073,2025-04-22,UK,Paid Search,27,F
+2074,2025-01-26,India,Social,22,F
+2075,2024-01-01,India,Social,68,M
+2076,2025-08-18,USA,Referral,59,M
+2077,2024-01-15,USA,Organic,66,M
+2078,2025-08-22,USA,Paid Search,30,M
+2079,2024-01-20,Australia,Referral,32,M
+2080,2024-11-05,Germany,Social,32,F
+2081,2024-03-04,Australia,Social,47,M
+2082,2024-02-27,India,Paid Search,27,M
+2083,2025-02-14,Germany,Organic,30,F
+2084,2025-03-12,UK,Email,68,M
+2085,2024-03-11,UK,Social,36,M
+2086,2025-08-08,Australia,Social,58,M
+2087,2024-07-11,UK,Paid Search,29,F
+2088,2024-07-09,Canada,Paid Search,66,F
+2089,2024-06-27,Germany,Organic,54,M
+2090,2024-10-03,India,Email,62,M
+2091,2024-04-16,UK,Paid Search,44,M
+2092,2024-09-11,USA,Organic,65,F
+2093,2024-05-05,Australia,Paid Search,36,M
+2094,2024-01-31,Canada,Referral,42,F
+2095,2024-08-09,India,Paid Search,21,F
+2096,2025-02-07,India,Paid Search,26,F
+2097,2025-04-02,India,Social,58,M
+2098,2024-07-31,USA,Email,34,M
+2099,2024-07-13,India,Social,23,F
+2100,2025-04-17,Germany,Email,33,M
+2101,2025-02-12,UK,Organic,36,M
+2102,2025-05-14,Canada,Referral,55,M
+2103,2025-06-27,India,Referral,22,M
+2104,2025-05-07,USA,Paid Search,19,M
+2105,2025-07-15,India,Social,55,F
+2106,2024-09-06,Canada,Organic,25,F
+2107,2024-08-24,India,Paid Search,39,M
+2108,2024-07-11,India,Organic,53,M
+2109,2024-05-21,India,Organic,44,M
+2110,2025-03-25,Canada,Referral,24,M
+2111,2025-03-04,India,Organic,55,M
+2112,2025-04-25,UK,Social,20,M
+2113,2024-04-10,Germany,Paid Search,30,M
+2114,2024-10-21,Germany,Paid Search,23,F
+2115,2024-05-13,India,Paid Search,44,M
+2116,2025-06-19,India,Paid Search,53,Other
+2117,2024-06-09,USA,Social,51,F
+2118,2024-03-27,India,Referral,25,F
+2119,2024-12-07,UK,Paid Search,35,M
+2120,2025-06-11,USA,Referral,25,M
+2121,2025-07-03,USA,Social,35,F
+2122,2024-02-27,India,Social,29,F
+2123,2024-07-14,UK,Organic,56,F
+2124,2024-04-02,India,Organic,57,F
+2125,2024-07-03,UK,Email,60,M
+2126,2024-11-16,India,Social,28,M
+2127,2024-06-17,Australia,Paid Search,18,M
+2128,2024-02-10,UK,Email,19,F
+2129,2024-11-02,India,Paid Search,61,F
+2130,2024-02-01,India,Email,65,F
+2131,2024-05-16,USA,Paid Search,29,M
+2132,2024-01-01,India,Referral,63,M
+2133,2024-02-22,India,Organic,45,F
+2134,2024-09-18,Canada,Organic,27,Other
+2135,2025-05-25,UK,Social,34,F
+2136,2025-04-09,India,Organic,31,F
+2137,2024-02-29,UK,Referral,57,M
+2138,2024-01-21,India,Social,27,F
+2139,2024-07-21,Australia,Organic,27,M
+2140,2025-01-26,India,Organic,55,F
+2141,2025-03-24,Germany,Referral,33,M
+2142,2025-05-08,Germany,Social,31,F
+2143,2024-07-24,India,Email,60,F
+2144,2024-04-10,India,Organic,66,F
+2145,2024-01-16,USA,Referral,46,M
+2146,2024-03-29,Canada,Paid Search,61,M
+2147,2024-02-09,USA,Social,61,M
+2148,2025-05-31,UK,Paid Search,48,F
+2149,2024-06-10,Germany,Organic,61,F
+2150,2025-05-08,Canada,Referral,18,F
+2151,2024-11-27,USA,Referral,19,M
+2152,2024-11-19,USA,Paid Search,63,F
+2153,2024-09-29,Germany,Referral,25,F
+2154,2025-05-06,India,Organic,55,M
+2155,2024-01-27,Canada,Organic,39,M
+2156,2024-02-25,India,Organic,58,F
+2157,2024-09-11,India,Paid Search,52,F
+2158,2024-08-24,Canada,Organic,21,F
+2159,2024-11-23,USA,Paid Search,35,M
+2160,2025-03-18,India,Organic,54,F
+2161,2024-12-18,India,Social,65,M
+2162,2024-06-03,USA,Email,59,F
+2163,2024-07-15,Canada,Social,64,M
+2164,2025-03-27,India,Organic,67,M
+2165,2024-04-30,India,Email,64,F
+2166,2024-10-29,USA,Organic,48,F
+2167,2024-11-19,Australia,Email,35,F
+2168,2025-03-26,India,Social,44,M
+2169,2025-03-04,Australia,Paid Search,59,M
+2170,2024-10-05,Canada,Organic,40,M
+2171,2024-07-04,India,Email,61,F
+2172,2024-08-08,Canada,Referral,54,F
+2173,2024-09-03,UK,Social,28,M
+2174,2024-05-11,USA,Referral,65,M
+2175,2025-01-10,USA,Referral,62,M
+2176,2024-05-05,Canada,Organic,49,M
+2177,2025-01-24,Germany,Social,28,M
+2178,2025-03-26,Germany,Paid Search,29,M
+2179,2025-07-31,Australia,Paid Search,61,M
+2180,2024-03-12,USA,Organic,18,M
+2181,2025-03-31,Canada,Referral,43,M
+2182,2024-02-21,Canada,Social,50,Other
+2183,2024-07-21,India,Organic,30,F
+2184,2024-04-15,India,Paid Search,62,M
+2185,2024-04-07,USA,Paid Search,45,M
+2186,2024-04-15,Canada,Social,21,F
+2187,2024-01-27,India,Referral,34,M
+2188,2025-05-08,Germany,Paid Search,38,F
+2189,2024-02-06,India,Paid Search,29,F
+2190,2024-08-27,USA,Social,66,F
+2191,2025-02-23,UK,Paid Search,36,M
+2192,2025-08-17,India,Paid Search,44,M
+2193,2025-05-27,Canada,Organic,45,M
+2194,2024-03-23,India,Organic,29,F
+2195,2025-08-15,Australia,Paid Search,47,M
+2196,2025-01-27,India,Referral,36,F
+2197,2024-04-17,Australia,Paid Search,18,F
+2198,2024-09-26,UK,Organic,39,F
+2199,2025-07-04,India,Social,48,M
+2200,2024-08-23,India,Referral,24,F
+2201,2024-04-20,India,Paid Search,58,M
+2202,2025-06-09,UK,Organic,52,M
+2203,2025-07-25,Canada,Social,34,F
+2204,2025-08-08,USA,Paid Search,48,M
+2205,2025-07-27,USA,Social,33,F
+2206,2025-06-07,UK,Organic,51,F
+2207,2024-09-29,USA,Organic,26,F
+2208,2024-04-25,UK,Paid Search,49,M
+2209,2025-01-05,USA,Social,20,M
+2210,2024-05-12,Germany,Paid Search,18,M
+2211,2024-10-10,Australia,Organic,31,M
+2212,2025-01-28,USA,Paid Search,27,F
+2213,2025-07-21,India,Email,43,M
+2214,2024-06-22,India,Organic,26,F
+2215,2024-05-31,UK,Social,30,F
+2216,2025-03-16,USA,Social,23,Other
+2217,2024-01-04,Australia,Paid Search,64,F
+2218,2024-12-05,UK,Referral,56,F
+2219,2025-03-23,USA,Email,29,F
+2220,2024-11-26,Germany,Paid Search,24,F
+2221,2024-08-18,India,Organic,62,M
+2222,2025-05-12,Canada,Paid Search,52,M
+2223,2024-08-10,India,Organic,64,M
+2224,2025-03-02,UK,Paid Search,27,F
+2225,2024-10-05,Australia,Referral,36,M
+2226,2024-01-16,Germany,Email,24,M
+2227,2024-11-14,Canada,Paid Search,40,M
+2228,2024-01-30,USA,Paid Search,26,M
+2229,2025-07-12,Canada,Organic,18,M
+2230,2024-12-26,UK,Paid Search,44,M
+2231,2024-08-11,UK,Organic,68,M
+2232,2024-10-18,India,Referral,51,F
+2233,2025-01-06,India,Email,57,F
+2234,2024-06-05,UK,Organic,60,M
+2235,2024-06-22,India,Social,68,F
+2236,2024-09-08,Germany,Social,24,F
+2237,2024-06-04,Canada,Email,31,Other
+2238,2025-03-30,Australia,Paid Search,50,F
+2239,2024-03-03,India,Organic,60,F
+2240,2025-05-10,Australia,Social,58,M
+2241,2024-07-28,India,Organic,55,F
+2242,2024-12-02,USA,Social,34,F
+2243,2024-04-04,Canada,Organic,36,F
+2244,2024-08-19,India,Social,22,F
+2245,2025-03-28,India,Email,34,F
+2246,2024-06-11,India,Organic,26,M
+2247,2024-03-20,USA,Paid Search,66,F
+2248,2024-11-09,Canada,Social,22,F
+2249,2024-04-07,India,Organic,36,M
+2250,2024-07-07,India,Social,64,F
+2251,2024-09-27,UK,Social,67,F
+2252,2024-12-04,India,Paid Search,37,F
+2253,2025-01-18,Germany,Email,42,F
+2254,2025-02-09,Australia,Paid Search,45,F
+2255,2025-05-21,Germany,Social,60,F
+2256,2024-02-09,Canada,Organic,57,M
+2257,2024-08-05,USA,Organic,45,Other
+2258,2024-01-01,Canada,Organic,37,M
+2259,2024-01-06,India,Referral,37,F
+2260,2024-05-07,India,Email,51,M
+2261,2024-12-24,UK,Email,61,M
+2262,2025-06-20,India,Organic,21,F
+2263,2025-04-09,Canada,Paid Search,57,M
+2264,2025-01-22,UK,Email,43,M
+2265,2025-04-11,Australia,Social,25,F
+2266,2024-04-13,USA,Organic,23,Other
+2267,2025-05-18,USA,Email,35,F
+2268,2025-06-18,Germany,Organic,30,F
+2269,2024-02-27,India,Organic,23,F
+2270,2024-10-08,USA,Referral,33,F
+2271,2025-05-13,UK,Paid Search,61,Other
+2272,2024-10-12,Australia,Paid Search,55,M
+2273,2025-05-19,Germany,Social,28,F
+2274,2025-07-15,India,Referral,53,M
+2275,2024-10-11,USA,Organic,41,M
+2276,2024-02-05,UK,Email,56,M
+2277,2024-07-23,India,Paid Search,30,M
+2278,2024-05-09,USA,Organic,21,M
+2279,2024-10-11,India,Paid Search,34,M
+2280,2024-12-17,India,Paid Search,69,F
+2281,2024-10-05,USA,Organic,46,M
+2282,2024-04-27,India,Paid Search,20,F
+2283,2024-06-29,UK,Social,68,F
+2284,2025-02-11,India,Social,60,F
+2285,2024-01-17,Germany,Social,46,F
+2286,2024-05-08,India,Email,56,M
+2287,2025-06-19,Canada,Paid Search,27,M
+2288,2024-02-29,India,Paid Search,48,M
+2289,2024-09-05,USA,Paid Search,65,M
+2290,2024-05-04,USA,Social,40,F
+2291,2024-03-03,India,Organic,20,M
+2292,2024-09-10,USA,Paid Search,57,F
+2293,2024-11-08,Canada,Organic,55,F
+2294,2024-04-15,Australia,Paid Search,56,M
+2295,2024-02-16,USA,Referral,51,M
+2296,2024-03-21,India,Social,25,F
+2297,2025-01-25,Germany,Paid Search,23,F
+2298,2025-05-31,UK,Social,59,F
+2299,2024-04-18,India,Social,62,M
+2300,2024-07-11,Germany,Paid Search,22,F
+2301,2024-07-25,USA,Paid Search,48,F
+2302,2024-08-04,UK,Social,44,M
+2303,2024-05-26,USA,Organic,36,M
+2304,2024-02-03,USA,Paid Search,51,F
+2305,2024-11-11,India,Paid Search,65,M
+2306,2024-08-02,Germany,Email,60,F
+2307,2024-07-24,India,Referral,25,F
+2308,2024-06-07,Germany,Email,42,M
+2309,2025-07-11,Germany,Paid Search,66,F
+2310,2025-01-01,Germany,Organic,30,F
+2311,2024-09-08,India,Social,62,M
+2312,2024-05-03,India,Email,43,M
+2313,2025-04-25,USA,Referral,45,M
+2314,2025-06-17,UK,Email,31,M
+2315,2024-01-20,Australia,Organic,65,F
+2316,2025-07-11,USA,Social,45,M
+2317,2025-02-23,Canada,Email,47,F
+2318,2024-02-29,India,Social,42,M
+2319,2025-03-27,USA,Social,22,F
+2320,2024-03-05,India,Paid Search,58,F
+2321,2024-01-31,Germany,Social,35,F
+2322,2024-03-10,India,Organic,30,M
+2323,2024-10-02,India,Organic,58,F
+2324,2025-01-06,Germany,Email,28,M
+2325,2024-09-01,USA,Referral,53,M
+2326,2024-03-14,India,Email,42,M
+2327,2024-04-29,India,Paid Search,59,F
+2328,2025-05-26,USA,Organic,20,F
+2329,2025-07-31,USA,Organic,58,M
+2330,2025-03-28,India,Email,29,M
+2331,2024-03-03,UK,Social,63,F
+2332,2025-05-06,India,Referral,36,M
+2333,2025-02-19,UK,Paid Search,18,F
+2334,2024-11-11,USA,Social,43,F
+2335,2024-03-26,India,Email,20,F
+2336,2025-08-21,India,Organic,32,F
+2337,2024-09-22,India,Referral,55,F
+2338,2024-01-27,India,Social,47,M
+2339,2024-05-05,USA,Organic,54,F
+2340,2024-08-28,Australia,Organic,63,M
+2341,2024-02-07,Canada,Email,42,M
+2342,2024-07-13,USA,Social,46,M
+2343,2024-10-08,UK,Email,21,F
+2344,2025-07-23,UK,Email,32,M
+2345,2024-02-21,Canada,Paid Search,55,F
+2346,2024-12-12,India,Email,21,M
+2347,2025-07-03,India,Referral,36,F
+2348,2025-04-28,USA,Organic,25,M
+2349,2025-07-08,India,Email,62,F
+2350,2024-04-12,USA,Paid Search,47,M
+2351,2025-04-25,Canada,Paid Search,51,F
+2352,2025-08-10,Australia,Paid Search,53,F
+2353,2024-07-14,India,Email,29,M
+2354,2024-10-26,USA,Organic,20,F
+2355,2024-11-14,USA,Paid Search,38,M
+2356,2024-10-23,USA,Social,27,M
+2357,2024-06-22,UK,Organic,34,M
+2358,2025-08-05,India,Email,34,M
+2359,2025-07-27,Canada,Referral,58,M
+2360,2024-08-16,Australia,Organic,34,M
+2361,2025-04-28,UK,Organic,25,F
+2362,2024-08-26,UK,Referral,67,M
+2363,2025-04-21,USA,Organic,20,M
+2364,2024-12-16,USA,Organic,28,F
+2365,2024-10-09,India,Referral,36,F
+2366,2024-03-17,UK,Email,21,F
+2367,2025-01-27,India,Social,64,M
+2368,2024-07-11,Canada,Social,36,F
+2369,2024-05-10,USA,Referral,58,M
+2370,2024-04-25,USA,Social,24,M
+2371,2025-08-12,USA,Social,45,M
+2372,2024-03-02,Australia,Email,24,F
+2373,2025-04-24,India,Social,30,M
+2374,2025-06-03,India,Paid Search,39,M
+2375,2024-01-19,India,Paid Search,62,F
+2376,2024-12-19,UK,Paid Search,33,F
+2377,2024-12-12,Australia,Paid Search,57,F
+2378,2024-08-03,India,Paid Search,22,M
+2379,2025-02-04,Australia,Paid Search,31,F
+2380,2024-09-02,India,Email,49,F
+2381,2024-09-20,UK,Paid Search,42,F
+2382,2024-09-15,India,Organic,44,F
+2383,2025-04-25,USA,Organic,53,F
+2384,2025-01-14,UK,Organic,22,M
+2385,2024-08-15,USA,Email,54,F
+2386,2025-07-10,India,Paid Search,62,M
+2387,2025-04-26,Canada,Organic,57,F
+2388,2025-07-13,Australia,Email,32,F
+2389,2025-03-14,USA,Organic,36,M
+2390,2024-08-22,UK,Organic,67,M
+2391,2025-04-08,Germany,Email,59,M
+2392,2024-07-16,India,Social,66,F
+2393,2024-06-11,Canada,Email,65,M
+2394,2024-09-27,India,Email,40,M
+2395,2025-08-04,Germany,Referral,24,F
+2396,2024-12-06,India,Organic,29,M
+2397,2024-08-18,India,Email,33,F
+2398,2024-10-04,USA,Social,61,F
+2399,2024-06-23,USA,Organic,32,M
+2400,2025-01-30,Canada,Referral,36,M
+2401,2024-07-29,Australia,Paid Search,62,M
+2402,2024-11-28,India,Email,26,M
+2403,2024-08-09,India,Social,52,F
+2404,2024-07-11,USA,Paid Search,46,M
+2405,2025-08-05,USA,Organic,69,Other
+2406,2024-07-26,USA,Referral,43,F
+2407,2024-02-12,Canada,Social,45,F
+2408,2024-08-15,Germany,Organic,62,M
+2409,2024-11-15,India,Organic,69,F
+2410,2024-02-26,USA,Email,55,M
+2411,2024-07-02,UK,Organic,54,M
+2412,2024-04-09,USA,Social,63,M
+2413,2024-10-27,India,Social,68,M
+2414,2025-03-09,USA,Organic,56,M
+2415,2025-08-04,USA,Social,33,M
+2416,2024-08-21,India,Organic,51,F
+2417,2025-06-01,Germany,Referral,30,M
+2418,2024-05-08,USA,Email,44,M
+2419,2025-04-13,UK,Organic,41,M
+2420,2024-12-03,USA,Paid Search,69,Other
+2421,2025-03-30,Canada,Paid Search,46,M
+2422,2025-03-29,India,Referral,67,M
+2423,2024-11-15,India,Paid Search,60,M
+2424,2024-06-03,USA,Social,62,M
+2425,2024-11-11,USA,Referral,26,M
+2426,2025-05-11,India,Organic,58,F
+2427,2025-08-05,Germany,Social,31,F
+2428,2025-07-10,India,Organic,48,M
+2429,2024-04-18,India,Social,43,F
+2430,2024-12-24,USA,Paid Search,31,F
+2431,2024-03-03,Germany,Referral,69,F
+2432,2025-02-05,Canada,Paid Search,63,M
+2433,2025-08-18,Germany,Organic,47,Other
+2434,2024-02-01,UK,Email,18,M
+2435,2025-01-28,Germany,Email,27,M
+2436,2025-07-21,UK,Social,29,M
+2437,2025-05-23,India,Social,68,F
+2438,2024-08-23,UK,Organic,38,F
+2439,2024-03-03,Germany,Social,20,F
+2440,2025-07-08,USA,Organic,48,F
+2441,2025-07-06,UK,Organic,67,M
+2442,2024-12-13,USA,Referral,47,F
+2443,2025-08-10,USA,Social,41,M
+2444,2024-01-03,India,Organic,27,M
+2445,2025-01-04,UK,Organic,63,F
+2446,2024-01-24,Canada,Referral,23,Other
+2447,2025-07-15,India,Organic,66,M
+2448,2025-02-12,USA,Organic,29,M
+2449,2025-07-02,India,Organic,25,M
+2450,2024-12-03,India,Organic,36,Other
+2451,2024-02-19,Australia,Paid Search,18,M
+2452,2024-01-16,USA,Referral,18,M
+2453,2024-07-20,USA,Paid Search,27,F
+2454,2025-03-22,India,Paid Search,54,M
+2455,2024-03-31,Australia,Social,60,M
+2456,2025-05-26,India,Social,30,F
+2457,2024-05-23,Germany,Social,51,F
+2458,2024-10-24,India,Social,36,F
+2459,2024-05-01,India,Social,40,F
+2460,2024-10-06,UK,Social,35,F
+2461,2024-09-28,India,Email,64,F
+2462,2024-01-04,UK,Social,44,M
+2463,2024-12-06,India,Email,44,M
+2464,2025-04-16,Germany,Organic,62,M
+2465,2025-07-15,Germany,Social,52,F
+2466,2024-07-17,Germany,Social,25,M
+2467,2025-06-12,India,Organic,27,F
+2468,2025-06-11,Germany,Email,35,F
+2469,2025-08-16,Australia,Paid Search,23,M
+2470,2024-08-11,India,Organic,53,M
+2471,2025-05-25,India,Email,43,Other
+2472,2024-12-05,Canada,Organic,20,M
+2473,2024-02-04,India,Paid Search,38,M
+2474,2024-06-11,UK,Paid Search,61,M
+2475,2025-02-07,Germany,Email,65,M
+2476,2024-04-06,India,Paid Search,68,F
+2477,2024-09-17,UK,Social,65,F
+2478,2025-04-09,UK,Email,49,Other
+2479,2024-03-30,USA,Social,66,Other
+2480,2024-10-24,Canada,Referral,67,F
+2481,2024-05-08,India,Email,51,F
+2482,2024-11-17,USA,Paid Search,39,F
+2483,2024-05-24,Canada,Referral,68,M
+2484,2025-08-02,India,Paid Search,39,F
+2485,2024-02-16,Canada,Organic,26,M
+2486,2025-08-01,India,Organic,23,F
+2487,2025-04-20,USA,Social,47,F
+2488,2025-05-28,India,Organic,19,F
+2489,2025-05-25,UK,Social,24,M
+2490,2024-04-22,Germany,Paid Search,30,F
+2491,2025-07-12,Canada,Paid Search,45,F
+2492,2024-12-22,Australia,Organic,42,M
+2493,2025-07-31,UK,Email,44,M
+2494,2025-06-10,Germany,Paid Search,44,F
+2495,2024-12-13,USA,Organic,69,M
+2496,2024-08-12,Australia,Paid Search,29,F
+2497,2024-03-11,UK,Paid Search,42,M
+2498,2024-03-01,Canada,Social,49,F
+2499,2024-08-21,India,Paid Search,32,M
+2500,2025-05-01,USA,Organic,27,Other
+2501,2024-10-30,Germany,Email,20,M
+2502,2024-10-16,India,Paid Search,34,M
+2503,2024-05-26,India,Organic,31,F
+2504,2024-12-04,Australia,Email,28,M
+2505,2025-01-17,USA,Social,32,F
+2506,2025-08-12,India,Social,54,F
+2507,2025-03-13,USA,Paid Search,61,M
+2508,2024-12-30,USA,Paid Search,44,M
+2509,2025-06-30,UK,Paid Search,21,M
+2510,2024-09-11,Australia,Organic,56,M
+2511,2025-07-14,Australia,Organic,25,M
+2512,2024-08-09,UK,Referral,20,M
+2513,2024-03-17,UK,Social,47,M
+2514,2024-09-07,USA,Paid Search,40,M
+2515,2024-03-18,Canada,Organic,34,F
+2516,2024-03-12,India,Social,68,M
+2517,2025-06-12,India,Organic,22,M
+2518,2025-04-21,Australia,Organic,20,Other
+2519,2024-05-12,Canada,Organic,48,F
+2520,2025-05-17,USA,Social,39,F
+2521,2024-02-11,UK,Social,59,F
+2522,2024-06-19,USA,Organic,20,F
+2523,2025-02-27,USA,Organic,39,M
+2524,2024-07-01,India,Social,25,F
+2525,2025-03-14,India,Social,20,F
+2526,2025-06-08,USA,Social,42,M
+2527,2024-02-09,USA,Organic,56,F
+2528,2024-01-15,USA,Social,26,F
+2529,2025-07-18,India,Referral,61,M
+2530,2024-11-08,Australia,Social,44,M
+2531,2024-10-30,UK,Organic,42,Other
+2532,2024-10-05,Canada,Social,65,M
+2533,2024-09-17,India,Paid Search,35,Other
+2534,2025-02-18,UK,Organic,28,F
+2535,2024-12-13,Canada,Paid Search,58,M
+2536,2024-04-08,USA,Referral,23,M
+2537,2025-01-10,India,Paid Search,63,M
+2538,2025-02-04,India,Email,60,F
+2539,2024-03-09,India,Paid Search,68,F
+2540,2024-08-14,USA,Paid Search,41,F
+2541,2025-04-19,USA,Organic,50,M
+2542,2025-01-06,India,Social,63,M
+2543,2024-03-22,UK,Organic,24,F
+2544,2024-01-25,India,Paid Search,33,M
+2545,2024-12-14,USA,Organic,42,M
+2546,2024-10-04,UK,Paid Search,50,M
+2547,2025-07-30,India,Paid Search,53,F
+2548,2024-11-09,India,Organic,66,M
+2549,2025-07-12,India,Organic,43,M
+2550,2024-05-08,India,Referral,26,M
+2551,2024-09-25,USA,Organic,27,M
+2552,2024-03-24,India,Paid Search,59,M
+2553,2024-12-10,India,Paid Search,41,F
+2554,2024-04-23,Australia,Paid Search,50,M
+2555,2024-10-22,Australia,Social,47,F
+2556,2024-07-25,India,Organic,60,M
+2557,2024-04-21,USA,Paid Search,29,M
+2558,2024-02-28,USA,Social,26,M
+2559,2024-11-03,Canada,Paid Search,56,M
+2560,2025-07-22,Canada,Referral,40,F
+2561,2024-04-29,India,Referral,60,F
+2562,2024-08-30,India,Organic,24,M
+2563,2024-05-14,USA,Paid Search,32,F
+2564,2025-04-30,Canada,Organic,67,F
+2565,2024-09-05,Canada,Organic,61,Other
+2566,2025-08-07,India,Paid Search,21,F
+2567,2024-05-27,UK,Social,60,F
+2568,2024-02-18,India,Paid Search,21,F
+2569,2024-12-15,UK,Organic,24,M
+2570,2025-01-26,Australia,Organic,64,F
+2571,2025-08-17,USA,Referral,24,M
+2572,2025-06-06,India,Referral,33,M
+2573,2025-06-14,UK,Organic,25,F
+2574,2025-01-15,USA,Social,49,M
+2575,2024-08-03,Canada,Paid Search,20,F
+2576,2024-09-14,USA,Social,32,M
+2577,2024-03-21,Canada,Social,34,F
+2578,2024-09-15,India,Email,51,F
+2579,2024-08-06,India,Organic,43,F
+2580,2024-01-22,USA,Paid Search,28,F
+2581,2024-05-02,India,Referral,42,M
+2582,2024-11-16,India,Organic,41,F
+2583,2024-08-09,UK,Organic,36,M
+2584,2025-08-19,India,Social,45,F
+2585,2024-10-14,India,Email,34,M
+2586,2025-07-29,India,Social,35,M
+2587,2025-01-31,India,Email,58,F
+2588,2024-01-25,Canada,Social,31,M
+2589,2024-05-02,Australia,Organic,35,M
+2590,2025-02-27,India,Social,25,M
+2591,2024-11-23,Germany,Email,54,M
+2592,2024-06-30,Germany,Email,54,M
+2593,2024-11-09,Australia,Organic,53,F
+2594,2025-06-25,USA,Organic,26,M
+2595,2024-08-21,India,Email,41,F
+2596,2024-01-28,USA,Organic,33,M
+2597,2024-07-05,Canada,Organic,57,M
+2598,2025-07-15,Germany,Email,35,M
+2599,2025-04-02,USA,Paid Search,39,M
+2600,2025-05-17,India,Paid Search,41,F
+2601,2025-06-30,Germany,Organic,57,M
+2602,2024-03-11,Canada,Organic,54,F
+2603,2024-06-18,USA,Email,60,M
+2604,2024-02-05,UK,Paid Search,40,M
+2605,2024-01-03,USA,Organic,60,F
+2606,2025-05-15,USA,Paid Search,63,M
+2607,2025-07-16,USA,Organic,45,F
+2608,2024-04-03,Germany,Organic,53,M
+2609,2025-03-09,Australia,Organic,65,Other
+2610,2024-11-16,USA,Paid Search,61,M
+2611,2024-02-11,USA,Organic,32,M
+2612,2025-07-03,USA,Paid Search,55,F
+2613,2025-06-06,India,Paid Search,41,F
+2614,2024-12-06,India,Paid Search,25,F
+2615,2025-02-28,India,Organic,37,F
+2616,2024-08-26,USA,Organic,68,F
+2617,2025-04-20,India,Organic,67,M
+2618,2024-09-24,USA,Paid Search,58,M
+2619,2025-08-16,Germany,Social,69,F
+2620,2024-02-07,India,Organic,47,M
+2621,2024-04-13,UK,Email,57,M
+2622,2025-08-04,Australia,Social,26,F
+2623,2024-06-22,UK,Organic,33,M
+2624,2024-07-05,India,Organic,26,F
+2625,2025-04-19,USA,Organic,66,M
+2626,2024-04-23,UK,Organic,49,M
+2627,2024-11-04,USA,Paid Search,66,F
+2628,2024-06-20,India,Organic,39,F
+2629,2024-04-28,USA,Email,38,M
+2630,2025-08-01,USA,Paid Search,53,F
+2631,2024-04-29,India,Social,47,M
+2632,2024-02-26,UK,Email,37,M
+2633,2025-02-08,India,Paid Search,34,F
+2634,2025-06-04,USA,Referral,44,M
+2635,2024-03-17,Canada,Referral,21,M
+2636,2025-02-28,India,Paid Search,27,F
+2637,2024-11-20,UK,Organic,20,M
+2638,2025-05-13,USA,Paid Search,26,M
+2639,2024-03-17,USA,Organic,28,M
+2640,2025-08-08,Australia,Paid Search,21,F
+2641,2025-01-06,USA,Paid Search,20,F
+2642,2025-05-20,India,Paid Search,60,M
+2643,2024-08-05,Australia,Email,27,M
+2644,2025-07-20,Germany,Organic,46,F
+2645,2025-01-10,UK,Paid Search,23,M
+2646,2024-03-17,India,Paid Search,67,M
+2647,2025-07-07,India,Email,30,F
+2648,2025-04-22,UK,Social,56,M
+2649,2024-06-29,India,Organic,51,M
+2650,2024-11-23,India,Social,57,M
+2651,2024-08-20,Germany,Organic,50,M
+2652,2024-11-22,India,Social,44,M
+2653,2025-08-02,India,Social,58,M
+2654,2025-06-23,India,Paid Search,60,M
+2655,2024-05-09,USA,Social,37,F
+2656,2025-08-06,UK,Email,66,F
+2657,2024-09-19,Canada,Email,69,M
+2658,2025-02-26,India,Paid Search,55,M
+2659,2025-04-03,India,Social,66,F
+2660,2024-10-16,USA,Paid Search,23,F
+2661,2024-09-30,USA,Email,46,F
+2662,2024-09-30,USA,Email,51,M
+2663,2025-06-01,Australia,Organic,66,M
+2664,2024-08-19,USA,Organic,24,M
+2665,2024-06-16,USA,Organic,59,F
+2666,2024-08-04,Australia,Organic,22,M
+2667,2024-04-26,India,Paid Search,36,F
+2668,2024-08-22,Australia,Organic,54,F
+2669,2024-03-09,USA,Social,33,F
+2670,2024-02-23,USA,Organic,61,M
+2671,2025-03-10,Australia,Organic,66,M
+2672,2024-02-16,USA,Social,26,F
+2673,2024-12-06,USA,Paid Search,31,F
+2674,2025-04-12,India,Paid Search,21,M
+2675,2025-03-10,UK,Email,54,F
+2676,2024-09-24,UK,Referral,64,M
+2677,2024-04-26,India,Social,49,F
+2678,2025-07-12,Germany,Organic,24,F
+2679,2025-05-16,UK,Organic,27,F
+2680,2025-01-02,USA,Referral,19,M
+2681,2024-02-22,India,Social,43,F
+2682,2024-01-22,USA,Email,55,F
+2683,2024-07-08,India,Social,25,M
+2684,2024-04-04,India,Organic,62,F
+2685,2025-05-31,USA,Paid Search,31,M
+2686,2024-05-03,India,Email,44,F
+2687,2024-06-18,India,Email,52,M
+2688,2025-08-08,UK,Organic,46,F
+2689,2025-05-05,USA,Social,42,M
+2690,2024-05-11,Australia,Organic,35,M
+2691,2024-08-18,Australia,Referral,40,M
+2692,2024-11-05,UK,Organic,30,M
+2693,2025-02-02,Australia,Social,33,F
+2694,2025-07-15,Canada,Organic,57,F
+2695,2025-06-06,USA,Social,63,M
+2696,2025-08-09,Germany,Social,62,M
+2697,2024-01-25,India,Paid Search,35,M
+2698,2024-05-21,UK,Email,34,M
+2699,2024-12-03,USA,Email,21,M
+2700,2024-01-30,India,Email,32,M
+2701,2024-08-01,India,Paid Search,48,M
+2702,2024-04-02,Australia,Social,31,M
+2703,2025-07-13,USA,Social,56,F
+2704,2024-02-07,India,Social,20,M
+2705,2024-03-30,India,Paid Search,39,M
+2706,2024-04-27,USA,Social,32,F
+2707,2024-03-30,Canada,Organic,43,M
+2708,2024-12-07,Germany,Paid Search,19,M
+2709,2024-08-06,USA,Organic,39,F
+2710,2025-07-01,India,Organic,58,M
+2711,2024-06-05,India,Organic,62,F
+2712,2024-11-18,USA,Organic,31,F
+2713,2025-01-31,Canada,Email,40,M
+2714,2025-01-10,Germany,Paid Search,53,M
+2715,2025-04-22,USA,Organic,42,M
+2716,2024-05-01,UK,Email,46,F
+2717,2024-10-31,USA,Referral,35,M
+2718,2025-04-25,UK,Email,61,F
+2719,2025-06-01,USA,Email,50,M
+2720,2025-01-05,UK,Referral,67,F
+2721,2025-01-26,USA,Social,58,M
+2722,2025-06-02,Australia,Referral,37,F
+2723,2025-01-09,USA,Referral,35,F
+2724,2025-07-23,India,Paid Search,22,F
+2725,2024-03-17,India,Email,50,M
+2726,2024-07-27,USA,Email,56,M
+2727,2024-03-08,USA,Email,36,M
+2728,2024-02-24,UK,Email,19,F
+2729,2024-10-10,Germany,Paid Search,60,F
+2730,2024-05-15,India,Paid Search,29,M
+2731,2024-09-01,UK,Social,48,F
+2732,2024-09-19,Germany,Social,20,M
+2733,2025-01-07,USA,Email,21,M
+2734,2025-07-21,USA,Email,64,M
+2735,2025-05-24,India,Social,52,M
+2736,2024-08-14,USA,Referral,18,F
+2737,2024-07-14,Germany,Organic,23,F
+2738,2025-04-07,Australia,Referral,43,M
+2739,2024-03-15,UK,Organic,53,F
+2740,2024-11-20,India,Social,40,M
+2741,2024-09-10,UK,Organic,63,M
+2742,2024-04-19,Germany,Social,51,F
+2743,2025-01-04,USA,Paid Search,49,M
+2744,2024-07-11,Canada,Organic,33,F
+2745,2024-04-21,India,Social,53,M
+2746,2025-01-26,India,Social,63,F
+2747,2024-04-14,India,Organic,20,M
+2748,2025-02-07,India,Social,56,F
+2749,2024-04-07,Canada,Organic,63,F
+2750,2024-09-17,USA,Organic,40,F
+2751,2025-04-29,India,Organic,57,F
+2752,2024-05-17,USA,Social,36,M
+2753,2025-04-05,USA,Email,28,F
+2754,2025-03-09,USA,Social,60,F
+2755,2025-06-25,India,Email,34,F
+2756,2024-04-11,UK,Social,57,F
+2757,2025-03-05,India,Email,34,F
+2758,2025-07-16,Germany,Referral,38,F
+2759,2025-04-02,India,Paid Search,53,M
+2760,2024-04-22,Germany,Organic,35,M
+2761,2025-05-08,Canada,Organic,60,M
+2762,2024-03-05,India,Social,20,F
+2763,2024-12-19,India,Paid Search,18,M
+2764,2024-10-25,Australia,Organic,22,M
+2765,2024-11-14,USA,Email,31,M
+2766,2024-11-07,UK,Referral,20,F
+2767,2024-01-19,India,Organic,37,F
+2768,2024-10-31,India,Organic,19,F
+2769,2025-07-16,USA,Organic,57,F
+2770,2024-09-19,Canada,Paid Search,25,M
+2771,2024-06-15,India,Email,68,F
+2772,2025-08-19,Germany,Social,62,F
+2773,2024-02-29,UK,Organic,54,F
+2774,2024-10-18,India,Paid Search,59,F
+2775,2024-11-03,India,Organic,58,F
+2776,2024-10-13,India,Paid Search,61,F
+2777,2025-07-07,USA,Paid Search,46,M
+2778,2024-09-10,UK,Social,50,F
+2779,2025-08-06,USA,Paid Search,42,M
+2780,2024-02-10,India,Email,50,M
+2781,2025-03-16,UK,Organic,37,M
+2782,2024-12-21,UK,Email,24,M
+2783,2024-05-24,USA,Organic,66,F
+2784,2024-05-16,UK,Paid Search,54,M
+2785,2025-03-07,India,Email,54,M
+2786,2025-01-17,UK,Social,32,M
+2787,2025-01-01,USA,Organic,58,F
+2788,2024-01-31,USA,Paid Search,45,M
+2789,2024-12-24,India,Social,21,F
+2790,2025-08-11,UK,Referral,67,M
+2791,2024-01-11,UK,Social,69,F
+2792,2024-10-08,USA,Organic,63,F
+2793,2024-10-23,Canada,Paid Search,42,M
+2794,2025-06-22,Canada,Organic,30,M
+2795,2024-06-18,India,Organic,18,M
+2796,2024-10-12,UK,Social,56,M
+2797,2025-03-06,USA,Email,64,M
+2798,2024-02-06,Australia,Organic,23,F
+2799,2025-04-25,India,Email,53,Other
+2800,2025-05-08,India,Social,19,F
+2801,2025-03-07,USA,Email,58,F
+2802,2025-01-23,India,Organic,19,M
+2803,2025-03-24,UK,Paid Search,68,F
+2804,2025-04-14,USA,Organic,26,M
+2805,2025-06-26,India,Organic,38,F
+2806,2024-09-13,USA,Paid Search,54,F
+2807,2024-09-30,Canada,Paid Search,62,F
+2808,2025-01-17,Germany,Organic,36,M
+2809,2024-04-25,USA,Organic,68,M
+2810,2025-05-28,India,Referral,18,F
+2811,2025-04-07,India,Email,42,F
+2812,2025-01-13,Canada,Paid Search,69,F
+2813,2024-06-29,Germany,Referral,32,F
+2814,2024-07-27,UK,Organic,45,M
+2815,2024-09-17,Canada,Paid Search,41,M
+2816,2025-02-01,India,Email,38,F
+2817,2025-04-11,UK,Paid Search,57,F
+2818,2025-02-07,India,Organic,44,M
+2819,2025-07-11,India,Paid Search,55,F
+2820,2025-07-30,USA,Paid Search,45,F
+2821,2025-02-26,USA,Social,69,M
+2822,2024-08-10,Australia,Paid Search,42,F
+2823,2024-12-25,USA,Paid Search,59,F
+2824,2024-09-12,Canada,Organic,49,F
+2825,2025-01-12,Germany,Paid Search,59,M
+2826,2025-05-02,UK,Organic,64,F
+2827,2024-08-09,Australia,Email,29,M
+2828,2024-10-30,USA,Social,33,F
+2829,2024-01-28,USA,Paid Search,33,F
+2830,2025-03-17,India,Social,43,M
+2831,2024-10-20,India,Organic,43,F
+2832,2024-10-02,Canada,Paid Search,18,F
+2833,2024-11-15,USA,Paid Search,64,F
+2834,2024-05-09,USA,Paid Search,62,M
+2835,2024-12-24,India,Social,49,F
+2836,2025-03-23,USA,Referral,33,M
+2837,2024-07-28,Germany,Paid Search,60,F
+2838,2024-03-19,India,Paid Search,32,F
+2839,2024-08-20,Germany,Social,33,F
+2840,2024-04-29,UK,Organic,69,F
+2841,2024-08-12,Germany,Organic,66,M
+2842,2025-01-11,India,Referral,48,F
+2843,2024-03-09,UK,Email,26,M
+2844,2025-03-24,India,Referral,24,F
+2845,2024-05-14,USA,Organic,68,M
+2846,2025-06-20,Germany,Organic,31,F
+2847,2025-03-15,UK,Paid Search,53,M
+2848,2024-06-12,India,Referral,36,F
+2849,2024-12-03,Canada,Organic,43,M
+2850,2024-03-07,India,Organic,69,M
+2851,2024-02-29,UK,Organic,48,M
+2852,2025-07-27,Australia,Email,40,F
+2853,2025-04-26,USA,Email,39,M
+2854,2024-04-02,Canada,Social,29,F
+2855,2024-06-18,UK,Organic,46,F
+2856,2024-04-28,Germany,Social,47,M
+2857,2024-08-25,UK,Paid Search,22,M
+2858,2024-06-23,UK,Organic,39,F
+2859,2024-07-15,India,Organic,51,M
+2860,2024-11-13,Germany,Paid Search,20,M
+2861,2024-04-23,India,Paid Search,68,F
+2862,2025-06-13,Australia,Referral,62,F
+2863,2025-03-12,India,Paid Search,51,M
+2864,2025-04-01,India,Paid Search,18,F
+2865,2024-04-11,Canada,Social,44,F
+2866,2025-02-28,India,Social,64,F
+2867,2025-05-16,USA,Organic,19,M
+2868,2024-04-15,Germany,Social,59,F
+2869,2025-03-26,India,Organic,61,F
+2870,2024-08-02,India,Paid Search,21,F
+2871,2025-04-17,USA,Social,29,F
+2872,2024-10-14,India,Social,55,Other
+2873,2025-04-26,India,Paid Search,65,M
+2874,2024-03-29,India,Organic,58,M
+2875,2024-08-21,USA,Paid Search,45,M
+2876,2024-06-13,USA,Paid Search,49,F
+2877,2024-05-29,India,Referral,45,M
+2878,2024-07-03,UK,Paid Search,48,Other
+2879,2024-08-17,UK,Email,58,M
+2880,2024-03-17,India,Paid Search,20,M
+2881,2025-02-28,USA,Email,28,F
+2882,2024-11-26,Canada,Organic,21,M
+2883,2025-05-12,UK,Organic,59,F
+2884,2025-02-27,USA,Organic,55,M
+2885,2024-03-30,USA,Organic,20,F
+2886,2024-02-11,India,Referral,23,M
+2887,2024-09-10,Canada,Social,31,M
+2888,2024-10-15,Australia,Social,30,M
+2889,2024-05-24,Australia,Paid Search,45,F
+2890,2025-04-14,India,Social,43,M
+2891,2024-12-14,USA,Social,36,M
+2892,2025-03-24,India,Email,26,M
+2893,2024-03-06,USA,Social,51,M
+2894,2025-05-04,USA,Social,59,M
+2895,2024-05-03,UK,Organic,51,M
+2896,2024-09-25,India,Referral,59,F
+2897,2024-09-20,Australia,Organic,65,F
+2898,2025-05-07,India,Paid Search,61,M
+2899,2024-06-15,India,Email,51,M
+2900,2024-05-24,Canada,Organic,20,F
+2901,2024-07-22,Germany,Organic,35,F
+2902,2024-08-04,USA,Paid Search,40,F
+2903,2024-04-19,UK,Paid Search,55,M
+2904,2024-04-15,India,Referral,62,M
+2905,2024-05-18,India,Email,51,M
+2906,2024-10-07,USA,Paid Search,36,F
+2907,2024-07-25,USA,Referral,58,F
+2908,2024-08-23,UK,Social,54,M
+2909,2025-03-07,India,Email,59,F
+2910,2024-05-24,UK,Organic,48,F
+2911,2025-06-29,Germany,Paid Search,51,F
+2912,2025-03-27,India,Organic,36,M
+2913,2024-04-14,India,Organic,38,M
+2914,2024-07-07,USA,Social,32,F
+2915,2024-04-20,Germany,Organic,31,F
+2916,2024-06-12,UK,Paid Search,51,M
+2917,2024-08-07,Germany,Social,37,F
+2918,2024-03-19,USA,Organic,24,F
+2919,2024-01-09,India,Paid Search,19,F
+2920,2024-09-20,USA,Social,62,F
+2921,2025-02-24,India,Email,40,M
+2922,2024-06-30,Germany,Organic,47,M
+2923,2025-05-31,India,Referral,65,F
+2924,2024-08-09,India,Email,23,M
+2925,2025-06-24,USA,Social,66,F
+2926,2024-05-21,USA,Paid Search,54,M
+2927,2024-11-19,UK,Social,51,F
+2928,2025-04-02,USA,Email,40,F
+2929,2024-02-05,Australia,Paid Search,54,M
+2930,2025-07-12,Canada,Referral,28,M
+2931,2024-08-06,Canada,Referral,33,M
+2932,2024-10-25,UK,Paid Search,67,M
+2933,2025-01-12,UK,Social,32,M
+2934,2025-01-20,UK,Paid Search,55,M
+2935,2024-01-15,USA,Email,66,F
+2936,2025-06-04,USA,Email,48,F
+2937,2025-01-09,UK,Organic,33,M
+2938,2025-08-22,India,Organic,62,M
+2939,2024-10-09,India,Paid Search,60,M
+2940,2025-01-03,Canada,Referral,46,F
+2941,2024-09-21,India,Paid Search,23,F
+2942,2025-06-17,USA,Email,40,F
+2943,2025-05-14,UK,Paid Search,40,M
+2944,2025-06-29,India,Organic,27,F
+2945,2024-10-29,Canada,Referral,38,M
+2946,2025-04-19,India,Social,25,F
+2947,2024-08-03,Canada,Paid Search,54,F
+2948,2024-10-03,Germany,Organic,40,M
+2949,2025-04-01,India,Organic,55,F
+2950,2024-02-18,India,Organic,41,M
+2951,2025-03-02,USA,Paid Search,55,F
+2952,2024-01-10,USA,Social,56,M
+2953,2024-12-14,India,Paid Search,26,M
+2954,2024-10-13,Australia,Organic,40,M
+2955,2024-10-08,India,Organic,56,F
+2956,2024-10-23,Canada,Paid Search,48,F
+2957,2024-10-22,India,Referral,29,M
+2958,2024-09-01,Australia,Paid Search,61,Other
+2959,2024-09-27,India,Organic,28,M
+2960,2024-12-06,USA,Social,69,M
+2961,2025-04-03,UK,Referral,54,M
+2962,2024-11-27,India,Email,34,M
+2963,2025-01-20,Canada,Email,28,M
+2964,2025-05-16,India,Referral,64,M
+2965,2025-08-16,USA,Social,45,M
+2966,2024-03-06,USA,Referral,59,M
+2967,2025-03-03,UK,Organic,61,M
+2968,2024-05-15,India,Email,21,F
+2969,2024-04-28,India,Email,53,F
+2970,2025-04-20,India,Referral,35,Other
+2971,2024-02-11,USA,Paid Search,65,M
+2972,2025-05-23,India,Email,29,F
+2973,2025-04-07,Australia,Organic,19,M
+2974,2025-08-19,USA,Social,52,M
+2975,2025-02-04,UK,Paid Search,46,M
+2976,2025-06-07,USA,Social,46,M
+2977,2024-03-12,India,Social,31,F
+2978,2025-06-17,USA,Paid Search,43,F
+2979,2024-04-06,India,Organic,68,F
+2980,2024-07-07,USA,Paid Search,57,M
+2981,2024-03-17,USA,Social,69,F
+2982,2024-08-28,USA,Social,35,M
+2983,2025-03-25,Australia,Social,63,M
+2984,2024-06-09,India,Organic,37,M
+2985,2025-05-08,USA,Email,66,M
+2986,2024-12-29,India,Social,63,M
+2987,2025-01-12,USA,Organic,26,M
+2988,2025-07-17,Germany,Paid Search,68,F
+2989,2024-09-16,India,Paid Search,49,F
+2990,2024-07-25,UK,Paid Search,58,M
+2991,2025-08-19,USA,Organic,48,F
+2992,2024-11-30,India,Organic,29,M
+2993,2025-01-03,Australia,Organic,69,F
+2994,2024-06-26,USA,Organic,23,M
+2995,2024-05-09,Germany,Organic,60,F
+2996,2024-04-11,USA,Email,28,M
+2997,2024-05-14,Australia,Paid Search,58,F
+2998,2024-04-27,India,Paid Search,39,M
+2999,2025-03-24,USA,Social,30,F
+3000,2024-02-04,Germany,Paid Search,30,M
+3001,2025-01-12,USA,Organic,34,F
+3002,2025-07-23,USA,Organic,64,M
+3003,2025-04-04,Australia,Organic,58,M
+3004,2024-08-29,UK,Social,52,M
+3005,2024-02-05,UK,Paid Search,50,M
+3006,2025-05-15,UK,Paid Search,39,M
+3007,2024-01-02,Canada,Social,64,M
+3008,2025-02-12,Canada,Referral,32,F
+3009,2025-02-06,UK,Paid Search,67,M
+3010,2024-04-25,India,Paid Search,37,F
+3011,2025-03-19,India,Paid Search,35,M
+3012,2024-04-15,UK,Social,42,F
+3013,2024-05-15,Canada,Social,56,F
+3014,2025-05-02,USA,Social,55,M
+3015,2025-08-10,India,Organic,57,F
+3016,2024-06-07,India,Paid Search,22,F
+3017,2025-07-06,USA,Email,26,F
+3018,2025-07-01,Canada,Paid Search,62,M
+3019,2025-04-06,India,Referral,69,F
+3020,2024-03-25,UK,Paid Search,24,F
+3021,2024-06-28,Germany,Paid Search,65,Other
+3022,2025-02-10,Australia,Paid Search,31,M
+3023,2025-08-22,India,Paid Search,68,F
+3024,2025-05-03,Australia,Email,69,M
+3025,2024-09-09,UK,Organic,51,F
+3026,2024-05-21,Germany,Social,27,M
+3027,2025-07-30,India,Social,58,F
+3028,2024-06-14,USA,Email,23,F
+3029,2024-07-24,UK,Social,35,F
+3030,2025-08-01,USA,Referral,51,M
+3031,2024-12-02,USA,Email,21,F
+3032,2024-06-07,UK,Paid Search,38,M
+3033,2024-01-04,UK,Email,59,M
+3034,2024-09-14,India,Referral,22,M
+3035,2025-08-14,USA,Organic,37,M
+3036,2024-09-16,India,Social,18,F
+3037,2025-02-23,Australia,Organic,52,F
+3038,2024-05-31,Australia,Social,22,F
+3039,2025-04-10,India,Organic,32,M
+3040,2025-04-10,India,Social,45,F
+3041,2024-12-30,India,Paid Search,29,M
+3042,2025-04-08,USA,Social,30,M
+3043,2024-12-13,Canada,Organic,61,M
+3044,2024-08-14,USA,Social,58,M
+3045,2025-03-18,India,Paid Search,22,F
+3046,2025-05-16,India,Social,62,F
+3047,2025-05-19,India,Paid Search,42,M
+3048,2024-05-07,Canada,Organic,25,F
+3049,2025-02-09,UK,Paid Search,65,M
+3050,2024-01-03,UK,Referral,35,M
+3051,2024-12-09,USA,Organic,34,F
+3052,2024-12-08,Australia,Social,25,F
+3053,2024-08-06,USA,Organic,64,F
+3054,2025-08-19,Canada,Social,32,F
+3055,2025-06-13,Canada,Organic,48,M
+3056,2024-01-24,USA,Paid Search,30,Other
+3057,2024-05-05,Canada,Paid Search,64,F
+3058,2024-05-04,India,Organic,58,M
+3059,2025-06-22,UK,Paid Search,44,F
+3060,2024-11-07,India,Paid Search,35,Other
+3061,2025-03-13,USA,Paid Search,52,M
+3062,2025-04-30,India,Referral,43,F
+3063,2025-04-05,India,Paid Search,66,M
+3064,2024-02-23,India,Referral,53,M
+3065,2024-03-25,USA,Paid Search,19,F
+3066,2024-08-25,UK,Organic,60,F
+3067,2024-07-22,USA,Organic,28,M
+3068,2025-03-24,USA,Paid Search,33,F
+3069,2024-04-03,Australia,Paid Search,40,F
+3070,2024-08-10,Australia,Email,28,F
+3071,2024-05-21,India,Social,67,M
+3072,2024-04-23,USA,Social,68,F
+3073,2024-04-13,UK,Paid Search,26,M
+3074,2024-04-27,Germany,Paid Search,34,F
+3075,2024-12-04,USA,Social,37,F
+3076,2024-09-03,Germany,Organic,52,M
+3077,2024-09-18,India,Organic,49,F
+3078,2024-10-14,USA,Paid Search,53,M
+3079,2025-03-20,Germany,Organic,19,F
+3080,2025-06-01,UK,Social,44,M
+3081,2024-11-11,Canada,Organic,28,F
+3082,2025-01-20,India,Organic,29,M
+3083,2025-03-19,India,Referral,58,F
+3084,2025-02-18,India,Referral,25,M
+3085,2024-03-21,India,Paid Search,19,F
+3086,2025-08-12,India,Paid Search,43,F
+3087,2024-04-08,USA,Email,56,M
+3088,2024-09-04,USA,Organic,44,F
+3089,2025-01-26,UK,Paid Search,26,F
+3090,2024-08-30,USA,Organic,58,M
+3091,2024-05-25,India,Paid Search,37,M
+3092,2025-07-08,UK,Referral,54,M
+3093,2024-02-12,India,Email,28,Other
+3094,2024-05-27,Canada,Referral,65,F
+3095,2025-08-18,India,Social,32,F
+3096,2025-03-13,USA,Social,68,M
+3097,2024-02-22,Canada,Email,37,F
+3098,2025-03-28,UK,Social,55,F
+3099,2025-08-04,UK,Paid Search,44,F
+3100,2024-02-28,UK,Organic,21,F
+3101,2024-09-05,India,Paid Search,23,F
+3102,2024-10-07,UK,Organic,39,F
+3103,2024-03-19,Canada,Paid Search,28,M
+3104,2024-04-30,Australia,Organic,49,M
+3105,2024-04-14,USA,Social,25,M
+3106,2024-04-21,USA,Organic,48,F
+3107,2024-08-30,Germany,Organic,28,F
+3108,2024-10-05,USA,Paid Search,27,M
+3109,2024-05-22,India,Organic,37,F
+3110,2024-06-22,India,Referral,48,F
+3111,2024-04-25,India,Paid Search,38,M
+3112,2025-04-22,USA,Paid Search,36,M
+3113,2024-05-07,India,Organic,35,F
+3114,2025-06-28,India,Email,35,M
+3115,2024-11-19,India,Social,38,M
+3116,2025-04-26,Australia,Paid Search,61,M
+3117,2025-01-16,India,Organic,48,F
+3118,2024-06-08,India,Social,39,M
+3119,2024-12-26,USA,Referral,56,M
+3120,2024-06-13,India,Paid Search,45,F
+3121,2024-03-12,Australia,Organic,67,M
+3122,2024-06-01,Australia,Organic,47,M
+3123,2024-06-14,USA,Organic,29,F
+3124,2024-03-22,USA,Social,47,F
+3125,2024-01-15,USA,Referral,58,F
+3126,2025-07-20,India,Referral,29,M
+3127,2024-11-04,India,Email,28,F
+3128,2024-08-29,India,Organic,49,M
+3129,2025-07-11,India,Referral,63,F
+3130,2024-05-14,UK,Paid Search,35,M
+3131,2024-08-29,India,Paid Search,44,M
+3132,2025-05-23,India,Social,52,M
+3133,2025-01-14,USA,Organic,52,M
+3134,2024-08-27,USA,Email,25,F
+3135,2024-06-02,India,Referral,38,F
+3136,2024-01-22,India,Email,69,M
+3137,2024-02-21,India,Email,64,F
+3138,2024-04-07,India,Paid Search,58,M
+3139,2025-04-16,Canada,Organic,19,M
+3140,2025-01-18,Australia,Email,39,M
+3141,2024-09-17,USA,Social,20,F
+3142,2025-04-14,USA,Referral,33,M
+3143,2024-04-06,Germany,Organic,62,F
+3144,2024-05-06,UK,Paid Search,38,M
+3145,2024-08-23,India,Paid Search,26,M
+3146,2025-07-04,India,Social,55,M
+3147,2025-01-03,USA,Email,57,M
+3148,2025-05-25,UK,Referral,52,F
+3149,2024-05-28,India,Organic,60,M
+3150,2025-05-24,India,Paid Search,54,M
+3151,2024-02-13,USA,Organic,51,F
+3152,2024-05-16,India,Organic,64,M
+3153,2024-11-09,USA,Paid Search,34,M
+3154,2024-01-31,UK,Social,41,Other
+3155,2025-05-29,USA,Paid Search,47,M
+3156,2025-06-04,India,Paid Search,52,F
+3157,2024-11-20,India,Social,42,M
+3158,2024-07-02,Canada,Email,40,F
+3159,2024-02-29,USA,Organic,26,M
+3160,2025-01-06,India,Paid Search,51,F
+3161,2024-11-18,India,Social,24,M
+3162,2025-03-31,Canada,Email,42,F
+3163,2024-12-27,Germany,Email,39,F
+3164,2024-03-17,Canada,Organic,58,F
+3165,2024-03-14,UK,Paid Search,42,M
+3166,2025-04-13,USA,Referral,18,F
+3167,2024-04-05,USA,Paid Search,44,F
+3168,2025-07-17,India,Paid Search,29,F
+3169,2024-03-04,UK,Referral,37,F
+3170,2025-03-13,UK,Organic,33,M
+3171,2025-08-08,India,Social,26,M
+3172,2024-09-21,Canada,Email,67,F
+3173,2024-02-04,USA,Organic,31,F
+3174,2025-06-10,India,Social,44,F
+3175,2024-04-22,USA,Paid Search,61,F
+3176,2024-11-12,Canada,Email,36,F
+3177,2025-08-13,Australia,Referral,66,F
+3178,2025-03-22,USA,Email,39,F
+3179,2024-01-28,Australia,Organic,67,F
+3180,2025-05-07,Canada,Email,41,M
+3181,2024-04-06,Canada,Referral,18,F
+3182,2025-03-25,Canada,Social,63,M
+3183,2025-01-07,USA,Social,62,M
+3184,2024-06-21,Germany,Organic,68,M
+3185,2024-09-11,UK,Email,24,F
+3186,2024-03-11,Germany,Organic,61,M
+3187,2025-08-15,India,Paid Search,35,M
+3188,2024-05-23,Germany,Referral,61,Other
+3189,2024-07-04,Australia,Referral,68,M
+3190,2024-10-28,USA,Referral,28,F
+3191,2025-02-07,Australia,Paid Search,37,M
+3192,2024-10-30,USA,Organic,31,M
+3193,2024-10-30,India,Paid Search,33,F
+3194,2024-12-15,India,Organic,48,F
+3195,2025-05-29,Germany,Email,39,M
+3196,2024-08-25,UK,Social,52,F
+3197,2025-05-14,USA,Paid Search,53,M
+3198,2025-04-17,UK,Organic,28,F
+3199,2025-07-30,USA,Paid Search,20,M
+3200,2025-07-01,USA,Email,56,F
+3201,2025-04-23,Canada,Social,27,M
+3202,2024-05-28,UK,Organic,28,M
+3203,2025-04-09,Germany,Organic,49,M
+3204,2025-03-17,UK,Paid Search,31,F
+3205,2024-06-22,Australia,Organic,27,F
+3206,2025-02-10,India,Referral,33,F
+3207,2024-05-31,India,Social,45,F
+3208,2024-11-09,India,Organic,61,Other
+3209,2025-04-23,UK,Email,69,F
+3210,2024-04-23,UK,Paid Search,56,F
+3211,2024-07-21,Germany,Organic,64,M
+3212,2025-04-22,USA,Social,45,F
+3213,2024-09-29,India,Organic,39,F
+3214,2025-07-30,UK,Paid Search,60,M
+3215,2024-01-05,Australia,Email,33,F
+3216,2025-03-09,India,Referral,60,M
+3217,2025-05-03,India,Paid Search,69,M
+3218,2025-07-04,India,Social,38,F
+3219,2024-04-04,USA,Organic,50,M
+3220,2025-08-13,India,Social,58,M
+3221,2024-08-23,USA,Organic,58,F
+3222,2024-07-30,UK,Social,28,M
+3223,2024-08-01,USA,Organic,68,F
+3224,2025-01-17,USA,Referral,44,M
+3225,2025-01-30,India,Email,20,M
+3226,2024-10-11,Australia,Paid Search,24,F
+3227,2024-02-12,USA,Email,55,F
+3228,2025-08-14,USA,Organic,40,F
+3229,2024-05-13,India,Social,23,M
+3230,2024-02-26,UK,Organic,45,M
+3231,2024-12-24,Canada,Organic,49,F
+3232,2024-09-04,India,Social,22,F
+3233,2025-01-04,India,Paid Search,36,M
+3234,2025-06-09,India,Paid Search,42,F
+3235,2024-02-28,UK,Paid Search,58,F
+3236,2024-06-19,Australia,Organic,51,F
+3237,2024-11-05,USA,Organic,22,M
+3238,2025-04-17,USA,Social,49,F
+3239,2024-12-26,Germany,Social,64,M
+3240,2024-08-17,Germany,Organic,20,M
+3241,2025-01-01,India,Paid Search,69,F
+3242,2025-08-10,India,Social,22,M
+3243,2024-10-15,USA,Social,50,F
+3244,2025-06-14,Germany,Email,36,F
+3245,2025-04-12,UK,Paid Search,56,M
+3246,2024-06-29,UK,Paid Search,61,F
+3247,2024-05-29,Canada,Social,62,M
+3248,2025-04-07,India,Paid Search,63,M
+3249,2024-05-04,USA,Organic,60,F
+3250,2024-07-21,India,Organic,34,Other
+3251,2024-05-21,Canada,Email,42,M
+3252,2024-12-29,UK,Organic,55,F
+3253,2024-06-25,India,Social,26,M
+3254,2025-01-30,India,Social,48,M
+3255,2025-07-14,Germany,Paid Search,45,F
+3256,2025-05-12,Germany,Email,69,F
+3257,2025-07-22,UK,Social,20,F
+3258,2024-01-15,India,Organic,22,F
+3259,2024-09-30,Australia,Email,19,F
+3260,2024-05-12,Germany,Paid Search,46,M
+3261,2025-07-04,UK,Paid Search,46,M
+3262,2025-03-03,UK,Social,48,M
+3263,2024-07-11,Australia,Social,30,F
+3264,2024-12-04,Australia,Paid Search,33,F
+3265,2024-12-29,UK,Referral,39,F
+3266,2024-10-24,USA,Social,20,F
+3267,2024-10-11,USA,Social,57,M
+3268,2024-02-03,Canada,Organic,20,F
+3269,2024-09-28,UK,Organic,52,M
+3270,2024-07-27,India,Paid Search,41,F
+3271,2025-05-05,India,Social,69,M
+3272,2025-06-03,Australia,Paid Search,54,M
+3273,2025-03-26,Canada,Email,42,M
+3274,2024-01-19,Australia,Organic,54,M
+3275,2025-05-19,USA,Social,24,M
+3276,2024-08-25,Germany,Email,27,M
+3277,2024-09-06,Canada,Email,43,F
+3278,2025-07-21,USA,Email,62,F
+3279,2025-06-04,India,Email,60,M
+3280,2024-01-31,Australia,Organic,37,F
+3281,2024-08-03,India,Social,32,M
+3282,2025-03-25,UK,Referral,68,F
+3283,2024-11-19,UK,Social,47,M
+3284,2024-06-03,UK,Organic,24,F
+3285,2024-11-10,India,Referral,29,M
+3286,2025-06-03,Germany,Organic,61,F
+3287,2024-05-13,India,Paid Search,64,F
+3288,2025-03-23,Canada,Organic,65,M
+3289,2025-03-16,India,Paid Search,18,F
+3290,2025-06-15,UK,Paid Search,60,F
+3291,2024-06-27,Germany,Paid Search,23,M
+3292,2024-05-09,India,Referral,60,M
+3293,2024-11-24,India,Paid Search,63,F
+3294,2024-11-14,Germany,Paid Search,36,M
+3295,2024-09-02,India,Email,28,F
+3296,2025-04-12,India,Email,55,F
+3297,2025-04-24,USA,Organic,21,M
+3298,2024-05-27,Australia,Organic,48,F
+3299,2025-04-22,UK,Social,35,F
+3300,2024-05-18,USA,Email,40,F
+3301,2024-09-01,Australia,Social,60,M
+3302,2024-01-17,USA,Organic,69,M
+3303,2024-07-23,USA,Social,38,F
+3304,2025-07-29,USA,Social,33,M
+3305,2024-09-22,USA,Social,61,M
+3306,2025-03-02,USA,Email,39,F
+3307,2024-03-05,UK,Email,28,Other
+3308,2025-01-16,India,Social,64,F
+3309,2024-08-10,UK,Social,69,F
+3310,2025-03-22,India,Social,33,F
+3311,2025-07-10,USA,Paid Search,26,F
+3312,2024-11-14,India,Paid Search,25,M
+3313,2024-03-02,UK,Social,49,M
+3314,2024-10-12,Germany,Social,34,M
+3315,2024-03-14,USA,Paid Search,50,F
+3316,2024-09-26,India,Organic,57,F
+3317,2024-02-06,India,Social,18,F
+3318,2025-01-19,Canada,Social,62,F
+3319,2024-07-05,India,Paid Search,19,M
+3320,2024-04-30,Germany,Paid Search,23,M
+3321,2024-01-11,USA,Organic,55,M
+3322,2025-06-16,India,Referral,50,M
+3323,2025-05-17,Germany,Email,68,F
+3324,2025-05-02,USA,Social,47,F
+3325,2024-02-04,India,Paid Search,39,F
+3326,2024-07-28,Australia,Social,52,M
+3327,2025-08-05,India,Paid Search,57,F
+3328,2024-12-13,USA,Referral,52,F
+3329,2024-03-18,USA,Organic,37,M
+3330,2024-03-25,USA,Organic,67,F
+3331,2024-06-06,Germany,Social,33,M
+3332,2025-08-06,India,Organic,36,F
+3333,2024-04-11,Australia,Social,32,M
+3334,2025-06-25,UK,Email,33,F
+3335,2025-02-10,Australia,Organic,29,M
+3336,2025-07-07,Canada,Paid Search,48,M
+3337,2025-05-10,Australia,Social,55,F
+3338,2024-07-18,UK,Email,40,M
+3339,2025-05-11,USA,Paid Search,65,M
+3340,2024-04-11,USA,Organic,42,M
+3341,2024-06-23,UK,Social,42,M
+3342,2024-05-07,USA,Paid Search,21,M
+3343,2024-03-20,Germany,Email,64,F
+3344,2024-02-24,India,Social,25,F
+3345,2024-04-22,Canada,Organic,26,F
+3346,2024-03-13,India,Email,66,M
+3347,2024-08-16,Australia,Paid Search,45,M
+3348,2024-02-12,India,Organic,21,M
+3349,2024-02-06,India,Social,40,F
+3350,2025-08-16,Canada,Referral,48,M
+3351,2024-02-22,Canada,Social,18,M
+3352,2024-02-14,Germany,Organic,57,F
+3353,2024-01-19,Australia,Social,52,M
+3354,2024-03-20,India,Organic,18,F
+3355,2024-11-12,Canada,Paid Search,50,M
+3356,2025-05-11,USA,Paid Search,29,F
+3357,2025-03-16,USA,Organic,56,M
+3358,2024-12-14,USA,Paid Search,37,F
+3359,2024-02-21,India,Referral,28,F
+3360,2025-04-09,UK,Organic,44,M
+3361,2024-01-23,Germany,Email,41,M
+3362,2025-01-13,India,Social,35,F
+3363,2024-09-02,Australia,Paid Search,63,F
+3364,2025-06-13,USA,Organic,51,M
+3365,2024-07-03,India,Organic,43,M
+3366,2025-01-18,UK,Organic,29,F
+3367,2024-09-20,India,Social,47,F
+3368,2024-11-09,India,Referral,19,F
+3369,2025-07-17,UK,Email,64,M
+3370,2025-03-03,India,Organic,18,M
+3371,2024-09-05,India,Organic,54,M
+3372,2024-09-25,Germany,Organic,35,F
+3373,2025-02-26,India,Referral,55,M
+3374,2024-07-26,Canada,Organic,36,F
+3375,2024-04-10,Germany,Organic,19,M
+3376,2024-10-07,India,Social,67,F
+3377,2024-02-10,USA,Social,57,F
+3378,2024-04-11,India,Organic,20,F
+3379,2024-09-09,UK,Social,19,F
+3380,2025-04-22,India,Organic,45,F
+3381,2025-04-13,Australia,Organic,67,M
+3382,2024-06-05,India,Organic,48,M
+3383,2024-09-10,UK,Paid Search,18,M
+3384,2024-04-02,India,Referral,54,M
+3385,2025-03-29,India,Paid Search,40,F
+3386,2024-05-27,USA,Email,51,M
+3387,2025-04-24,UK,Paid Search,36,F
+3388,2025-05-20,Australia,Social,18,F
+3389,2025-02-17,India,Referral,18,F
+3390,2024-07-17,India,Paid Search,50,F
+3391,2025-07-25,USA,Referral,51,M
+3392,2025-02-15,USA,Social,34,F
+3393,2025-01-22,Canada,Social,22,F
+3394,2025-05-28,Australia,Organic,58,M
+3395,2025-06-12,Canada,Social,25,F
+3396,2024-02-16,India,Paid Search,27,M
+3397,2025-06-12,USA,Referral,41,F
+3398,2025-04-04,Germany,Referral,55,M
+3399,2024-05-03,USA,Paid Search,69,M
+3400,2024-07-03,UK,Referral,50,F
+3401,2025-03-27,India,Email,67,M
+3402,2024-05-09,USA,Social,51,F
+3403,2024-09-28,Canada,Organic,62,F
+3404,2025-02-17,India,Organic,27,M
+3405,2025-01-25,Australia,Organic,20,M
+3406,2025-06-29,USA,Organic,52,F
+3407,2024-03-07,India,Referral,68,F
+3408,2024-06-26,India,Organic,56,F
+3409,2025-08-13,India,Social,35,M
+3410,2024-12-07,USA,Social,43,M
+3411,2024-05-29,India,Social,23,F
+3412,2024-06-22,UK,Organic,35,Other
+3413,2024-07-22,Canada,Social,53,F
+3414,2024-11-28,USA,Social,26,M
+3415,2024-06-19,India,Social,43,M
+3416,2025-01-08,USA,Organic,33,M
+3417,2024-09-24,Germany,Social,43,F
+3418,2025-01-01,UK,Organic,57,F
+3419,2024-04-03,India,Social,64,F
+3420,2025-01-09,USA,Paid Search,39,M
+3421,2025-07-08,USA,Organic,61,Other
+3422,2024-03-22,USA,Email,54,F
+3423,2024-07-15,India,Organic,65,F
+3424,2025-02-20,Australia,Referral,56,F
+3425,2025-01-05,India,Email,46,M
+3426,2025-02-08,India,Paid Search,53,M
+3427,2024-12-01,India,Paid Search,34,F
+3428,2025-02-13,UK,Organic,53,M
+3429,2024-12-31,USA,Referral,54,F
+3430,2024-02-14,India,Social,49,M
+3431,2025-03-26,USA,Organic,23,F
+3432,2024-09-25,UK,Paid Search,44,F
+3433,2024-01-31,India,Organic,54,M
+3434,2024-09-02,Australia,Social,28,M
+3435,2024-09-18,USA,Paid Search,58,F
+3436,2024-02-22,India,Organic,61,M
+3437,2025-08-20,Australia,Email,46,M
+3438,2024-05-13,Canada,Organic,68,F
+3439,2024-07-17,USA,Paid Search,62,M
+3440,2024-09-21,Canada,Social,42,M
+3441,2025-05-14,USA,Referral,63,F
+3442,2025-03-21,USA,Paid Search,66,M
+3443,2025-04-07,Canada,Referral,23,M
+3444,2024-05-22,Germany,Paid Search,69,F
+3445,2025-05-22,India,Email,18,M
+3446,2025-05-12,UK,Organic,43,F
+3447,2024-10-05,USA,Social,66,M
+3448,2024-11-23,India,Organic,55,M
+3449,2024-01-23,Australia,Referral,31,F
+3450,2025-04-01,USA,Referral,51,M
+3451,2025-07-30,UK,Paid Search,29,F
+3452,2024-10-10,UK,Paid Search,30,M
+3453,2024-11-20,UK,Social,65,M
+3454,2024-10-26,India,Organic,20,F
+3455,2024-02-19,Australia,Social,68,M
+3456,2025-01-06,UK,Social,41,F
+3457,2025-03-08,UK,Paid Search,21,M
+3458,2025-07-10,USA,Organic,58,M
+3459,2025-07-11,India,Referral,20,M
+3460,2024-10-22,India,Organic,34,F
+3461,2025-07-29,USA,Social,30,M
+3462,2024-11-13,India,Organic,58,M
+3463,2025-01-20,UK,Organic,38,M
+3464,2024-12-27,Canada,Organic,52,M
+3465,2025-08-22,USA,Paid Search,21,M
+3466,2025-03-18,USA,Social,54,F
+3467,2024-03-13,UK,Paid Search,54,F
+3468,2024-02-13,India,Social,32,Other
+3469,2024-09-02,Australia,Social,63,F
+3470,2024-11-05,USA,Organic,42,M
+3471,2025-02-05,India,Organic,52,M
+3472,2024-10-15,India,Social,27,M
+3473,2024-11-04,Australia,Social,66,M
+3474,2025-07-07,India,Social,30,M
+3475,2024-07-19,UK,Organic,50,M
+3476,2024-10-23,India,Email,22,M
+3477,2024-11-30,India,Organic,20,F
+3478,2024-10-07,Canada,Social,24,F
+3479,2025-08-03,India,Organic,67,F
+3480,2025-07-31,India,Social,28,M
+3481,2024-11-03,USA,Paid Search,63,F
+3482,2024-09-27,Canada,Social,48,M
+3483,2024-12-19,USA,Organic,22,M
+3484,2024-04-18,India,Social,40,F
+3485,2024-09-12,Australia,Organic,42,Other
+3486,2024-05-10,UK,Social,31,F
+3487,2024-03-27,Canada,Organic,49,M
+3488,2024-02-27,Germany,Organic,62,F
+3489,2024-12-18,UK,Social,63,F
+3490,2024-01-01,USA,Organic,45,F
+3491,2025-01-22,USA,Organic,64,M
+3492,2024-09-16,Germany,Email,66,F
+3493,2024-08-07,Germany,Email,22,M
+3494,2025-04-06,Australia,Email,51,M
+3495,2024-11-19,UK,Paid Search,58,F
+3496,2025-03-16,India,Paid Search,18,F
+3497,2025-03-01,USA,Email,49,F
+3498,2024-01-20,UK,Organic,65,M
+3499,2024-05-09,USA,Social,31,M
+3500,2024-12-07,Germany,Organic,62,F
+3501,2025-08-08,UK,Referral,66,M
+3502,2024-04-02,India,Social,51,M
+3503,2024-03-04,UK,Paid Search,50,M
+3504,2025-07-18,UK,Paid Search,45,F
+3505,2025-08-03,Australia,Organic,39,F
+3506,2024-04-10,USA,Paid Search,41,F
+3507,2024-08-29,UK,Social,45,M
+3508,2025-01-10,USA,Paid Search,43,M
+3509,2024-04-27,USA,Paid Search,60,F
+3510,2024-07-14,India,Organic,57,F
+3511,2024-08-25,Canada,Social,36,M
+3512,2025-01-19,Australia,Paid Search,44,F
+3513,2024-07-03,USA,Organic,29,M
+3514,2024-09-04,UK,Referral,27,F
+3515,2024-06-22,India,Paid Search,37,F
+3516,2025-03-31,UK,Paid Search,21,M
+3517,2024-04-01,USA,Referral,62,F
+3518,2024-05-18,Germany,Paid Search,24,M
+3519,2024-05-29,India,Referral,34,F
+3520,2025-06-27,Germany,Social,31,F
+3521,2025-07-20,India,Social,28,M
+3522,2024-10-27,UK,Organic,37,F
+3523,2024-04-03,UK,Organic,55,M
+3524,2025-03-29,India,Paid Search,64,M
+3525,2024-10-22,USA,Organic,27,M
+3526,2025-05-24,Canada,Organic,30,F
+3527,2024-08-03,UK,Social,42,F
+3528,2025-08-22,India,Social,34,F
+3529,2025-04-29,USA,Organic,59,M
+3530,2024-05-14,USA,Social,29,F
+3531,2025-03-11,UK,Referral,38,F
+3532,2024-06-21,UK,Social,46,M
+3533,2024-07-28,India,Email,37,F
+3534,2024-05-30,UK,Social,50,M
+3535,2025-02-13,Germany,Organic,59,F
+3536,2024-06-06,Germany,Paid Search,45,M
+3537,2025-01-18,India,Referral,41,M
+3538,2024-12-15,USA,Social,67,F
+3539,2025-03-26,USA,Email,69,M
+3540,2025-08-19,India,Referral,69,M
+3541,2024-01-06,USA,Organic,18,F
+3542,2025-08-17,India,Paid Search,61,M
+3543,2024-03-06,India,Social,64,M
+3544,2024-11-12,UK,Organic,59,M
+3545,2024-07-23,India,Social,56,M
+3546,2025-01-18,Germany,Email,37,F
+3547,2025-03-09,India,Social,55,F
+3548,2025-05-30,UK,Organic,48,F
+3549,2024-08-29,USA,Social,61,F
+3550,2025-07-13,Germany,Organic,36,F
+3551,2024-07-12,Germany,Email,56,F
+3552,2024-05-02,USA,Organic,58,F
+3553,2024-08-15,UK,Email,61,M
+3554,2024-11-13,India,Paid Search,26,F
+3555,2025-02-04,UK,Paid Search,62,M
+3556,2025-05-14,India,Paid Search,29,M
+3557,2024-05-14,USA,Organic,66,M
+3558,2024-06-30,India,Paid Search,20,F
+3559,2025-07-17,Canada,Email,29,M
+3560,2024-09-20,USA,Email,49,M
+3561,2024-05-24,UK,Organic,46,M
+3562,2025-08-14,USA,Social,53,F
+3563,2024-09-26,India,Email,38,F
+3564,2025-08-14,India,Email,18,M
+3565,2025-07-05,Australia,Paid Search,50,F
+3566,2025-06-27,Germany,Organic,44,M
+3567,2024-12-15,India,Referral,44,M
+3568,2025-04-24,Germany,Paid Search,37,M
+3569,2025-07-30,USA,Paid Search,64,Other
+3570,2024-06-10,India,Email,59,M
+3571,2024-01-23,USA,Organic,27,M
+3572,2024-07-11,India,Email,20,M
+3573,2025-01-17,India,Organic,27,F
+3574,2024-11-24,UK,Social,20,M
+3575,2024-02-18,India,Referral,54,M
+3576,2024-12-02,Canada,Referral,50,Other
+3577,2024-04-14,UK,Referral,42,F
+3578,2024-10-30,Canada,Email,48,F
+3579,2024-12-11,UK,Organic,60,M
+3580,2025-01-17,Canada,Referral,61,F
+3581,2024-09-04,USA,Referral,40,M
+3582,2024-09-01,USA,Paid Search,48,M
+3583,2025-02-11,USA,Paid Search,47,F
+3584,2025-03-25,Australia,Organic,67,F
+3585,2025-04-29,India,Social,57,M
+3586,2024-07-19,UK,Social,34,F
+3587,2024-09-11,Germany,Paid Search,64,M
+3588,2024-07-17,USA,Paid Search,38,M
+3589,2024-11-12,Canada,Social,57,M
+3590,2024-03-17,USA,Organic,68,F
+3591,2024-09-15,India,Referral,60,F
+3592,2024-04-23,UK,Organic,23,M
+3593,2024-11-15,USA,Organic,28,F
+3594,2025-05-25,India,Organic,59,F
+3595,2025-08-14,India,Email,24,M
+3596,2024-09-24,India,Email,18,F
+3597,2024-02-03,Germany,Organic,31,F
+3598,2024-05-16,Canada,Organic,43,Other
+3599,2024-03-03,USA,Paid Search,24,F
+3600,2025-03-31,India,Organic,25,F
+3601,2025-08-13,USA,Social,35,F
+3602,2024-11-28,Canada,Organic,49,M
+3603,2024-04-16,Germany,Paid Search,46,M
+3604,2024-01-13,India,Paid Search,59,M
+3605,2025-08-08,India,Paid Search,68,Other
+3606,2024-07-08,Australia,Paid Search,19,F
+3607,2024-03-08,Canada,Organic,53,M
+3608,2024-04-16,India,Organic,26,F
+3609,2024-06-02,Canada,Organic,36,M
+3610,2025-01-28,India,Organic,35,M
+3611,2025-06-19,India,Referral,54,F
+3612,2024-06-14,Germany,Organic,31,M
+3613,2025-02-16,USA,Paid Search,64,M
+3614,2024-02-08,USA,Organic,37,F
+3615,2024-01-07,Australia,Email,60,M
+3616,2024-02-02,Canada,Referral,67,Other
+3617,2025-07-07,India,Email,44,F
+3618,2024-12-15,UK,Social,23,F
+3619,2025-04-28,Germany,Email,54,Other
+3620,2024-01-14,UK,Paid Search,40,F
+3621,2024-01-14,Australia,Email,35,F
+3622,2025-05-24,UK,Email,41,M
+3623,2024-03-02,India,Organic,33,M
+3624,2024-04-03,India,Paid Search,32,F
+3625,2024-11-07,Canada,Organic,69,F
+3626,2024-12-29,Australia,Organic,32,M
+3627,2024-05-17,India,Email,41,M
+3628,2024-09-23,India,Organic,55,M
+3629,2025-02-08,Germany,Social,29,M
+3630,2024-09-22,India,Referral,50,F
+3631,2024-08-17,India,Paid Search,64,M
+3632,2024-02-13,Canada,Paid Search,60,M
+3633,2024-09-28,Canada,Social,19,M
+3634,2025-04-26,Canada,Email,39,F
+3635,2025-01-11,UK,Organic,18,F
+3636,2025-06-19,USA,Organic,49,M
+3637,2024-03-16,Australia,Social,34,M
+3638,2024-01-07,India,Referral,64,Other
+3639,2024-11-24,India,Organic,27,F
+3640,2024-04-17,Canada,Paid Search,62,M
+3641,2024-12-22,UK,Referral,35,F
+3642,2025-06-26,Canada,Organic,65,M
+3643,2024-07-21,India,Organic,28,M
+3644,2024-11-25,Australia,Social,31,M
+3645,2025-02-13,UK,Organic,36,F
+3646,2024-03-31,UK,Organic,69,Other
+3647,2025-06-22,Australia,Social,56,F
+3648,2024-05-01,USA,Social,60,M
+3649,2025-04-29,Germany,Paid Search,46,M
+3650,2025-01-30,UK,Paid Search,59,M
+3651,2024-03-25,Germany,Social,50,M
+3652,2025-03-10,Canada,Social,52,M
+3653,2024-04-27,UK,Email,61,F
+3654,2024-12-25,India,Email,69,F
+3655,2025-07-29,India,Social,47,M
+3656,2025-07-25,Australia,Email,40,M
+3657,2025-06-06,Australia,Email,51,M
+3658,2024-10-23,Australia,Organic,56,F
+3659,2024-12-01,India,Referral,69,F
+3660,2024-06-29,USA,Email,54,M
+3661,2025-07-06,Germany,Paid Search,67,M
+3662,2024-10-13,Germany,Organic,56,M
+3663,2025-04-07,India,Social,67,F
+3664,2024-08-03,UK,Paid Search,57,F
+3665,2025-03-20,India,Social,64,F
+3666,2024-05-14,USA,Paid Search,27,F
+3667,2025-03-16,India,Organic,69,M
+3668,2024-01-28,India,Organic,36,F
+3669,2024-03-03,India,Email,59,F
+3670,2024-07-30,Australia,Organic,38,Other
+3671,2024-10-16,Germany,Social,41,F
+3672,2025-03-02,Australia,Organic,56,M
+3673,2024-08-03,USA,Paid Search,46,F
+3674,2024-01-12,USA,Paid Search,55,F
+3675,2024-07-14,USA,Organic,22,F
+3676,2024-09-20,UK,Social,61,M
+3677,2024-11-22,USA,Social,39,F
+3678,2025-01-21,Germany,Organic,59,M
+3679,2024-05-28,Canada,Paid Search,32,M
+3680,2025-01-01,Canada,Social,48,F
+3681,2025-01-13,India,Social,48,M
+3682,2025-04-10,USA,Paid Search,25,F
+3683,2024-11-09,India,Email,42,F
+3684,2025-05-01,India,Organic,51,M
+3685,2024-05-12,Germany,Organic,61,F
+3686,2025-03-03,USA,Social,64,Other
+3687,2024-01-28,Germany,Social,37,M
+3688,2024-03-02,India,Email,51,F
+3689,2025-06-02,Australia,Organic,27,F
+3690,2024-10-12,Australia,Paid Search,64,M
+3691,2025-01-07,USA,Social,63,M
+3692,2024-12-28,Canada,Organic,69,F
+3693,2025-02-20,India,Paid Search,43,M
+3694,2024-05-27,Germany,Social,36,F
+3695,2024-04-16,Canada,Organic,57,Other
+3696,2024-01-26,Canada,Paid Search,55,F
+3697,2025-06-02,Canada,Organic,29,M
+3698,2024-05-14,USA,Referral,46,M
+3699,2024-12-11,Canada,Organic,51,M
+3700,2024-09-29,UK,Organic,41,M
+3701,2024-04-07,India,Organic,37,M
+3702,2024-09-05,India,Organic,30,F
+3703,2024-02-19,Germany,Organic,39,F
+3704,2024-04-16,UK,Social,30,M
+3705,2024-03-24,USA,Organic,33,F
+3706,2025-05-09,Australia,Organic,27,M
+3707,2024-12-06,UK,Organic,37,F
+3708,2025-07-09,USA,Paid Search,50,M
+3709,2024-09-18,USA,Organic,37,M
+3710,2024-04-30,UK,Social,25,M
+3711,2024-12-31,Germany,Social,59,F
+3712,2025-07-11,UK,Social,40,Other
+3713,2024-11-15,USA,Organic,48,M
+3714,2024-01-11,Germany,Email,45,M
+3715,2024-07-01,Germany,Social,44,M
+3716,2025-07-08,Canada,Organic,40,F
+3717,2024-11-07,India,Paid Search,57,F
+3718,2025-07-25,Germany,Email,62,F
+3719,2024-11-01,USA,Paid Search,65,M
+3720,2024-01-08,India,Paid Search,41,M
+3721,2025-06-07,UK,Social,35,F
+3722,2025-04-02,Germany,Organic,22,Other
+3723,2025-03-05,USA,Referral,41,F
+3724,2025-08-05,Germany,Organic,69,M
+3725,2024-04-27,USA,Organic,31,M
+3726,2025-06-27,India,Organic,61,F
+3727,2024-05-19,USA,Paid Search,57,F
+3728,2025-08-05,USA,Email,52,M
+3729,2024-04-24,UK,Email,47,M
+3730,2024-11-26,Canada,Referral,57,F
+3731,2025-04-18,Germany,Paid Search,23,M
+3732,2024-02-16,India,Paid Search,24,M
+3733,2024-02-10,USA,Paid Search,28,F
+3734,2025-05-24,India,Organic,57,M
+3735,2024-02-06,UK,Referral,40,F
+3736,2025-01-03,India,Paid Search,28,M
+3737,2025-07-16,USA,Paid Search,20,M
+3738,2025-01-03,Germany,Paid Search,43,F
+3739,2024-10-15,UK,Email,38,M
+3740,2024-09-07,India,Organic,27,F
+3741,2025-01-17,USA,Social,19,M
+3742,2024-12-09,UK,Social,57,M
+3743,2024-10-28,USA,Email,58,F
+3744,2024-04-02,India,Organic,30,M
+3745,2025-02-01,Canada,Organic,43,F
+3746,2025-03-19,USA,Paid Search,31,M
+3747,2025-03-01,USA,Email,39,M
+3748,2024-02-15,India,Referral,23,M
+3749,2025-02-25,USA,Social,67,M
+3750,2025-03-13,USA,Organic,55,M
+3751,2024-04-20,India,Organic,64,F
+3752,2025-05-24,UK,Social,33,F
+3753,2024-11-10,USA,Organic,63,M
+3754,2024-10-10,Canada,Social,44,F
+3755,2025-03-09,Australia,Email,28,F
+3756,2024-11-01,India,Paid Search,35,F
+3757,2024-11-22,India,Paid Search,60,Other
+3758,2024-07-06,Germany,Organic,58,M
+3759,2025-07-10,Australia,Organic,55,F
+3760,2025-08-04,Canada,Social,29,F
+3761,2024-03-19,India,Paid Search,51,M
+3762,2025-03-15,India,Organic,66,F
+3763,2024-01-15,India,Organic,20,Other
+3764,2024-08-09,Canada,Organic,34,M
+3765,2025-08-04,UK,Social,22,M
+3766,2024-04-14,USA,Social,23,F
+3767,2024-08-14,UK,Paid Search,69,M
+3768,2024-05-11,India,Paid Search,30,Other
+3769,2025-03-12,UK,Organic,27,F
+3770,2024-10-05,India,Paid Search,21,M
+3771,2024-12-21,UK,Organic,69,F
+3772,2025-07-19,Germany,Referral,42,Other
+3773,2024-11-08,UK,Organic,59,M
+3774,2025-03-16,USA,Paid Search,31,F
+3775,2024-02-28,Canada,Organic,51,F
+3776,2024-05-09,Germany,Email,64,F
+3777,2025-07-22,India,Organic,52,F
+3778,2025-05-30,India,Referral,44,M
+3779,2025-01-29,UK,Organic,28,F
+3780,2024-08-14,India,Email,30,M
+3781,2024-04-29,India,Social,49,F
+3782,2025-05-26,India,Organic,41,M
+3783,2025-04-16,India,Organic,20,Other
+3784,2024-05-25,USA,Paid Search,28,M
+3785,2024-12-19,UK,Email,40,M
+3786,2025-01-06,India,Email,27,Other
+3787,2024-10-13,Germany,Organic,46,M
+3788,2025-07-10,India,Paid Search,33,M
+3789,2024-03-15,USA,Organic,33,F
+3790,2024-06-03,India,Organic,23,F
+3791,2024-02-27,Germany,Social,44,F
+3792,2025-02-19,Australia,Paid Search,27,M
+3793,2025-01-21,USA,Organic,50,M
+3794,2025-08-15,India,Email,66,M
+3795,2024-11-21,India,Social,65,M
+3796,2024-03-31,India,Email,52,F
+3797,2024-09-27,Canada,Organic,59,M
+3798,2024-02-23,India,Referral,65,F
+3799,2025-02-06,Australia,Social,53,F
+3800,2025-02-08,UK,Paid Search,31,M
+3801,2025-05-29,USA,Organic,44,F
+3802,2024-07-22,Canada,Email,62,M
+3803,2024-07-05,India,Paid Search,52,M
+3804,2024-02-12,Germany,Email,36,M
+3805,2024-09-06,India,Social,26,F
+3806,2024-10-12,Canada,Email,25,F
+3807,2025-03-28,USA,Social,37,F
+3808,2025-03-28,India,Referral,59,M
+3809,2024-03-25,Canada,Organic,46,F
+3810,2024-06-20,India,Organic,21,F
+3811,2024-11-02,India,Social,65,M
+3812,2024-07-20,Germany,Paid Search,39,M
+3813,2024-01-16,USA,Social,38,M
+3814,2025-05-22,Canada,Social,60,F
+3815,2025-03-14,UK,Paid Search,37,M
+3816,2024-11-08,UK,Email,50,F
+3817,2024-07-09,India,Paid Search,65,F
+3818,2025-05-20,India,Email,44,F
+3819,2024-01-22,Australia,Organic,49,M
+3820,2024-09-24,India,Social,36,M
+3821,2025-04-25,USA,Email,64,F
+3822,2025-07-25,India,Organic,21,M
+3823,2024-05-30,India,Paid Search,32,M
+3824,2025-01-25,UK,Paid Search,69,F
+3825,2024-04-23,Germany,Social,43,M
+3826,2024-03-10,Germany,Paid Search,27,F
+3827,2024-07-30,Canada,Organic,39,F
+3828,2025-06-15,India,Email,31,M
+3829,2025-02-17,USA,Organic,45,F
+3830,2024-10-20,India,Paid Search,30,M
+3831,2024-06-18,Germany,Social,38,F
+3832,2024-03-25,USA,Organic,65,M
+3833,2024-06-11,UK,Organic,22,M
+3834,2024-04-01,India,Referral,57,M
+3835,2024-04-22,Canada,Social,22,M
+3836,2025-02-16,Canada,Organic,41,M
+3837,2024-03-20,Canada,Email,52,F
+3838,2024-01-29,India,Paid Search,67,F
+3839,2024-11-21,Australia,Organic,31,M
+3840,2024-06-20,India,Social,20,M
+3841,2024-09-29,USA,Paid Search,57,F
+3842,2024-03-24,India,Organic,64,M
+3843,2024-05-05,India,Email,47,F
+3844,2024-09-21,UK,Organic,21,F
+3845,2025-02-18,India,Organic,44,M
+3846,2024-09-05,USA,Organic,38,M
+3847,2024-11-21,UK,Email,41,M
+3848,2024-11-09,Canada,Social,20,F
+3849,2024-06-10,UK,Referral,34,F
+3850,2024-06-16,UK,Organic,69,M
+3851,2024-09-12,India,Email,20,F
+3852,2024-01-20,Canada,Social,65,M
+3853,2025-02-15,India,Paid Search,44,F
+3854,2025-01-03,India,Organic,48,F
+3855,2024-07-02,India,Email,66,F
+3856,2024-08-12,UK,Organic,29,F
+3857,2024-07-16,USA,Social,69,F
+3858,2025-01-25,UK,Paid Search,32,M
+3859,2025-03-31,USA,Organic,36,M
+3860,2024-03-06,USA,Referral,41,F
+3861,2024-09-04,USA,Email,49,M
+3862,2024-01-09,India,Paid Search,34,F
+3863,2024-09-28,USA,Social,59,F
+3864,2024-05-28,UK,Paid Search,19,M
+3865,2024-07-20,USA,Social,52,M
+3866,2024-09-30,India,Organic,52,M
+3867,2024-07-13,UK,Paid Search,45,F
+3868,2024-08-24,USA,Paid Search,49,F
+3869,2025-04-03,India,Paid Search,56,M
+3870,2025-05-01,India,Paid Search,65,M
+3871,2024-01-04,USA,Organic,29,M
+3872,2024-08-14,USA,Referral,42,Other
+3873,2025-05-23,UK,Organic,47,F
+3874,2024-11-14,India,Organic,35,M
+3875,2024-05-03,Germany,Paid Search,68,M
+3876,2024-12-22,India,Social,44,F
+3877,2024-03-27,UK,Organic,48,F
+3878,2024-01-14,Germany,Paid Search,28,M
+3879,2025-01-14,USA,Social,39,F
+3880,2024-11-05,India,Organic,50,M
+3881,2025-03-29,USA,Referral,40,M
+3882,2024-07-25,Australia,Paid Search,58,F
+3883,2025-05-27,Australia,Social,25,M
+3884,2024-09-09,India,Organic,25,M
+3885,2025-03-18,Germany,Social,35,F
+3886,2024-03-01,USA,Email,34,M
+3887,2024-02-28,India,Organic,60,F
+3888,2025-04-14,UK,Organic,63,Other
+3889,2025-05-15,USA,Organic,42,F
+3890,2025-07-19,USA,Organic,44,F
+3891,2024-07-13,Canada,Referral,33,M
+3892,2024-01-14,USA,Social,45,F
+3893,2025-08-10,UK,Social,54,F
+3894,2024-12-26,USA,Referral,55,F
+3895,2024-05-28,India,Email,68,M
+3896,2025-04-03,USA,Email,48,M
+3897,2025-06-26,Australia,Paid Search,35,F
+3898,2024-06-19,USA,Paid Search,21,F
+3899,2025-04-06,India,Organic,53,F
+3900,2025-04-17,UK,Paid Search,59,Other
+3901,2024-10-28,Australia,Paid Search,46,F
+3902,2025-01-14,Australia,Organic,65,M
+3903,2024-06-10,UK,Paid Search,34,M
+3904,2025-07-11,USA,Paid Search,20,M
+3905,2025-08-12,UK,Paid Search,50,M
+3906,2025-08-11,Canada,Organic,24,F
+3907,2025-03-18,Canada,Paid Search,22,M
+3908,2024-01-26,Canada,Paid Search,54,F
+3909,2024-08-07,USA,Social,40,M
+3910,2024-09-23,India,Social,49,F
+3911,2025-07-29,UK,Organic,56,F
+3912,2024-11-24,India,Organic,37,F
+3913,2024-11-17,India,Paid Search,49,F
+3914,2024-03-29,USA,Organic,46,M
+3915,2025-04-21,UK,Paid Search,48,M
+3916,2024-07-20,Canada,Referral,54,F
+3917,2024-02-25,Germany,Organic,37,M
+3918,2025-08-15,Canada,Paid Search,44,M
+3919,2024-04-24,Germany,Social,48,F
+3920,2024-01-10,Germany,Paid Search,25,F
+3921,2024-02-16,India,Organic,29,M
+3922,2024-09-28,UK,Organic,22,F
+3923,2024-03-02,India,Referral,28,M
+3924,2025-05-20,India,Organic,40,F
+3925,2024-11-03,India,Social,66,F
+3926,2024-07-13,Canada,Email,65,M
+3927,2024-01-02,Germany,Organic,57,M
+3928,2024-10-14,Australia,Social,47,Other
+3929,2024-03-31,Australia,Organic,28,F
+3930,2025-08-09,Canada,Organic,36,M
+3931,2024-06-23,India,Paid Search,57,M
+3932,2024-10-11,Canada,Referral,65,M
+3933,2024-01-12,Canada,Organic,68,Other
+3934,2024-03-19,Canada,Organic,38,Other
+3935,2024-05-04,India,Referral,43,M
+3936,2024-02-01,India,Organic,44,Other
+3937,2025-03-11,Australia,Email,20,M
+3938,2025-07-21,India,Social,24,M
+3939,2025-08-14,USA,Social,20,M
+3940,2024-06-08,USA,Email,56,M
+3941,2025-04-18,India,Social,29,F
+3942,2024-10-29,India,Organic,54,F
+3943,2024-01-28,Australia,Referral,37,F
+3944,2024-02-24,Canada,Referral,59,M
+3945,2024-11-24,Australia,Email,24,F
+3946,2024-09-11,India,Social,34,F
+3947,2024-01-06,India,Paid Search,28,M
+3948,2025-07-12,USA,Paid Search,40,F
+3949,2025-03-14,USA,Organic,47,Other
+3950,2024-10-28,India,Paid Search,26,M
+3951,2025-08-15,Germany,Social,52,F
+3952,2025-08-05,Australia,Social,68,F
+3953,2025-08-07,USA,Paid Search,20,M
+3954,2024-06-04,USA,Paid Search,22,M
+3955,2025-06-12,USA,Social,67,F
+3956,2024-10-29,India,Paid Search,51,F
+3957,2025-03-11,India,Referral,65,M
+3958,2025-05-30,USA,Social,54,M
+3959,2024-04-07,USA,Organic,55,M
+3960,2024-09-25,USA,Organic,26,F
+3961,2024-03-18,Canada,Social,44,Other
+3962,2024-06-16,India,Paid Search,36,M
+3963,2024-09-05,India,Email,61,F
+3964,2025-05-28,India,Organic,20,Other
+3965,2025-06-01,India,Organic,18,M
+3966,2024-08-21,UK,Paid Search,46,M
+3967,2024-07-16,Canada,Social,68,M
+3968,2024-11-14,Canada,Referral,69,F
+3969,2025-07-01,UK,Email,48,M
+3970,2025-08-08,USA,Paid Search,40,F
+3971,2024-05-16,India,Email,32,M
+3972,2024-04-21,USA,Organic,69,F
+3973,2025-02-28,USA,Social,27,F
+3974,2024-06-29,Canada,Referral,24,M
+3975,2024-04-29,USA,Paid Search,44,F
+3976,2024-01-19,India,Referral,38,M
+3977,2024-08-29,India,Organic,43,F
+3978,2024-08-23,India,Organic,64,F
+3979,2024-12-03,Australia,Paid Search,32,F
+3980,2024-04-30,India,Referral,63,F
+3981,2025-03-04,India,Paid Search,29,F
+3982,2025-02-12,India,Email,34,F
+3983,2024-10-04,Canada,Organic,18,M
+3984,2024-04-18,USA,Social,53,M
+3985,2024-10-31,UK,Social,62,F
+3986,2025-02-08,USA,Organic,64,F
+3987,2024-08-11,India,Social,26,F
+3988,2024-06-07,Canada,Social,57,F
+3989,2024-10-30,India,Paid Search,25,F
+3990,2024-08-01,India,Organic,50,M
+3991,2024-08-28,UK,Organic,54,M
+3992,2024-07-28,India,Referral,25,M
+3993,2024-07-01,India,Social,23,M
+3994,2025-03-06,Canada,Email,21,M
+3995,2024-10-03,USA,Social,54,F
+3996,2024-10-06,India,Email,49,F
+3997,2025-01-26,USA,Organic,24,M
+3998,2024-08-04,Germany,Paid Search,44,F
+3999,2024-03-01,India,Social,59,F
+4000,2025-05-26,India,Organic,30,Other
